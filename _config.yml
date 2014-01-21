@@ -1,0 +1,11 @@
+url:       http://lorchess.ru
+title:     LOR Chess
+permalink: pretty
+
+source:      ./
+destination: ./public
+exclude:     ['Gemfile*', 'README', 'vendor']
+keep_files:  ['.gitkeep']
+
+encoding: UTF-8
+markdown: redcarpet
