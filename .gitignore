@@ -1,0 +1,4 @@
+/.ruby-*
+/public/*
+!/public/.gitkeep
+/*/_drafts/
