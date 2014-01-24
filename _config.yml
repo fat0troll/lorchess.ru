@@ -10,3 +10,14 @@ keep_files:  ['.gitkeep']
 encoding: UTF-8
 markdown: redcarpet
 gems:     ['jekyll-assets']
+
+#
+# Plugin: jekyll-assets
+#
+assets:
+  #
+  # Sets compressors. No compression by default.
+  #
+  compress:
+    js:  yui
+    css: yui
