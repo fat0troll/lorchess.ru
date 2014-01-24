@@ -9,3 +9,4 @@ keep_files:  ['.gitkeep']
 
 encoding: UTF-8
 markdown: redcarpet
+gems:     ['jekyll-assets']
