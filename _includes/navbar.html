@@ -17,7 +17,7 @@
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Турниры <b class="caret"></b></a>
         <ul class="dropdown-menu">
           {% for trn in site.data.tournaments %}
-            <li><a href="/tournaments/{{ trn.url }}">{{ trn.title }}</a></li>
+            <li><a href="/{{ trn.url }}">{{ trn.title }}</a></li>
           {% endfor %}
         </ul>
       </li>
