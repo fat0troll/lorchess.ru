@@ -1,0 +1,28 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.url }}/</loc>
+    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+  </url>
+
+  {% assign exclude = ".htaccess sitemap.xml robots.txt" | split: " " %}
+  {% for page in site.pages %}
+    {% assign basename = page.url | split: "/" | last %}
+    {% if exclude contains basename %}
+    {% else %}
+      <url>
+        <loc>{{ site.url }}{{ page.url }}</loc>
+        <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+      </url>
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+    </url>
+  {% endfor %}
+</urlset>
