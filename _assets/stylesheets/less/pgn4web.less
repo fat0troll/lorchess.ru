@@ -1,0 +1,36 @@
+@squareSize: 56px;
+@boardBorderWidth: 4px;
+@boardSize: 8 * @squareSize + 2 * @boardBorderWidth;
+
+#GameWrapper {
+  float: left;
+  width: @boardSize;
+}
+#TextWrapper {
+  margin-left: @boardSize;
+  padding-left: 15px;
+}
+#GameWrapper.affix {
+  top: 0;
+}
+
+.boardTable {
+  width: @boardSize;
+  height: @boardSize;
+  border: @boardBorderWidth solid #663300;
+}
+.whiteSquare, .blackSquare {
+  width: @squareSize;
+  height: @squareSize;
+}
+.pieceImage {
+  height: @squareSize;
+  width: @squareSize;
+}
+
+.whiteSquare, .highlightWhiteSquare {
+  background: #FFCC99;
+}
+.blackSquare, .highlightBlackSquare {
+  background: #CC9966;
+}

@@ -1,0 +1,1 @@
+../vendor/pgn4web/pgn4web.js

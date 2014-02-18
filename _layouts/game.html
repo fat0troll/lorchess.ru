@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+</div>
+
+<div class="col-xs-12">
+  <div id="GameWrapper" data-spy="affix">
+    <p></p>
+    <div id="GameSelector"></div>
+    <p></p>
+    <div id="GameBoard"></div>
+    <p></p>
+    <div id="GameButtons"></div>
+  </div>
+
+  <div id="TextWrapper">
+    <p></p>
+    <b><span id="GameWhite"></span>&nbsp;-&nbsp;<span id="GameBlack"></span>&nbsp;&nbsp;<span id="GameResult"></span></b>
+    <p></p>
+    <div id="GameText"></div>
+    <p></p>
+  </div>
+</div>
+
+<!-- pgn4web JavaScript -->
+{% javascript pgn4web %}
+
+<script type="text/javascript">
+ "use strict";
+
+ SetPgnUrl("{{ page.pgn }}");
+ SetImagePath("/assets/img/chesspieces/wikipedia");
+ SetImageType("png");
+ SetGameSelectorOptions("Выбрать партию ...", false, 0, 0, 0, 15, 15, 0, 10); // (head, num, chEvent, chSite, chRound, chWhite, chBlack, chResult, chDate);
+ SetCommentsOnSeparateLines(true);
+ SetShortcutKeysEnabled(true);
+</script>
