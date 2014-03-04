@@ -1,5 +1,5 @@
-/* Fix the position of chess board while scrolling */
 $(function() {
+  /* Fix the position of chess board while scrolling */
   if (obj = $('#GameWrapper')) {
     obj.affix({
       offset: {
@@ -8,7 +8,12 @@ $(function() {
         }
       }
     })
-  }
+  };
+
+  /* Sort a tournament table with tablesorter */
+  $('.tablesorter').tablesorter({
+    widgets: ['zebra']
+  });
 })
 
 /* Stylize pgn4web elements by Bootstrap */
