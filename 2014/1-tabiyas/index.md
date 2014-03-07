@@ -11,3 +11,4 @@ title:  "LORChess: Табии"
 1. [Итальянская партия. Гамбит Эванса](evans-gambit/)
 2. [Французская защита. Вариант Винавера](winawer-variation/)
 3. [Разменный вариант ферзевого гамбита](karlsbad-pawn-structure/)
+4. [Волжский гамбит](benko-gambit/)

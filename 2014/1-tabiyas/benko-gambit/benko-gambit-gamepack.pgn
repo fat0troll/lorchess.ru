@@ -1,0 +1,923 @@
+[Event "Linares Anibal op 04th"]
+[Site "Linares"]
+[Date "1997.??.??"]
+[Round "10"]
+[White "Lalic, Bogdan"]
+[Black "Khalifman, Alexander"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2585"]
+[BlackElo "2650"]
+[Annotator "Stohl,I"]
+[PlyCount "54"]
+[EventDate "1997.02.??"]
+[Source "ChessBase"]
+[SourceDate "1997.06.01"]
+
+1. d4 1... Nf6 2. c4 c5 3. d5 b5 4. cxb5 {Khalifman has been having excellent
+results with the Volga gambit lately (see the games in this CBM!) As he has
+certainly done some deep analysis in the main lines and believes in Black's
+counterchances, with White he tends to play sidelines, also wth success.;
+Khalifman,A-Leko,P/Ubeda (9) 1997/1-0} 4... a6 5. f3 e6 6. e4 exd5 7. e5 (7.
+exd5 Bd6 8. Qe2+ Kf8 9. Nc3 axb5 10. Be3 10... c4 $1 11. Kf2 Ra5 12. g3 {
+Bareev,E-Khalifman,A/RUS-ch/1995/} 12... Bb7 $1 $36 {Bareev}) 7... Qe7 8. Qe2
+Ng8 9. Nc3 Bb7 10. Nh3 10... c4 $5 {Since 1991, when it first appeared in
+Hertneck's games, this move became Black's main alternative in this sharp line.
+} 11. Be3 (11. Qf2 $6 $143 11... axb5 12. Nf4 Qxe5+ 13. Kd1 Nf6 14. Bxc4 bxc4
+15. Re1 Ne4 16. Qb6 Bc6 17. Nfxd5 Bxd5 18. Nxe4 Be6 19. Qb7 19... Qa5 {
+0-1, Lobron,E-Hertneck,G/Munich/1991/ This game started the popularity of 10...
+c4!}) (11. Bg5 Qc5 12. O-O-O axb5 13. Be3 Qc6 14. Nf4 Ne7 15. a3 Na6 16. Nfxd5
+Nxd5 17. Nxd5 Nc5 18. Bxc5 Bxc5 19. Qd2 O-O 20. Be2 Rfe8 21. f4 Qxd5 22. Qxd5
+Bxd5 23. Rxd5 Be3+ 24. Kc2 Bxf4 25. Rxb5 c3 26. bxc3 26... Rxa3 $15 {
+,Komljenovic,L-Wendt,R/2.BLO/1994/}) (11. b6 $5 11... Qc5 12. Be3 d4 13. Bf2 d3
+14. Qe3 Qxe3+ (14... Qb4 $5) 15. Bxe3 Nc6 16. Nd5 O-O-O 17. f4 Nxe5 18. fxe5
+Bxd5 19. Nf4 Bc6 20. Rc1 Re8 21. Rxc4 Rxe5 22. Kd2 Nf6 23. Bxd3 Ne4+ 24. Bxe4
+Rxe4 25. Rxe4 Bxe4 26. Rc1+ 26... Bc6 $13 {
+,Del Rey,D-Renteria,J/La Coruna op/1995/}) (11. Nf4 Qc5 12. a4 d4 13. bxa6 Nxa6
+14. Ne4 Qb4+ 15. Kf2 d3 16. Qe3 Bc5 17. Nxc5 Nxc5 18. Nh5 Ne7 19. Nxg7+ Kd8 20.
+Qe1 Qb6 21. Be3 Rg8 22. Nh5 Qxb2+ 23. Kg1 Qxe5 24. Ng3 f6 25. f4 Qd5 26. Qb4
+Ne4 27. Bb6+ Ke8 28. Re1 28... f5 $17 {Adianto,U-Polgar,J/Jakarta m/1996/})
+11... axb5 $1 {
+Only this move can justify Black's idea. The alternatives are much weaker:} (
+11... Qb4 12. b6 $1 12... Bc5 (12... Qa5 13. Qd2 Bb4 14. Rd1 Ne7 15. a3 Bxc3
+16. Qxc3 Qxc3+ 17. bxc3 Nbc6 18. f4 Na5 19. Kf2 Bc6 20. Be2 Nb3 21. Bf3 O-O 22.
+g4 Rab8 23. Rhe1 Rfd8 24. f5 $16 {Soffer,R-Belotti,B/Biel op/1992/}) 13. O-O-O
+(13. Bxc5 $143 13... Qxc5 14. Qf2 d4 15. O-O-O Nc6 16. Ne4 Qxe5 17. Bxc4 Nge7
+18. Rhe1 O-O 19. Kb1 Nf5 20. Nhg5 Ne3 21. Rxe3 dxe3 22. Qxe3 Na5 23. Qd3 Bxe4
+24. Nxe4 Rab8 25. f4 Qxf4 26. Bd5 Rxb6 27. Qc3 Nc6 28. Nd6 28... Nb4 {
+0-1,Neverov,V-Bukhman,E/St.Petersburg op/1994/}) 13... Qxb6 14. Bxc5 Qxc5 15.
+Nf4 $5 (15. Qf2 Qxf2 16. Nxf2 Ne7 17. Ng4 Ra7 18. Ne3 Nbc6 19. Nexd5 Nxe5 20.
+Nb6 N7g6 21. Nxc4 Kd8 22. Nd6 Bc6 23. Rd4 Kc7 24. Be2 Nf4 25. Rxf4 Kxd6 26.
+Rd1+ Ke6 27. Rfd4 $36 {Volke,K-Hertneck,G/BL/1991/}) 15... Ne7 16. Qd2 d4 17.
+Qxd4 Qxd4 18. Rxd4 Nbc6 19. Rxc4 Nxe5 20. Rb4 Bc6 21. Bxa6 O-O 22. Re1 f6 23.
+Bf1 Rfc8 24. Kb1 $16 {Zoler,D-Mencinger,V/Groningen op/1994/}) (11... Qd8 12.
+O-O-O (12. b6 $1 $16) 12... axb5 13. Nf4 Ne7 14. Qf2 Qa5 15. Bb6 Qa6 16. Bc5
+Bc6 17. g4 Qb7 18. Qd4 Na6 19. Bd6 Nc7 20. Bxc7 Qxc7 21. Nfxd5 Nxd5 22. Nxd5
+Qa7 23. Qxa7 Rxa7 24. a3 b4 25. Bxc4 bxa3 26. bxa3 Bxa3+ 27. Kd2 27... O-O $11
+{Zabala,A-Gomez Jurado,L/ESP-ch Linares/1993/}) (11... Qxe5 12. O-O-O Nf6 13.
+Qd2 Bb4 14. Bf4 Qf5 15. g4 Qg6 16. Qe3+ Be7 17. Qb6 Bc8 18. Bxb8 O-O 19. Bg3
+axb5 20. Nf4 Qh6 21. h4 Nxg4 22. Ncxd5 Qxb6 23. Nxb6 $18 {
+Bernard,C-Parant,F/Le Touquet op/1993/}) 12. O-O-O (12. Nf4 12... Qxe5 $1 (
+12... Qb4 13. Kf2 Ne7 14. Rd1 Na6 15. g3 Qa5 16. Bh3 Bc6 17. Nfxd5 Nxd5 18.
+Nxd5 Bc5 19. Kg2 O-O 20. a3 Rfe8 21. Bd2 Qd8 22. Bc3 Nc7 23. Nxc7 Qxc7 24. Qd2
+Re7 25. Rhe1 Rae8 26. Bf5 $14 {Ivanov,S-Sivokho,S/St.Petersburg-ch/1996/}) 13.
+O-O-O Ne7 14. Qd2 b4 15. Ncxd5 Nxd5 16. Nxd5 16... c3 $1 17. bxc3 Bxd5 18. Qxd5
+Qxe3+ 19. Kb1 Ra7 20. Bc4 Kd8 21. cxb4 Bxb4 22. Qb5 Na6 23. Rd5 23... Re8 $19 {
+Shipov,S-Ivanov,V/RUS-ch Elista/1994/}) (12. Nxb5 $6 $143 12... Qb4+ 13. Nc3
+13... Ne7 $1 (13... Bc5 14. O-O-O Ne7 15. Nf4 O-O 16. Bxc5 Qxc5 17. Qd2 Ra5 18.
+Nh5 Re8 19. Kb1 Qb6 20. g4 20... Ng6 $36 {
+Sakalauskas,V-Buchman,E/Siauliai/1995/}) 14. a3 Qa5 15. Qf2 Ra6 16. Qd2 Nf5 17.
+Bf2 Bc5 18. Rd1 Bxf2+ 19. Nxf2 O-O 20. Ne2 Qc7 21. Qf4 Ne7 22. Ng4 Ng6 23. Qg3
+d6 24. exd6 Rxd6 25. Nd4 f5 26. Nf2 Nc6 27. Be2 Nxd4 28. Rxd4 f4 29. Qg5 Re8
+30. Ng4 Rde6 31. Rd2 c3 32. bxc3 32... Qxc3 {
+0-1,Ivanov,S-Khalifman,A/St.Petersburg-ch/1997/}) 12... Qb4 {
+Again Black chooses the only playable move, as the practical examples show.} (
+12... Qxe5 $2 $143 13. f4 Qe7 14. Rxd5 $1 14... d6 15. Rxb5 Nf6 16. Qd2 d5 17.
+Bxc4 dxc4 18. Bc5 Qd7 19. Qe3+ Qe6 20. Rxb7 Qxe3+ 21. Bxe3 Nbd7 22. Kb1 O-O-O
+23. Ra7 Ng4 24. Bd4 Nb8 25. Nb5 Rd7 26. Rc1 $18 {
+Dlugy,M-Alburt,L/USA-ch m/1991/}) (12... b4 13. Nb5 Qxe5 14. Re1 d6 15. Nc7+
+Kd7 16. Nxa8 Bxa8 17. Qd1 Bc6 18. Bg5 Qf5 19. g4 Qg6 20. Qd4 f6 21. Be3 Nh6 22.
+Nf4 Qf7 23. g5 fxg5 24. Bh3+ g4 25. Ng6 {1-0, Lobron,E-Kuntz,P/Cannes op/1992/}
+) (12... Qd8 13. Nf4 Ne7 14. Nxb5 Ng6 15. Nxd5 Bxd5 16. Rxd5 Rxa2 17. Kb1 Ra8
+18. Qf2 Na6 19. Bxc4 Be7 20. Nd6+ Bxd6 21. Rxd6 Nb4 22. Bb6 Qg5 23. Re1 O-O 24.
+Qc5 Na6 25. Qe3 Qxg2 26. Rxd7 Qxh2 27. e6 $40 {
+Pecorelli Garcia,H-Matamoros,C/Capablanca mem-B/1994/}) 13. Nf4 ({The idea of
+the Q-sacrifice is not new, it appeared for the first time in the following
+game:} 13. Rxd5 13... Qxc3+ $1 14. bxc3 Bxd5 15. Nf4 Ba3+ 16. Kb1 Ne7 17. Qd2
+Be6 18. Nh5 Rg8 19. Nf4 Nbc6 20. Nxe6 fxe6 21. f4 Kf7 22. Be2 Nd5 23. Bf3 Nce7
+24. f5 Rgb8 25. fxe6+ dxe6 26. Rf1 Kg8 27. Ka1 27... b4 $40 {
+Klein,E-Waitzkin,J/USA-chJ New York+/1993/}) 13... Ne7 14. Bb6 $5 { Rd5} (14.
+g3 Qa5 15. Qd2 b4 16. Ncxd5 Nxd5 17. Nxd5 c3 18. bxc3 bxc3 19. Qxc3 Ba3+ 20.
+Kc2 Bxd5 21. Rxd5 Qxd5 22. Qc8+ Ke7 23. Bg5+ f6 24. exf6+ gxf6 25. Bxf6+ Kxf6
+26. Qxh8+ Ke7 27. Qxh7+ Kd8 28. Qh8+ Kc7 29. Qc3+ 29... Nc6 $17 {
+Wagner,C-Solozhenkin,E/St.Petersburg-Paris/1996/}) (14. Rxd5 Nxd5 (14... Qxc3+
+$5 15. bxc3 15... Nxd5 $44) 15. Nfxd5 Bxd5 16. Nxd5 Qa5 17. Bb6 Qxa2 18. Nc7+ (
+18. Nf6+ 18... Ke7 $11) 18... Ke7 19. Nd5+ $11) 14... h5 $5 $146 {
+Rh6 A new move, which practically forces White to act.} (14... g6 15. Rxd5
+Qxc3+ (15... Nxd5 16. Nfxd5 Bh6+ 17. Kb1 Bxd5 18. Nxd5 Qa4 19. Nc7+ Ke7 20.
+Bc5+ Kd8 21. Nxa8 Qxa8 22. g3 Qd5 23. Bb6+ Kc8 24. Bg2 Re8 25. f4 Qe6 26. Qf2
+Bf8 27. Rc1 Nc6 28. a4 Qf5+ 29. Qc2 $16 {Mincsovics,M-Masat,A/HUN-chT2/1993/})
+16. bxc3 Nxd5 17. Nxd5 Bxd5 18. Kb1 Nc6 19. Qe3 Be7 20. Bc5 O-O 21. Bxe7 Nxe7
+22. Qc5 Rfe8 23. a3 Bc6 24. Kb2 Nd5 25. Qd4 Re6 26. h4 h5 27. f4 d6 28. Rg1
+dxe5 29. fxe5 Rae8 30. g4 Rxe5 31. gxh5 Rxh5 32. Rg5 $1 $14 {
+Miniboeck,G-Danailov,S/Vienna op/1996/}) (14... Ra6 $2 15. Bc7 $40) 15. Rxd5
+15... Qxc3+ $1 {Forced, but strong anyway.} 16. bxc3 Nxd5 17. Nxd5 Bxd5 18. Qd2
+{Black's 14-th move not only stops possible   expansion (g4), but enables in
+favorable circumstances a Rh6-a6 maneuver to strengthen the attack.} ({
+Anyway, analoguous to the Miniboeck-Danailov game, White probably should have
+tried} 18. Kb1 $5 18... Nc6 $142 (18... Rh6 19. Qe3 (19. Be3 19... Rha6 $40)
+19... b4 20. cxb4 (20. Bc5 20... Rha6 $5 $40) 20... c3 21. Qxc3 $1 21... Rc6
+22. Bc5 $14) 19. Qe3 19... b4 $44) 18... Be6 19. Be2 $2 {But this is
+definitely a mistake, after which Black starts a strong sacrificial attack.} ({
+Critical for the evaluation of Black's new idea was} 19. Bc7 $5 $142 19... Nc6
+20. Bd6 Bxd6 21. exd6 21... O-O $44) 19... Nc6 20. f4 (20. Bc7 b4 21. Bd6 21...
+b3 $1 $19) 20... b4 $40 21. f5 (21. cxb4 21... Nxb4 $19 { Ra2,c3!}) 21... bxc3
+22. Qxc3 22... Ra3 $1 (22... Bxf5 23. Bxc4 $13) 23. Qb2 (23. Qc2 Nb4 24. Qe4
+Bd5 25. Qd4 Nxa2+ 26. Kb1 (26. Kb2 c3+ 27. Kb1 27... Nb4 $19) 26... Be4+ $1 27.
+Ka1 Nc3+ 28. Kb2 28... Ra2+ $1 29. Kxc3 Rc2#) (23. Qa1 Bxf5 (23... Bd5 24. Rd1
+24... Nb4 $17) 24. Bxc4 24... Bb4 $1 { Qa1, Rc3,Bc3}) 23... c3 24. Qb5 {
+Now Black winds up his attack with a nice tactical finish.} (24. Qc2 24... Nb4
+$19) (24. Qb1 Bxa2 25. Qe4 25... Bb3 $19) 24... Bxf5 25. Rf1 25... Rxa2 $1 26.
+Rxf5 26... Nb4 { Ra1#} 27. Qa5 (27. Bd3 $8 27... Ra1+ 28. Bb1 c2 (28... g6 $2
+29. Be3 $1 $18) 29. Qxb4 Bxb4 30. Kxc2 30... Rh6 $19 {
+with a technically won endgame. Now White loses at once.}) 27... g6 $1 { Bh6} (
+27... Rxa5 28. Bxa5 28... g6 $19) 0-1
+
+[Event "Ciocaltea Memorial"]
+[Site "Bucharest"]
+[Date "1997.??.??"]
+[Round "8"]
+[White "Notkin, Maksim"]
+[Black "Nisipeanu, Liviu Dieter"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2515"]
+[BlackElo "2545"]
+[Annotator "Stohl,I"]
+[PlyCount "86"]
+[EventDate "1997.03.??"]
+[Source "ChessBase"]
+[SourceDate "1997.09.29"]
+
+1. d4 {Milu,R} 1... Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 6... c4 $5
+{Today the topical theoretical struggle concentrates on the line} (6... exd5 7.
+e5 Qe7 8. Qe2 Ng8 9. Nc3 Bb7 10. Nh3 10... c4 $5 {Black's 6-th move is played
+very rarely. It's idea is to disturb White's K in the center with Bc5,
+regardless of the sacrificed pawn or pawns.}) 7. Nc3 ({
+The most obvious and testing alternative is accepting the gambit with} 7. Bxc4
+$5 7... axb5 $5 (7... Bc5 8. Nc3 (8. dxe6 fxe6 9. Nc3 axb5 (9... O-O 10. Bg5
+axb5 11. Bxb5 Qb6 12. Nh3 Nc6 13. Bxc6 dxc6 14. Qc2 e5 15. Nf2 Ba6 16. Ncd1 Kh8
+17. Rc1 Nd7 18. Ng4 Bb4+ 19. Nc3 Nc5 20. Nf2 Ne6 21. Bd2 Rad8 22. a3 Bc5 23.
+Ncd1 Qb5 24. Nc3 24... Qc4 $40 {Wikstrom,P-Malmstig,E/Borlange SWE-chJ/1995/})
+10. Bxb5 O-O 11. Nh3 d5 12. e5 Nfd7 13. Qe2 Qh4+ 14. Kf1 Rf5 15. Bg5 Rxg5 16.
+Nxg5 Qxg5 17. Re1 Bd4 18. Nxd5 exd5 19. e6 Ne5 20. e7 Qxe7 21. Rd1 Qc5 22. b4
+Qxb4 23. f4 23... Bg4 {0-1,Strating,S-Blees,A/NLD-ch op/1994/}) (8. Ne2 Qb6 9.
+Nbc3 axb5 10. Bb3 O-O 11. Bg5 Ne8 (11... Bb7 12. Qd2 Ne8 13. Nc1 f6 14. Bh4 Kh8
+15. Bf2 e5 16. Bxc5 Qxc5 17. Qf2 Qxf2+ 18. Kxf2 Nd6 19. Nd3 Na6 20. Rhc1 Rfc8
+21. Nd1 Nc4 22. Ne3 $16 {Sheldon,R-Rodriguez,A/Cala Galdana WChJWU-16/1996/}) (
+11... b4 $5 12. Na4 Rxa4 13. Bxa4 exd5 14. Bxf6 Qxf6 15. Qxd5 Qxb2 16. Rc1 d6
+17. Rc2 Qa1+ 18. Rc1 Qb2 19. Rc2 19... Qa1+ {
+,Hoffman,A-Alvarez Ibarra,D/Elgoibar/1996/}) 12. Qd2 Bf2+ 13. Kf1 Bc5 14. Nd1
+Na6 15. Be3 d6 16. g3 e5 17. Kg2 f5 18. Bc2 fxe4 19. Bxe4 Nf6 20. Nec3 Ra7 21.
+Bd3 $14 { ,Shipov,S-Nesterov,J/Moscow2/1994/}) 8... axb5 9. Bxb5 Qb6 10. Nge2
+O-O 11. Bg5 (11. Kf1 Bb7 12. Bc4 Na6 13. g3 Rfc8 14. Kg2 Bb4 15. b3 Nc7 16. Qd3
+exd5 17. exd5 Ra5 18. Be3 Qd6 19. Ne4 Nxe4 20. fxe4 Re8 21. Bf4 $16 {
+,Law,A-Ledger,S/4NCL9697/1996/}) 11... Na6 12. Qd2 Nc7 13. Bc4 Bb7 14. d6 Bxd6
+15. Be3 Bc5 16. Bxc5 Qxc5 17. Qd4 Qa5 18. O-O d5 19. e5 Nd7 20. Bd3 Rfb8 21. b4
+Qa7 22. f4 Ba6 23. Bxa6 Nxa6 24. Qxa7 Rxa7 25. a3 $16 {
+Solodovnichenko-Sergeev,V/SVK-ch/1997/
+}) (7... Bc5 {Milu,R}) 8. Bb3 (8. Bxb5
+$5 8... Qa5+ 9. Nc3 Bb4 10. Qd3 10... Na6 $13) 8... Bc5 9. Ne2 O-O 10. Nbc3 (
+10. Bg5 d6 11. Nbc3 h6 12. Bh4 b4 13. Na4 Ba7 14. dxe6 fxe6 15. Nd4 g5 16. Nxe6
+Bxe6 17. Bxe6+ Kg7 18. Bg3 Nc6 19. Bd5 Rc8 20. Bf2 Bxf2+ 21. Kxf2 Qa5 22. h3
+Ne5 23. Kg3 Qa7 24. Rf1 Qe3 25. Kh2 Qf4+ 26. Kg1 Qe3+ 27. Kh2 {
+,Tosic,M-Phominyh,A/Alushta3/1993/}) 10... b4 11. Na4 Rxa4 12. Bxa4 exd5 13. e5
+Re8 14. Bb5 (14. Bf4 $16 $142) 14... Qb6 15. Bd3 Rxe5 16. Bf4 Re8 17. Qc2 Nc6
+18. Rc1 Ba6 19. Kd1 Be3 20. Bxa6 Bxc1 21. Nxc1 Qxa6 22. Re1 Rxe1+ 23. Kxe1 Qb6
+24. Kf1 24... h6 $15 {Rabelo Gil,E-Alvarez Ibarra,D/Capablanca mem-B/1995/}) (
+7. dxe6 fxe6 8. Nc3 Qb6 9. e5 Nd5 10. Nxd5 exd5 11. Qxd5 Bb4+ 12. Bd2 Bb7 13.
+Qxc4 Qe3+ 14. Qe2 Bxd2+ 15. Kd1 Qxe2+ 16. Nxe2 Be3 17. bxa6 17... Nxa6 $17 {
+Haslinger,M-Kucypera,A/EU-chJW16 Zagan/1995/}) 7... axb5 (7... Bc5 8. Na4 Bxg1
+9. Rxg1 axb5 10. Nc3 Qb6 11. Ne2 Ba6 12. Qd4 Qxd4 13. Nxd4 exd5 14. e5 Ng8 15.
+Nf5 Ne7 16. Nxg7+ Kd8 17. Bg5 Rg8 18. Bf6 Nbc6 19. Nf5 b4 20. O-O-O c3 21. Bxa6
+Rxa6 22. Kb1 Ra5 23. Rd3 Rc5 24. g4 $16 {
+Miton,K-Sheider,D/Cala Galdana WChJU-12/1996/}) 8. Be3 $146 {White doesn't
+accept the offered pawn and still doesn't solve the problem of his K and
+harmonious development.} (8. dxe6 $6 8... fxe6 { } 9. e5 b4 10. Nb5 Nd5 11. Qd4
+Nc6 12. Qe4 b3 13. a4 Ncb4 14. Na3 Rxa4 15. Bxc4 Rxa3 16. Rxa3 Nc2+ 17. Kf1
+Nxa3 18. bxa3 Qb6 19. Bb2 Ne3+ 20. Ke1 Qa5+ 21. Kf2 21... Nd1+ {
+0-1,Gonzalez Garcia,J-Fogarasi,T/Budapest Elekes/1995/}) ({More consistent is} 
+8. Nxb5 $5 $142 8... Ba6 9. Nc3 Bc5 10. Nh3 O-O 11. Bg5 Qb6 12. Qd2 Qb4 13.
+Bxf6 gxf6 14. Nf4 Kh8 15. Nh5 Rg8 16. Nxf6 Rg6 17. e5 d6 18. a3 Qa5 19. Nfe4
+Nd7 20. exd6 e5 21. g3 Bd4 22. Bh3 Bc8 23. Bf5 $16 {
+Notkin,M-Nesterov,J/Moscow2/1994/}) 8... Bb4 9. Kf2 O-O (9... Qa5 $5 10. Bd4
+10... Bb7 $132) 10. Nge2 (10. Nxb5 $5 10... exd5 11. e5 11... Re8 $5 (11... Qa5
+12. a4) 12. exf6 12... Rxe3 $5 13. Kxe3 Qb6+ 14. Nd4 14... Nc6 $44) 10... d6
+11. a3 (11. Nxb5 exd5 12. exd5 12... Ba6 $44) 11... Ba5 $5 (11... Qa5 12. Rc1
+Bxc3 13. Nxc3 b4 14. axb4 14... Qxb4 $11) 12. b4 {Now White wisely resists the
+temptation and doesn't open the position in the center} 12... cxb3 (12... Bb6
+$143 13. Bxb6 Qxb6+ 14. Qd4 $1 $36 { b5}) 13. Qxb3 13... Na6 $1 (13... exd5 14.
+Nxd5 Be6 15. Nef4 $14) 14. Rd1 (14. Qxb5 Nc7 15. Qc6 exd5 16. exd5 16... Rb8
+$36) 14... Bb6 (14... b4 $5 $142 15. axb4 Nxb4 16. dxe6 16... Bxe6 $36 { Kf2})
+15. Nd4 15... e5 {A strange decision, Black should try to open the position up
+and get at White's K.} (15... Nc5 $5 16. Qb2 exd5 17. Nxd5 Nxd5 18. exd5 Na4
+19. Qb3 Bd7 20. Bxb5 Bxb5 21. Nxb5 21... Re8 $44) 16. Nc2 $1 (16. Ndxb5 16...
+Ng4+ $1 17. fxg4 Qf6+ 18. Ke1 18... Bxe3 $17) 16... Nc5 17. Qb2 (17. Qxb5 Rb8
+18. Qe2 18... Nh5 $5 $13 { f5}) 17... Nh5 $1 (17... Na4 18. Nxa4 Bxe3+ 19. Nxe3
+bxa4 20. Bd3 $16 { a4,d6, b,c gives White full control of the   and Black has
+no effective counterplay. So he decides to sacrifice a pawn and create threats.
+}) 18. Bxb5 f5 19. exf5 Bxf5 20. Rhe1 (20. Nb4 Qh4+ 21. g3 Qf6 22. Kg2 22...
+Be4 $1 $40) (20. g3 $14 $142 {Milu,R}) 20... Nf4 $2 (20... Bxc2 $5 21. Qxc2
+21... Rxa3 { Rc3!,Ne4} 22. Kg1 22... Nb3 $15) 21. Kg1 (21. Nb4 $5 $14) 21...
+Rf6 (21... Bxc2 $142 22. Qxc2 22... Rxa3 $14) 22. Bf1 (22. Kh1 $1 22... Bxc2
+23. Qxc2 Rxa3 24. Ra1 $36) 22... Rh6 23. Nb4 (23. g3 $5 23... Nh3+ 24. Kg2 $16)
+23... Qg5 $1 24. Nc6 $2 {White underestimates Black's tactical possibilities.}
+(24. g3 $8 24... Na4 25. Qd2 $8 (25. Nxa4 Bxe3+ 26. Rxe3 Nh3+ 27. Bxh3 27...
+Qxe3+ $19) 25... Bxe3+ 26. Qxe3 $16) 24... Na4 $1 25. Qd2 (25. Nxa4 Bxe3+ 26.
+Rxe3 (26. Kh1 Rxh2+ 27. Kxh2 Qh4#) 26... Nh3+ 27. Kh1 Qxe3 28. gxh3 28... Qxf3+
+$19) 25... Nxc3 (25... Bxe3+ $2 26. Rxe3 Nxc3 27. Rxc3 $14) 26. Bxb6 $8 (26.
+Qxc3 Bxe3+ (26... Nh3+ {Milu,R} 27. Kh1 Nf2+ 28. Bxf2 Bxf2 29. Re2 $2 29...
+Rxh2+ 30. Kxh2 Qh4#) 27. Qxe3 Nh3+ 28. Kh1 Qxe3 29. Rxe3 29... Nf2+ $19) 26...
+Nxd1 27. Rxd1 27... Rxa3 $17 28. Qb2 Ra8 (28... Rxf3 $6 $143 29. Ne7+ $1 $17)
+29. g3 Nh3+ 30. Kh1 Kh8 31. Qe2 (31. Ra1 $5 $142 31... Rf8 $17) 31... Ra3 32.
+Nd8 (32. Bd8 32... Qe3 $19) 32... Qf6 33. Ne6 (33. Nc6 $5 $142) 33... Bxe6 34.
+dxe6 Qxe6 35. Bc5 35... Ra2 $19 36. Qb5 $2 (36. Rxd6 Rxe2 37. Rd8+ Qg8 38.
+Rxg8+ Kxg8 39. Bxe2 39... Rc6 $19) 36... Rxh2+ $1 37. Kxh2 37... Nf2+ $6 ({
+Black could win a Q by} 37... Qa2+ $1 38. Be2 (38. Kh1 Nf4+ 39. Bh3 Qg2#) 38...
+Nf4+ 39. Kg1 39... Nxe2+ $19) 38. Kg1 Nxd1 39. Bc4 $6 (39. Bxd6 Rf6 40. Qb8+
+Qg8 41. Qxg8+ Kxg8 42. Bxe5 Rxf3 43. Be2 43... Re3 $19) 39... Qc8 40. Bb6 Nc3
+41. Qb4 d5 (41... Nd5 $1 42. Bxd5 Qc1+ 43. Kg2 Qh1+ 44. Kf2 Rh2+ 45. Ke3 Qc1+
+46. Ke4 Qc2+ 47. Ke3 Re2#) 42. Ba6 Qb8 43. Bb7 43... Rf6 $1 (43... Rf6 44. Qxc3
+Qxb7 45. Bf2 45... d4 $19) 0-1
+
+[Event "RUS-ch m1-2"]
+[Site "Elista"]
+[Date "1997.05.19"]
+[Round "1.1"]
+[White "Sherbakov, Ruslan"]
+[Black "Shovunov, Baatr"]
+[Result "1/2-1/2"]
+[ECO "A57"]
+[WhiteElo "2580"]
+[BlackElo "2340"]
+[Annotator "Stohl,I"]
+[PlyCount "54"]
+[EventDate "1997.05.19"]
+[Source "ChessBase"]
+[SourceDate "1997.08.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 ({Currently the rage is} 5...
+e6 $5 {where Black now scores well-} 6. e4 exd5 7. e5 Qe7 8. Qe2 Ng8 9. Nc3 Bb7
+10. Nh3 10... c4 $1 11. Be3 axb5 12. O-O-O (12. Nxb5 Qb4+ 13. Nc3 Ne7 14. a3
+Qa5 15. Qf2 Ra6 16. Qd2 Nf5 17. Bf2 Bc5 18. Rd1 Bxf2+ 19. Nxf2 O-O 20. Ne2 Qc7
+21. Qf4 Ne7 22. Ng4 Ng6 23. Qg3 d6 24. exd6 Rxd6 25. Nd4 f5 26. Nf2 Nc6 27. Be2
+Nxd4 28. Rxd4 f4 29. Qg5 Re8 30. Ng4 Rde6 31. Rd2 c3 32. bxc3 32... Qxc3 {
+0-1,Ivanov,S-Khalifman,A/St.Petersburg-ch/1997/}) 12... Qb4 13. Nf4 Ne7 14. Qf2
+$5 $146 (14. Bb6 14... h5 $5 15. Rxd5 Qxc3+ 16. bxc3 Nxd5 17. Nxd5 Bxd5 18. Qd2
+Be6 19. Be2 Nc6 20. f4 b4 21. f5 bxc3 22. Qxc3 Ra3 23. Qb2 c3 24. Qb5 Bxf5 25.
+Rf1 Rxa2 26. Rxf5 Nb4 27. Qa5 27... g6 {
+0-1,Lalic,B-Khalifman,A/Linares op/1997/}) 14... Na6 (14... Qa5 $5) 15. Kb1 Nf5
+16. Nfxd5 Bxd5 17. Nxd5 Nxe3 18. Qxe3 Qc5 19. Qxc5 Bxc5 20. Nc3 Nc7 21. a4 bxa4
+22. Bxc4 a3 23. Bxf7+ Ke7 24. b3 a2+ 25. Nxa2 Nb5 26. Rd5 Bd4 27. Rxb5 27...
+Rxa2 $1 28. Kxa2 Ra8+ 29. Kb1 Ra1+ 30. Kc2 30... Rxh1 $44 {
+Lalic,B-Alterman,B/EU-chT Pula/1997/}) (5... g6 6. e4 Bg7 7. e5 $6 {
+Premature, the center unsupported by pieces will crumble.} 7... Ng8 8. f4 d6 9.
+Nf3 Nd7 10. Bd2 dxe5 11. Bc3 Nb6 12. Nxe5 Nf6 13. bxa6 O-O 14. Nc6 Qd7 15. Bxf6
+Bxf6 16. Ne5 Qf5 17. Qf3 Bxe5 18. fxe5 Qxe5+ 19. Qe2 Qxd5 20. Nc3 Qf5 21. Qxe7
+Be6 22. O-O-O 22... Na4 $40 {Volkov,S-Ponomariov,R/RUS-Cup6/1997/}) 6. e4 Qa5+
+7. b4 $5 {This temporary sacrifice has caused the decline of the popularity of
+5...axb5. As the game and also other examples show,matters are far from clear.}
+(7. Bd2 b4 8. Na3 d6 9. Nc4 Qd8 10. a3 bxa3 (10... e6 $1 $142) 11. Rxa3 Rxa3
+12. bxa3 12... e6 $2 13. Ba5 Qe7 14. Qa4+ Qd7 15. Nxd6+ $1 $18 {
+Bb5,Kanstler,B-Rotstein,A/Czerniak-mem Bikurei Haitim/1997/}) 7... cxb4 (7...
+Qxb4+ $5 8. Bd2 Qa4 9. Qc1 Qa7 (9... b4 10. Qxc5 Na6 11. Qd4 (11. Bxa6 e6 12.
+d6 Bxa6 13. Bxb4 Rc8 14. Nc3 Qc2 15. Qa5 Bxd6 16. Bxd6 Qxc3+ 17. Qxc3 Rxc3 18.
+Rb1 Kd8 19. Ne2 Bxe2 20. Kxe2 Ne8 21. e5 Nxd6 22. exd6 Rc8 23. Rhc1 h5 24. h4
+Rh6 25. Rxc8+ Kxc8 26. Rb5 Rg6 27. Kf2 27... e5 $11 {
+Lautier,J-Smirin,I/EU-ch act Cap d`Agde/1996/}) 11... e6 $5 (11... d6 12. Nc3
+Qa5 13. Nb5 g6 14. a3 Bg7 15. axb4 Qd8 16. Rc1 O-O 17. Qe3 e6 18. dxe6 Bxe6 19.
+Bd3 Qb8 20. Ne2 Bd7 21. Nbc3 Nxb4 22. O-O Nxd3 23. Qxd3 23... Ra3 $11 {
+Bellon Lopez,J-Matamoros Franco,C/Las Palmas op/1995/}) 12. d6 Qc6 13. e5 Nd5
+14. f4 b3 15. Na3 Nc5 16. Bb5 Qb6 17. axb3 Nxb3 18. Qxb6 Nxb6 19. Ra2 Bb7 20.
+Ne2 20... g5 $1 21. f5 Nxd2 22. Kxd2 22... exf5 $15 {
+Gurevich,M-Claesen,P/BEL-chT/1996/}) (9... Nxe4 10. fxe4 Qxe4+ 11. Be2 Na6 12.
+Nf3 Nb4 13. Bxb4 cxb4 14. d6 e6 15. Nbd2 Qd5 16. Qb2 Bxd6 17. Qxg7 Rf8 18. Rd1
+Rxa2 19. O-O Bb7 20. Kh1 Qh5 21. Bd3 $16 {
+Csiszar,C-Gyorkos,L/Zalakaros op/1995/}) 10. Bxb5 Na6 (10... e6 11. Nc3 Ba6 12.
+Nge2 c4 13. Rb1 Bc5 14. Bxa6 Nxa6 15. Nb5 Qb8 16. Bf4 e5 17. Bd2 O-O 18. Qxc4
+Ne8 19. Rb3 Nd6 20. Nxd6 Qxd6 21. Kf1 Rfc8 22. Qd3 Nb4 23. Bxb4 Bxb4 24. Qb1
+24... Ra4 $44 {Ziegler,A-Cramling,D/SWE-chT/1995/}) (10... Ba6 11. Qc4 Bxb5 12.
+Qxb5 Na6 13. Ne2 e6 14. dxe6 fxe6 15. Be3 Nb4 16. Qxb4 cxb4 17. Bxa7 Rxa7 18.
+Nd2 Be7 19. O-O O-O 20. Rfc1 Rfa8 21. Rc2 Ne8 22. f4 Nd6 23. Nd4 Kf7 24. e5 Nf5
+25. Nxf5 exf5 26. Nb3 26... d6 $11 {Csiszar,C-Rovid,K/HUN-chT/1994/}) 11. Ne2
+g6 12. Nbc3 Nc7 13. Bc4 d6 14. Nb5 Nxb5 15. Bxb5+ Bd7 16. Bxd7+ Qxd7 17. Bh6
+Qb5 18. Kf2 Qa4 19. Rd1 Bxh6 20. Qxh6 Qxe4 21. Qg7 21... Qh4+ {
+0-1,Gonzalez Garcia,J-Gyimesi,Z/Budapest GM/1995/}) 8. Nd2 8... d6 $5 $146 {
+This very natural move is surprisingly a novelty.} (8... e5 9. Nb3 Qb6 10. Qe2
+(10. Bb2 d6 11. Ne2 Be7 12. Nec1 O-O 13. Nd3 Ra4 14. Qd2 Na6 15. Be2 Nd7 16.
+Nf2 Ndc5 17. O-O h6 18. Kh1 Bg5 19. Qe1 Bd7 20. Bd1 Ra8 21. Bc2 Nxb3 22. axb3
+Rxa1 23. Bxa1 23... Rc8 $17 {Hamgokov,A-Nedobora,M/Moscow op2/1995/}) 10... Bd6
+11. Be3 Qd8 12. Qxb5 Ba6 13. Qb6 Qxb6 14. Bxb6 Ke7 15. Nh3 Rc8 16. Kd2 Rc3 17.
+Nf2 Bb7 18. Bd3 Ne8 19. Rhc1 Rxc1 20. Kxc1 f5 21. Kb2 Nf6 22. Bc4 fxe4 23. fxe4
+Ba6 24. Rc1 Bxc4 25. Rxc4 Na6 26. Nc1 $1 $16 {
+b4,Shipov,S-Tzermiadianos,A/GRE-chT Athens/1996/}) (8... e6 9. Nb3 Qc7 (9...
+Qd8 10. Bb2 exd5 11. e5 Nh5 12. Qxd5 Ra6 13. Ne2 g6 14. g3 Be7 15. Ned4 O-O 16.
+Bxb5 Rb6 17. O-O Bb7 18. Qc4 Nc6 19. Qe2 Qb8 20. Rae1 Ng7 21. Bc4 Qa8 22. Nb5
+Ba6 23. Nc7 Bxc4 24. Nxa8 Bxe2 25. Nxb6 Bxf1 26. Kxf1 $16 {
+P ,Lautier,J-Shirov,A/Monaco blind/1995/}) 10. Bb2 Na6 11. Rc1 Qb8 12. d6 Bb7
+13. Be5 Nh5 14. Bxb5 Bc8 15. Bc6 f6 16. f4 g6 17. Bxa8 fxe5 18. Qc2 18... Kd8
+$13 {Nadanian,A-Borgo,G/Jerevan olm/1996/}) (8... b3 $5 9. Qxb3 9... e6 $13 {
+Fominyh}) 9. Nb3 Qb6 10. Qd3 Bd7 11. Be3 (11. Bd2 11... Ra4 { Na6-c5 }) 11...
+Qb7 12. Ne2 12... g6 $1 {Black sensibly doesn't cling to his extra doubled
+pawn and ends his development first.} (12... Na6 13. Ned4 (13. Rc1 $5 $44)
+13... Nc5 (13... Rb8 14. Na5 $40) 14. Qd2 (14. Nxc5 dxc5 15. Nxb5 $2 15... Ra5
+$19) 14... Nxb3 (14... Ra4 $6 15. Rc1 $36) 15. Nxb3 Ra4 16. Bd4 $44) 13. Ned4
+Bg7 14. Qd2 (14. Nxb5 $6 14... Nxe4 $5 15. fxe4 Bxa1 16. Nxa1 Rxa2 17. Nb3
+17... O-O $17 {  Ke1}) 14... O-O 15. Bd3 {White sees taking back the pawn
+would give Black play, so he also first finishes his development.} (15. Qxb4
+Ra4 16. Qd2 16... Na6 $36) 15... Ra4 (15... Na6 $6 16. Na5 $36 { Nac6}) 16. Rc1
+(16. O-O Na6 17. Rfc1 17... e6 $5 $15) 16... Qa6 (16... e6 $5 17. dxe6 fxe6 18.
+e5 $5 18... dxe5 19. Nc5 19... Qd5 $1 20. Ndb3 $44 (20. Be4 Nxe4 21. fxe4 Qxa2
+22. Nxa4 Qxd2+ 23. Bxd2 23... bxa4 $17)) 17. Rc2 Rc8 18. Rxc8+ Qxc8 19. O-O (
+19. Bxb5 $143 19... Bxb5 20. Nxb5 20... Qc4 $36 { Ke1}) 19... Qa6 20. Bb1 Be8
+21. Bh6 $44 {
+Black's extra pawn is practically worthless, the position is roughly equal.}
+21... Bxh6 22. Qxh6 Qb6 23. Kh1 Na6 24. Rc1 Nc5 25. Qd2 25... Nxb3 $5 (25... e5
+$6 26. dxe6 fxe6 27. e5 $1 $16) (25... Bd7 26. Nc2 { Nb4 } 26... Nfxe4 $5 27.
+fxe4 Nxe4 28. Qd4 Qxd4 29. Nbxd4 (29. Ncxd4 29... Nc3 $44) 29... Nc3 30. Ne3
+30... e5 $44) 26. axb3 Ra7 27. Qxb4 27... Rc7 $1 (27... Rc7 28. Rxc7 (28. Rd1
+28... Qc5 $11) 28... Qxc7 29. Qd2 29... Qc5 $11) 1/2-1/2
+
+[Event "EU-Cup Gr3"]
+[Site "Slough"]
+[Date "1997.09.22"]
+[Round "1"]
+[White "Volke, Karsten"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[ECO "A57"]
+[WhiteElo "2455"]
+[BlackElo "2680"]
+[Annotator "Stohl,I"]
+[PlyCount "78"]
+[EventDate "1997.09.22"]
+[Source "ChessBase"]
+[SourceDate "1998.01.31"]
+
+1. d4 1... Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 5... g6 {This move has a bad
+reputation and is considered much weaker than the main alternatives 5...e6 and
+5...ab5.} 6. e4 d6 7. a4 ({White's strong hold onto b5 doesn't enable Black to
+achieve the typical Volga   counterplay on the a and b-files. In this sense
+also possible is} 7. Na3 $5 7... Bg7 8. Ne2 O-O 9. Nc3 Nbd7 10. Be2 Nb6 11. O-O
+Bb7 12. Be3 (12. Bg5 h6 13. Bh4 Nh5 14. f4 Nf6 15. bxa6 Bxa6 16. Bxa6 Rxa6 17.
+Qe2 Qa8 18. Nab5 Ra5 19. Rad1 Na4 20. e5 Nxc3 21. Nxc3 dxe5 22. fxe5 Nd7 23. e6
+$18 { ,Rylander,D-Punteri,M/EUChJ Tallin/1997/}) 12... Qc7 13. Qd2 Rfd8 14.
+bxa6 Bxa6 15. Nab5 Qb7 16. Rfd1 Ne8 17. a4 Nc7 18. b3 Bxb5 19. axb5 Rxa1 20.
+Rxa1 Ra8 21. Rb1 Ra3 22. Qc1 Qa7 23. Na4 Ra2 24. Bf1 Nca8 25. Nxb6 Nxb6 26. b4
+$1 $18 {Gallego,V-Pham,S/ESP-ch Torrevieja/1997/}) 7... Bg7 8. Na3 O-O 9. Ne2
+9... e6 $5 {Black logically tries to mix up the matters in the center.} ({
+A good example of White's strategy is the following game-} 9... axb5 10. Nxb5
+Ne8 11. Nec3 Nc7 12. Bg5 Nba6 13. Bc4 Rb8 14. O-O h6 15. Be3 Bd7 16. Qd3 Kh7
+17. f4 f5 18. e5 $1 18... dxe5 19. fxe5 Bxe5 20. Rae1 Nb4 21. Qd2 Bxb5 22. Nxb5
+Nxb5 23. axb5 Qd6 24. Bxh6 $16 {Bareev,E-Adams,M/Munich 1993/0-1 (54)}) 10. Nc3
+$6 ({More clearcut and simpler is} 10. dxe6 $5 $142 10... Bxe6 (10... fxe6 11.
+Bg5 Qa5+ 12. Bd2 Qc7 13. Bf4 Qa5+ 14. b4 cxb4 15. Nc4 Qd8 16. Bxd6 axb5 17.
+Bxf8 Qxf8 18. Nb6 Ra6 19. Nxc8 Qxc8 20. Rc1 Qd7 21. Qxd7 Nfxd7 22. axb5 Ra2 23.
+Rb1 Nc5 24. Kf2 b3 25. Kg3 b2 26. Nf4 Ra1 27. Bc4 Be5 28. Kg4 $16 {
+Nogly,C-Hess,M/Hamburg op/1992/}) 11. Nf4 d5 12. Be2 (12. Nxe6 fxe6 13. exd5
+Nxd5 14. Bc4 axb5 15. Bxb5 Qh4+ 16. g3 Qb4+ 17. Qd2 Rxf3 18. Qxb4 cxb4 19. Nc4
+Ra7 20. Ke2 Rf8 21. Bd2 Na6 22. Bxa6 Rxa6 23. Rhf1 23... Rc8 $15 {
+0-1 Kludacz,M-Pinski,J/Koszalin op 1997 (60)}) 12... axb5 (12... Qe7 13. e5 Nh5
+14. Nxh5 gxh5 15. f4 Qh4+ 16. g3 Qh3 17. Bf1 Qg4 18. Qxg4 hxg4 19. Bg2 $16 {
+Levitt,J-Smith,A/Dublin zt/1993/}) 13. Nxb5 Nc6 14. O-O (14. exd5 Nxd5 15. Nxe6
+fxe6 16. O-O Nd4 17. Re1 Qh4 18. Bf1 Rad8 19. Re4 Qh5 20. Nxd4 Bxd4+ 21. Rxd4
+cxd4 22. Qxd4 22... Nf6 $13 {Bogdanovski,V-Cosma,I/Belgrade Trako/1994/}) 14...
+Qd7 15. exd5 Nxd5 16. Nxd5 Bxd5 17. Be3 Qe7 18. Bf2 Rfd8 19. Qc2 Nd4 20. Nxd4
+cxd4 21. Bd3 $14 {Levitt,J-Nelson,J/Swansea GB-ch/1995/}) 10... exd5 (10... Bb7
+11. Bc4 axb5 12. Naxb5 Nxd5 13. Nxd5 exd5 14. Bxd5 Bxd5 15. Qxd5 Ra6 16. O-O
+Qb6 17. Qc4 Nc6 18. Nc7 Bd4+ 19. Kh1 Ra5 20. Nd5 Qa7 21. Bd2 Ne5 22. Qa2 Ra6
+23. Bc3 Bxc3 24. Nxc3 $16 {Kohler,T-Lutzenberger,R/GER-ch Sued Jedesheim/1991/}
+) 11. Nxd5 Nxd5 ({Hazardous is} 11... Nxe4 $6 12. fxe4 Qh4+ 13. Kd2 Qxe4 14.
+Qf3 14... Bh6+ {Vaisser,A-Polgar,S/Oviedo rapid/1993/} 15. Kd1 $1 $16 { } 15...
+Bg4 $2 16. Nf6+) (11... Nh5 12. g3 Nd7 13. Be2 Bb7 14. bxa6 Bxa6 15. Nb5 Bxb5
+16. Bxb5 f5 17. Bxd7 Qxd7 18. Nb6 Qb7 19. Qd5+ Qxd5 20. exd5 Ra6 21. a5 Rb8 22.
+Kd1 Bd4 23. Kc2 Nf6 24. Bg5 Kf7 25. Rhe1 c4 26. Bxf6 Bxb6 27. Bc3 $16 {
+Lavrov,A-Vajda,L/Budapest FS FebIM-A/1995/}) 12. Qxd5 Ra7 13. Bc4 13... Bd4 $1
+$146 {  Trapping White's K in the center.} (13... Be6 14. Qd3 14... d5 $5 15.
+Bxd5 Bxd5 16. Qxd5 Qa5+ 17. Bd2 Qxa4 18. b3 Qd4 19. Qxd4 Bxd4 20. Rb1 Rb7 21.
+b4 cxb4 22. Bxb4 Rc8 23. Bd2 axb5 24. Nxb5 Nc6 25. Nc3 Rxb1+ 26. Nxb1 f5 27.
+exf5 gxf5 28. Ke2 $14 {Tsvetkov,I-Marcholev,D/BUL-ch/1997/}) 14. h4 $2 {
+A serious tactical miscalculation, after which White's   falls to pieces.} (14.
+Qg5 Qxg5 (14... Bxb2 $2 15. Qxd8 Bc3+ 16. Bd2 Bxd2+ 17. Kxd2 Rxd8 18. b6 Rb7
+19. a5 $16) 15. Bxg5 Bxb2 16. Ra2 Bxa3 17. Rxa3 axb5 18. Bxb5 18... Ba6 $13) (
+14. bxa6 14... Nxa6 { Nb4 }) (14. Bg5 $5 14... Qb6 (14... Qa5+ $2 15. Bd2 Qxa4
+16. b3 $18) 15. Be2 axb5 (15... Be6 $2 16. Nc4 $1) (15... Bxb2 16. Nc4 Bc3+ 17.
+Bd2 $16) 16. Nxb5 Bxb2 17. Nxa7 (17. Rb1 17... Be5 $11) 17... Bxa1 18. Nxc8
+Bc3+ 19. Bd2 Bxd2+ 20. Qxd2 20... Rxc8 $132) 14... Be6 15. Qg5 Bf6 16. Qg3 (16.
+Qf4 Bxc4 17. Nxc4 17... axb5 $17 { } 18. Nxd6 18... Rd7 $19) 16... Bxc4 17.
+Nxc4 axb5 18. Nxd6 18... Rd7 $1 19. Bf4 $8 (19. Nxb5 19... Rd1+ $19) (19. O-O
+Rxd6 20. e5 20... Bxh4 $19) (19. e5 19... Bxe5 $1 20. Qxe5 20... Re7 $19) 19...
+Bxb2 20. O-O $5 (20. Rb1 20... Qa5+ $5 (20... Bc3+ 21. Ke2 bxa4 22. Rhc1 (22.
+Nb5 $2 22... Rd2+ $19) 22... Bb4 $15) 21. Ke2 (21. Kf1 21... Qxa4 $1 $17) 21...
+Qc3 $40) (20. Rd1 Qa5+ 21. Ke2 21... Qxa4 $19 { Ke2, b,c}) 20... Bxa1 21. Rxa1
+bxa4 22. Rxa4 22... Nc6 {White somehow managed to survive the opening, but he
+is an exhchange down for unsufficient compensation.} 23. Kh2 (23. Rc4 Nd4 24.
+Kf2 24... Qa5 $19 { }) 23... Nd4 24. Ra2 24... Qe7 $6 (24... Ne6 $142 25. e5
+25... f6 $5 (25... Nxf4 26. Qxf4 Qe7 27. Ne4 $132) 26. Bh6 26... Ng7 $17) 25.
+e5 Qe6 (25... Ne6 $5 26. Ne4 26... Rd4 $17) 26. Rd2 Nf5 27. Qf2 Nxd6 28. exd6
+Rc8 29. Re2 Qf6 (29... Qf5 30. Bg3 30... c4 $17) 30. Be5 Qf5 31. Bg3 31... h5
+$2 {A serious mistake, which costs Black his passed pawn and winning chances.}
+32. Re5 $44 32... Qd3 33. Rxc5 Re8 (33... Rxc5 34. Qxc5 Kg7 35. Qc8 35... Rxd6
+$11 (35... Qf5 36. Qe8 $36)) 34. Rc7 Rdd8 (34... Rxd6 35. Bxd6 Qxd6+ 36. Qg3
+$11) 35. Qa7 Qd5 36. Re7 Rf8 (36... Rxe7 $2 37. Qxe7 Rf8 38. d7 Qa5 39. Bd6 $18
+) 37. Qe3 37... Rxd6 $11 38. Bxd6 Qxd6+ 39. Qe5 Qxe5+ 1/2-1/2
+
+[Event "VISA GP"]
+[Site "Reykjavik"]
+[Date "1998.03.18"]
+[Round "9"]
+[White "Djurhuus, Rune"]
+[Black "Van der Weide, Karel"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2510"]
+[BlackElo "2450"]
+[Annotator "Stohl,I"]
+[PlyCount "80"]
+[EventDate "1998.03.10"]
+[Source "ChessBase"]
+[SourceDate "1998.06.02"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 ({
+The excitement, originally caused by Lautier's idea, has died down, Black has
+at least two satisfactory methods to counter it.} 7. b4 $6 7... Qxb4+ $5 (7...
+cxb4 8. Nd2 d6 9. Nb3 Qb6 10. Qd3 Bd7 11. Be3 Qb7 12. Ne2 g6 13. Ned4 Bg7 14.
+Qd2 O-O 15. Bd3 Ra4 16. Rc1 Qa6 17. Rc2 Rc8 18. Rxc8+ Qxc8 19. O-O Qa6 20. Bb1
+Be8 21. Bh6 Bxh6 22. Qxh6 Qb6 23. Kh1 Na6 24. Rc1 Nc5 25. Qd2 Nxb3 26. axb3 Ra7
+27. Qxb4 27... Rc7 $11 { ,Sherbakov,R-Shovunov,B/RUS-ch m1-2/1997/}) 8. Bd2 Qa4
+9. Qc1 9... Qa7 $1 10. Bxb5 Na6 11. Ne2 g6 12. Nbc3 Nc7 13. Bc4 d6 14. Nb5 $2
+14... Nxb5 15. Bxb5+ Bd7 16. Bxd7+ Qxd7 17. Bh6 Qb5 18. Kf2 Qa4 19. Rd1 Bxh6
+20. Qxh6 20... Qxe4 $1 21. Qg7 21... Qh4+ {
+0-1,Gonzalez Garcia,J-Gyimesi,Z/Budapest GM/1995/}) 7... b4 8. Na3 d6 9. Nc4
+Qc7 ({More popular is} 9... Qd8 10. a3 (10. Bg5 $6 $143 10... g6 11. Bxf6 exf6
+12. a3 bxa3 13. Rxa3 Rxa3 14. bxa3 Nd7 15. Qa4 Be7 16. Ne2 O-O 17. Nc3 f5 18.
+exf5 Bh4+ 19. g3 Qe7+ 20. Kd2 Bg5+ 21. f4 Bf6 22. Bd3 Bxc3+ 23. Kxc3 Nf6 24.
+fxg6 Nxd5+ 25. Kc2 25... hxg6 $17 {  Kc2,Meessen,R-Praet,M/BEL-chT/1998/})
+10... e6 $5 $13) 10. Bd3 $6 {This move is too slow.} ({The same goes for} 10.
+Bf4 $6 10... Nbd7 11. Nh3 g6 12. Qd2 Ba6 13. Nf2 Bg7 14. Bh6 Bxh6 15. Qxh6 Nb6
+16. Qc1 O-O 17. Be2 Bxc4 18. Bxc4 Nxc4 19. Qxc4 Ra5 20. O-O Qa7 21. Rfe1 21...
+Ra8 $17 {Miranda,M-Fishbein,A/Boston op/1988/}) ({Much better is} 10. a3 $142
+10... bxa3 (10... e6 11. dxe6 Bxe6 12. Bf4 $5 (12. axb4 Rxa1 13. Qxa1 d5 14.
+exd5 Nxd5 15. Qa4+ Bd7 16. Qa5 Nc6 17. Qa8+ Qb8 18. Qxb8+ Nxb8 19. Ne5 cxb4 20.
+Nxd7 Nxd7 21. Bb5 Bc5 22. Ne2 Ke7 23. Ng3 Ne5 24. Kd1 Rb8 25. Re1 {
+Akopian,V-Leko,P/Wijk op/1993/} 25... Rxb5 $5 26. Rxe5+ 26... Kd6 $14) 12...
+Bxc4 13. Bxc4 bxa3 14. Rxa3 Rxa3 15. bxa3 Be7 16. Ne2 O-O 17. O-O Nc6 18. a4
+Ne5 19. Bb5 Rd8 20. Nc3 h6 21. Qd2 Nc6 22. Bc4 Ne5 23. Be2 Rb8 24. Nb5 Qc6 25.
+Rd1 Rd8 26. Nc3 Rb8 27. Bb5 $16 {Vaisser,A-Solana,E/Fuerteventura/1992/}) 11.
+Bc3 $5 11... g6 (11... a2 $5 $13 $142) 12. e5 dxe5 13. Bxe5 Qd8 14. Rxa3 Rxa3
+15. bxa3 Nbd7 16. Bc3 Ba6 17. Qa4 Bxc4 18. Bxc4 Bg7 19. Bxf6 $1 19... exf6 20.
+Bb5 Ke7 21. Nh3 Qc7 22. O-O Rd8 23. Re1+ Kf8 24. d6 Qc8 25. Re7 Ne5 26. d7 Nxd7
+27. Rxd7 f5 28. Qa7 {1-0,Sokolov,I-Berg,K/Akureyri/1994/}) 10... g6 (10... e6
+$6 $143 11. dxe6 Bxe6 12. Bf4 Nc6 13. Ne2 Be7 14. O-O O-O 15. Ng3 Rfd8 16. Re1
+Qa7 17. Qb1 h6 18. Kh1 d5 19. exd5 Nxd5 20. Be5 Nb6 21. Nxb6 Qxb6 22. Bh7+ Kh8
+23. Bxg7+ $1 23... Kxg7 24. Nh5+ Kf8 25. Rxe6 $1 $40 {
+Tomicic,Z-Zelic,M/Zadar op/1995/}) 11. a3 {White logically tries to disrupt
+Black's pawn chain, as the structure is not in his favour ( a2).} (11. Ne2 Bg7
+12. O-O O-O 13. Qb3 (13. a3 bxa3 14. Rxa3 Rxa3 15. bxa3 Ba6 16. Qa4 Bxc4 17.
+Bxc4 Nbd7 18. Rb1 Ne5 19. Bb5 Rb8 20. Nc3 e6 21. Bc6 exd5 22. Rxb8+ Qxb8 23.
+exd5 Qb2 24. Qa8+ Bf8 25. Bh6 Qa1+ 26. Kf2 Nfg4+ 27. fxg4 Nxg4+ 28. Ke2 Nxh6
+29. Ne4 Kg7 30. a4 Qe5 31. Qe8 Be7 32. Kf3 32... Qf5+ {
+0-1,Sergienko,S-Rovid,K/Budapest Spring op/1993/}) 13... Ba6 14. Qc2 Nbd7 15.
+Rae1 Nb6 16. Nc1 Nxc4 17. Bxc4 Bxc4 18. Qxc4 Nd7 19. Qc2 Qb7 20. Be3 Rfc8 21.
+Re2 Qb5 22. Kh1 c4 23. Qd1 c3 24. bxc3 bxc3 25. Rff2 25... Qb1 $17 {
+Sutton,R-Love,A/NZD-ch/1991/}) 11... bxa3 12. bxa3 Bg7 13. Ne2 O-O 14. O-O
+14... Ba6 $1 (14... Nbd7 15. Kh1 Ba6 16. Ba5 Qa7 17. Bc3 $13 {
+Na5,Gabriel,C-Adamson,R/New York op/1995/}) 15. a4 (15. Ba5 $5 15... Qa7 16.
+Bc3 Nfd7 17. Bxg7 Kxg7 18. f4 $13) 15... Nfd7 $1 {
+Black delays the development of Nb8 to keep the c6 square protected.} 16. Bc3 (
+16. Rb1 Ne5 17. Nxe5 Bxe5 18. Bxa6 18... Nxa6 $15) 16... Nb6 17. Bxg7 Kxg7 18.
+Qc2 Nxc4 19. Bxc4 19... Nd7 20. a5 $6 {Black has a solid pawn structure, which
+gives him long-term chances for an advantage. Therefore White should try to
+molest Black's  . The move in the game only weakens the Pa4.} (20. f4 $132 $142
+) 20... Nf6 $1 {Now Black gains the a-pawn.} (20... Bxc4 21. Qxc4 21... Rxa5 $4
+22. Qc3+) 21. g4 Kg8 (21... Bxc4 22. Qxc4 22... Rxa5 $4 23. g5 Rxa1 24. gxf6+
+$18) 22. Bxa6 Rxa6 23. Nd4 $5 {White's best chance.} (23. Qc3 23... Rfa8 $17)
+23... Rxa5 24. Rxa5 Qxa5 25. Nc6 25... Qa3 $1 {
+Black returns the pawn and relies on positional factors.} (25... Qc7 $6 $143
+26. g5 (26. Ra1 e6 27. Ra7 Qb6 28. g5 exd5 29. Ne7+ Kh8 30. Qa2 $13) 26... Nh5
+27. Ra1 e6 28. Qb2 $1 28... exd5 29. exd5 c4 30. Ra7 c3 31. Qxc3 (31. Qf2 31...
+c2 $8 32. Qxc2 Qb6+) 31... Qb6+ 32. Kf1 h6 33. gxh6 33... Kh7 $13) 26. Nxe7+
+26... Kg7 $36 { c, K,N Now White can't occupy the a1-h8 diagonal, his K is
+weak and the N is out of play.} 27. Nc6 (27. Kg2 Rb8 28. Rb1 $17) (27. Qc1 Qd3
+28. Nc6 28... Ra8 $36) 27... h5 $1 28. h3 $6 (28. g5 Qe3+ 29. Kh1 29... Qxg5
+$17) (28. gxh5 $8 28... Nxh5 $36) 28... hxg4 29. hxg4 29... Rh8 $1 $40 {
+h Black's final attack with only three pieces is very impressive.} 30. Qc1 (30.
+Kg2 30... Nxg4 $1 31. fxg4 Qh3+ 32. Kf2 32... Qh2+ $19) (30. Qe2 $5 $142 30...
+Qc3 $17) (30. e5 $6 30... dxe5 31. Qe2 31... e4 $19) 30... Qd3 31. Rf2 (31. e5
+dxe5 32. Qxc5 32... Rh1+ $1 33. Kxh1 33... Qxf1+ $19) 31... Rh4 { Ng4!} 32. Qf1
+(32. Kg2 $2 32... Nxg4 $19) (32. Qc2 Qe3 33. Qe2 33... Qc1+ {-32.Qf1}) (32. Qd2
+Qb1+ 33. Rf1 33... Rh1+ $19) 32... Qe3 33. Qe2 Qc1+ 34. Qf1 34... Qf4 $1 $19
+35. Qe2 (35. Qg2 35... c4 { c}) 35... Rh3 36. Qd2 (36. Qf1 Qg3+ 37. Qg2 (37.
+Rg2 Qxf3) 37... Qh4 38. Kf1 $8 38... Rg3 39. Qh2 Qxh2 40. Rxh2 40... Rxf3+ $19)
+36... Qg3+ 37. Kf1 37... Nxe4 $1 (37... Rh1+ 38. Ke2 38... Nxg4 $1 39. Qb2+ (
+39. fxg4 Qxg4+ 40. Kd3 40... Rd1 $19) 39... Kh7 40. fxg4 40... Qxf2+ $1 41.
+Kxf2 41... Rh2+ $19) 38. fxe4 (38. Qb2+ 38... Kh7 $19) 38... Rh1+ 39. Ke2 Qxg4+
+40. Kd3 (40. Ke3 40... Rh3+ $19) 40... Rd1 0-1
+
+[Event "NED-ch53"]
+[Site "Rotterdam"]
+[Date "1998.06.21"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2635"]
+[BlackElo "2605"]
+[Annotator "Stohl,I"]
+[PlyCount "94"]
+[EventDate "1998.06.21"]
+[Source "ChessBase"]
+[SourceDate "1998.09.30"]
+
+1. d4 {Van Wely} 1... Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 exd5 ({
+A dubious alternative is} 6... c4 7. Nc3 (7. Bxc4 $5) 7... axb5 8. Nxb5 Bc5 9.
+Bxc4 Qb6 10. Ne2 exd5 11. exd5 O-O 12. Bd2 Ba6 13. Qb3 Bf2+ 14. Kf1 Bc5 15.
+Nec3 Bb7 16. Re1 d6 17. g3 Nbd7 18. Kg2 Qd8 19. Qc2 Nb6 20. Qd3 Nxc4 21. Qxc4
+Qd7 22. a4 Rfc8 23. Qd3 23... Bb4 $14 {
+Iljushin,A-Gershon,A/EUChJ-U18 Mureck/1998/}) 7. e5 {
+The main line, although White occasionally plays also} (7. exd5 Bd6 8. Qe2+ (8.
+Nc3 O-O 9. Nh3 Re8+ 10. Be2 axb5 11. O-O b4 12. Nb5 Ba6 13. Bc4 Bxb5 14. Bxb5
+Qc7 15. Kh1 c4 16. a4 Qc5 17. Bf4 Be5 18. Rc1 c3 19. Bxe5 Rxe5 20. bxc3 bxc3
+21. Nf2 Rxd5 22. Qb3 Nc6 23. Ne4 $1 23... Nxe4 24. fxe4 Re5 25. Qxf7+ Kh8 26.
+Rxc3 $1 $16 {Iljushin,A-Karatekin,T/EUChJ-U18 Mureck/1998/}) 8... Kf8 9. Nc3
+axb5 10. Nxb5 Ba6 11. Qd2 Qe7+ 12. Kd1 Qe5 13. Nh3 Bxb5 14. Bxb5 Qxd5 15. Qxd5
+Nxd5 16. Ng5 f5 17. Bc4 Nb6 18. Bb3 Nc6 19. Nf7 Nd4 20. Nxd6 Nxb3 21. Rb1 Nxc1
+22. Rxc1 $13 {Iljushin,A-Moiseenko,A/EUChJ-U18 Mureck/1998/}) 7... Qe7 8. Qe2
+Ng8 9. Nc3 Bb7 10. Nh3 c4 11. Be3 11... Qb4 $6 {A strange and very risky
+attempt to avoid the topical line and perhaps confuse the opponent.} ({
+The main move is} 11... axb5 12. Nf4 Qb4 13. O-O-O (13. Kf2 $5 13... Ne7 14.
+Rd1 Na6 15. g3 Qa5 16. Bh3 Bc6 17. Nfxd5 Nxd5 18. Nxd5 Bc5 19. Kg2 O-O 20. a3
+Rfe8 21. Bd2 Qd8 22. Bc3 Nc7 23. Nxc7 Qxc7 24. Qd2 Re7 25. Rhe1 Rae8 26. Bf5
+Qb7 27. Be4 h6 28. Bxc6 dxc6 29. f4 $36 {
+Ivanov,S-Sivokho,S/St.Petersburg-ch/1996/}) 13... Ne7 {
+White's most important try is the refined} 14. Qf2 $1 (14. Rxd5 14... Qxc3+ $1
+15. bxc3 15... Nxd5 {This Q-sacrifice is the crux of Black's defence/attack
+and in practice has caused White a lot of problems.} 16. Nxd5 Bxd5 17. Qd2 Be6
+18. Be2 Nc6 19. f4 b4 20. f5 bxc3 21. Qxc3 Ra3 22. Qc2 Nb4 23. Qb2 Rxe3 24.
+fxe6 c3 25. Qb3 Rxe2 26. exd7+ Kd8 27. Qc4 Rc2+ 28. Kb1 28... Rb2+ {
+0-1,Czerwonski,A-Gipslis,A/Koszalin op-A/1998/}) (14. Bb6 14... h5 $5 (14... g6
+15. Rxd5 Qxc3+ 16. bxc3 Nxd5 17. Nxd5 Bxd5 18. Kb1 Nc6 19. Qe3 Be7 20. Bc5 O-O
+21. Bxe7 Nxe7 22. Qc5 Rfe8 23. a3 Bc6 24. Kb2 Nd5 25. Qd4 Re6 26. h4 h5 27. f4
+d6 28. Rg1 dxe5 29. fxe5 Rae8 30. g4 Rxe5 31. gxh5 Rxh5 32. Rg5 $14 {
+Miniboeck,G-Danailov,S/Vienna op/1996/}) 15. Rxd5 Qxc3+ 16. bxc3 Nxd5 17. Nxd5
+Bxd5 18. Qd2 Be6 19. Be2 Nc6 20. f4 b4 21. f5 bxc3 22. Qxc3 Ra3 23. Qb2 c3 24.
+Qb5 Bxf5 25. Rf1 Rxa2 26. Rxf5 Nb4 27. Qa5 27... g6 $3 {
+0-1,Lalic,B-Khalifman,A/Linares op/1997/}) 14... Na6 (14... h5 $5 $142) 15. Kb1
+Nf5 16. Nfxd5 Bxd5 17. Nxd5 Nxe3 18. Qxe3 Qc5 19. Qxc5 Bxc5 20. Nc3 Nc7 21. a4
+bxa4 22. Bxc4 22... a3 {Lalic,B-Alterman,B/EU-chT Pula/1997/} 23. b3 $1 23...
+Bb4 24. Ne4 a2+ 25. Kb2 $16) 12. a3 $146 {A recent novelty.} ({But the older
+continuation seems very convincing and one can hardly see potential for
+improvement after} 12. b6 $5 12... Bc5 (12... Qa5 13. Qd2 Bb4 14. Rd1 Ne7 15.
+a3 Bxc3 16. Qxc3 Qxc3+ 17. bxc3 Nbc6 18. f4 Na5 19. Kf2 Bc6 20. Be2 Nb3 21. Bf3
+O-O 22. g4 Rab8 23. Rhe1 Rfd8 24. f5 d4 25. Bxd4 Nxd4 26. Rxd4 Rxb6 27. Rxc4
+Bxf3 28. Kxf3 Rb3 29. Rd1 Rxa3 30. Nf4 $36 {  ,Soffer,R-Belotti,B/Biel op/1992/
+}) 13. O-O-O (13. Bxc5 $6 $143 13... Qxc5 14. Qf2 d4 15. O-O-O Nc6 16. Ne4 Qxe5
+17. Bxc4 Nge7 18. Rhe1 O-O 19. Kb1 Nf5 20. Nhg5 Ne3 21. Rxe3 dxe3 22. Qxe3 Na5
+23. Qd3 Bxe4 24. Nxe4 Rab8 25. f4 Qxf4 26. Bd5 Rxb6 27. Qc3 Nc6 28. Nd6 28...
+Nb4 {0-1,Neverov,V-Bukhman,E/St.Petersburg op/1994/}) 13... Qxb6 14. Bxc5 Qxc5
+15. Nf4 (15. Qf2 Qxf2 16. Nxf2 Ne7 17. Ng4 Ra7 18. Ne3 Nbc6 19. Nexd5 Nxe5 20.
+Nb6 N7g6 21. Nxc4 Kd8 22. Nd6 Bc6 23. Rd4 Kc7 24. Be2 Nf4 25. Rxf4 Kxd6 26.
+Rd1+ $36 {Volke,K-Hertneck,G/BL/1991/}) 15... Ne7 16. Qd2 d4 17. Qxd4 Qxd4 18.
+Rxd4 Nbc6 19. Rxc4 Nxe5 20. Rb4 Bc6 21. Bxa6 O-O 22. Re1 f6 23. Bf1 Rfc8 24.
+Kb1 Kf8 25. Nd3 Nd5 26. Nxd5 Bxd5 27. b3 $16 {
+Zoler,D-Mencinger,V/Groningen op/1994/}) 12... Qa5 13. Bd2 (13. Qf2 13... Bb4
+$6 (13... axb5 14. Bb6 Qa6 15. Nf4 15... Ne7 $13) 14. Bd4 axb5 15. Rd1 Bxc3+ (
+15... Bf8 $142 16. Nf4 $44) 16. Bxc3 Qc7 17. Qg3 Ne7 18. Qxg7 Rg8 19. Qxh7 Na6
+20. Nf4 20... O-O-O {} 21. Qxf7 Rde8 22. Be2 Kd8 23. g3 Ref8 24. Qh7 Rh8 25.
+Qc2 Rhg8 26. Qd2 Kc8 27. e6 Nc5 28. exd7+ Qxd7 29. Qe3 $18 {
+Krupenski,Y-Szilagyi,Z/EUChJ-U16 Mureck/1998/}) 13... Qb6 $8 14. Nf4 Ne7 15. a4
+$6 (15. Qf2 $142 15... Qxf2+ 16. Kxf2 d4 (16... g6 17. b6 (17. bxa6 {Van Wely}
+17... Nxa6 18. Nb5 18... Nf5 $13) 17... Bg7 18. Re1 O-O 19. Na4 $36) 17. bxa6
+$1 17... Bxa6 18. Ncd5 (18. Ne4 Nec6 19. Nd5 19... Ra7 $132) 18... Nxd5 19.
+Nxd5 $36) (15. Rd1 $6 {Van Wely} 15... axb5 (15... d4 $6 16. Na4 (16. Ne4 d3
+17. Nd6+ Qxd6 18. exd6 dxe2 19. Bxe2 19... Nf5 $14) 16... Qxb5 17. Qxc4 Qxe5+
+18. Kf2 $36) 16. Be3 Qa5 17. Qd2 b4 18. Ncxd5 (18. axb4 Qxb4) 18... Nxd5 19.
+Nxd5 bxa3 20. Qxa5 Rxa5 21. Bxc4 21... axb2 $15) (15. O-O-O $2 {Van Wely} 15...
+axb5 16. Be3 Qa5 17. Nfxd5 Nxd5 18. Nxd5 (18. Rxd5 Bxa3) 18... Bxd5 19. Rxd5
+19... Bxa3 $17) 15... axb5 16. Nxb5 16... Qxb5 $1 {Sacrificing a Q comes easy
+to Black in this line, where positions with material inbalance are quite
+common.} 17. axb5 Rxa1+ 18. Kf2 Nf5 19. g4 Bc5+ 20. Kg2 Nd4 21. Qf2 Nb3 22. Qe2
+22... Nd4 $11 {Already Black has the option of taking a draw by repetition.}
+23. Qf2 23... Nb3 {'?!' Van Wely.} (23... Ne6 $5 {Van Wely} 24. Qe2 24... O-O
+$15) 24. Qe2 24... O-O $5 {
+Black decides to play this highly tactical position on.} (24... Bd4 25. Bc3 $14
+) (24... Rb1 25. Bc3 25... O-O $44 (25... d4 $6 26. Qxc4 dxc3 27. Qxc3 Bd4 (
+27... Nd4 28. Qxc5 Bxf3+ 29. Kg1 Bxh1 30. Qd6 $1 30... Nbc6 31. bxc6 Nxc6 32.
+Qd3 $18) 28. Qc7 Rxb2+ 29. Kh3 O-O 30. Qxb7 $18)) 25. Be3 Bxe3 (25... d4 $2 26.
+Qxc4 dxe3 27. Qxb3 $16) 26. Qxe3 d4 27. Qf2 Rc1 (27... Rc8 28. Bxc4 $1 (28. Nh5
+{-27...Rc1}) (28. Nh5 {Van Wely} 28... Bd5 29. Qh4 Nc5 30. Bxc4) 28... Rxc4 (
+28... Rxh1 29. Bxb3 Rcc1 30. Qxd4 Rhg1+ 31. Qxg1 Bxf3+ 32. Kf2 Rxg1 33. Kxg1
+33... Bxg4 $16 { Nb8}) 29. Rxa1 Nxa1 30. Qh4 Rc8 31. Qe7 $5 $44 { Qd6-b6,e6 ,
+ Bb7,Nb8 Despite his material advantage Black has great problems with
+coordinating his pieces.}) 28. Nh5 (28. Be2 $2 28... Rc2 $17) 28... Rc8 29. Qh4
+29... Nc5 $8 {Black needs the Ne6 resource.} 30. Qg5 ({
+White misses a promising tactical shot} 30. Bd3 $5 30... Rxh1 (30... Nxd3 $143
+31. Rxc1 Nxc1 32. Qg5 g6 33. Nf6+ Kg7 34. Qxc1 34... c3 $14 { }) 31. Bxh7+ Kf8
+(31... Kxh7 $4 32. Nf6+ Kg6 33. Qh5#) 32. Kxh1 Bxf3+ 33. Kg1 d3 (33... Ne6 34.
+Bf5 $40 { Ng7}) 34. Nf4 $14) 30... Rc2+ 31. Kg3 Ne6 32. Nf6+ Kf8 (32... Kh8 $2
+33. Qf5 gxf6 34. Qxc2 $18) 33. Qf5 {'?!' Van Wely.} (33. Nxh7+ Kg8 (33... Ke8
+34. Qf5 Rxb2 35. Ng5 $14) 34. Nf6+ $11) 33... d3 34. b3 $6 {
+'?' Van Wely.  White goes astray in the tactical jungle.} (34. Nxh7+ Kg8 35.
+Ng5 Nxg5 36. Qxg5 Rxb2 37. h4 Rxb5 38. h5 f6 39. Qf4 (39. Qg6 Rxe5 40. h6 Rg5)
+39... Rxe5 40. h6 40... Ba6 $5 (40... Bd5 {Van Wely} 41. hxg7 Kxg7) 41. hxg7
+41... Kxg7 $15) (34. Qxh7 gxf6 35. exf6 Ke8 36. Qg8+ Nf8 37. h4 $44 { h,g})
+34... Rc1 $1 { d2-+} 35. Bxd3 $8 35... Rxh1 36. Bxc4 $2 {This definitely loses.
+} (36. Nxh7+ 36... Ke8 $5 $17 $142 (36... Kg8 37. bxc4 $44 (37. Bxc4 37... Rc1
+$17)) (36... Ke7 37. bxc4 Rg1+ 38. Kf2 Ra1 39. Ng5 $132)) 36... gxf6 37. exf6
+37... d5 $1 $19 {
+Black finally frees himself and his material advantage decides.} 38. Qxh7 38...
+Ke8 $8 39. Qh8+ Nf8 (39... Kd7 $6 40. Qh5 $1 $132) 40. Bd3 Nbd7 41. b6 Re1 42.
+g5 Rc3 43. Kf2 Ra1 44. g6 44... Rxd3 $1 45. g7 45... d4 $1 $40 46. Qh5 (46.
+g8=Q Rxf3+ 47. Ke2 Ra2+ 48. Ke1 Re3+ 49. Kf1 (49. Kd1 Bf3+ 50. Kc1 Re1#) 49...
+Ba6+ 50. Kg1 Re1#) 46... Ra2+ 47. Kg3 Rxf3+ (47... Rxf3+ 48. Qxf3 Bxf3 49. g8=Q
+(49. Kxf3 Nxf6) 49... Rg2+ $19) 0-1
+
+[Event "Ubeda op 5th"]
+[Site "Ubeda"]
+[Date "2000.01.24"]
+[Round "6"]
+[White "Hauchard, Arnaud"]
+[Black "Salmensuu, Olli"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2513"]
+[BlackElo "2418"]
+[Annotator "Stohl,I"]
+[PlyCount "65"]
+[EventDate "2000.01.19"]
+[Source "ChessBase"]
+[SourceDate "2000.04.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 ({
+The most popular choice nowadays is the sharp} 5... e6 $5 {
+A typical and brilliant game:} 6. e4 exd5 7. e5 Qe7 8. Qe2 Ng8 9. Nc3 Bb7 10.
+Nh3 c4 11. Be3 axb5 12. O-O-O Qb4 13. Nf4 Ne7 14. Qf2 Na6 15. Bb6 h5 16. Kb1
+Rh6 17. a3 Qb3 18. Nfe2 Nc8 19. Nc1 19... Qxc3 $1 20. bxc3 Nxb6 21. Na2 Nc5 22.
+Qb2 Nba4 23. Qc2 Nb3 24. Nb4 Bxb4 25. cxb4 25... d4 $40 26. Bxc4 bxc4 27. Qxc4
+27... Bd5 $1 $19 {Lotscher,R-Prusikhin,M/Zug/1999/}) 6. e4 Qa5+ 7. Nc3 $5 {
+A very rare move.} (7. b4 Qxb4+ 8. Bd2 Qa4 9. Qc1 b4 10. Qxc5 Na6 11. Bxa6 e6
+12. d6 Bxa6 13. Qxb4 Qc6 14. e5 Nd5 15. Qb3 15... Bxd6 $5 16. exd6 Qxd6 17. Nc3
+Qe5+ 18. Kf2 Qd4+ 19. Kg3 g5 20. h4 Qxd2 21. Nxd5 gxh4+ 22. Rxh4 Qg5+ 23. Kh3
+Qxd5 24. Qxd5 exd5 25. g4 25... Bc4 $11 {
+Gretarsson,H-Gunnarsson,J/Gentofte/1999/}) (7. Bd2 b4 8. Na3 d6 9. Nc4 {
+is the main line.}) 7... b4 (7... Ba6 $143 8. a4 d6 9. Ra2 b4 10. Nb5 g6 11. b3
+Bg7 12. g4 O-O 13. h4 h5 14. gxh5 Nxh5 15. Rg2 Be5 16. f4 Bg7 17. f5 Nd7 18.
+Bh6 Bxb5 19. Bxb5 Ne5 20. Bxg7 Nxg7 21. Nf3 Nxf3+ 22. Qxf3 $40 {
+Hjelmaas,L-Hoff,T/NOR-chT/1993/}) 8. Nb5 ({Too passive is} 8. Nb1 $6 8... d6 9.
+Bd3 g6 10. Ne2 Bg7 11. Be3 Nbd7 12. Nd2 Ne5 13. Nc4 Nxd3+ 14. Qxd3 Qa6 15. O-O
+Nd7 16. a3 O-O 17. axb4 Qxa1 18. Rxa1 Rxa1+ 19. Kf2 Ba6 20. Qb3 20... Rb8 $17 {
+Velitshko,J-Abramov,S/Smolensk/1992/}) 8... d6 ({
+Black shouldn't commit his Bc8 too early:} 8... Ba6 9. a4 d6 (9... e6 10. d6
+Bxb5 11. Bxb5 Qb6 12. e5 Nd5 13. Bc4 Qc6 14. a5 g6 15. Bd2 Bg7 16. f4 Bh6 17.
+Nh3 $16 { , Niederwieser,P-Humenberger,S/Werfen/1994/}) 10. b3 g6 11. Bb2 Bg7
+12. f4 O-O 13. e5 Ne8 14. Nf3 Qd8 15. Bc4 Nd7 16. Qe2 Nb6 17. Nxd6 exd6 18.
+Bxa6 Nxd5 19. Bb7 Nxf4 20. Qe4 Ra7 21. O-O-O Ne6 22. Bd5 $44 {
+1-0 Menk,R-Bokelbrink,U/Pinneberg 1998/EXT 99 (40)}) 9. a4 ({
+Too sophisticated and time-consuming is} 9. Kf2 9... Nbd7 10. a4 g6 11. b3 Bg7
+12. Ra2 O-O 13. g4 Ba6 14. Rc2 Ne8 15. Kg2 Nb6 16. Bg5 $2 16... f6 17. Be3 Nxa4
+18. bxa4 Qxa4 19. Nh3 Bxb5 20. Bxb5 Qxb5 21. Nf4 21... Nc7 $19 {
+Drazic,S-Liardet,F/Geneve/1991/}) (9. Be3 Nbd7 10. Nh3 g6 11. Be2 Ba6 12. a4
+Bg7 13. O-O O-O 14. Nf2 Ne8 15. Rb1 Nc7 16. Nxc7 Qxc7 17. b3 Qb7 18. Bxa6 Qxa6
+19. Qd3 f5 20. Rfe1 f4 21. Bc1 Ne5 22. Qxa6 Rxa6 23. Bb2 g5 24. Kf1 24... c4
+$15 {Kurz,A-Marinkovic,I/Bundesliga 9192/1991/}) 9... bxa3+ $2 {After this
+ature opening of the position Black suprisingly quickly succumbs to a strong
+attack due to his lack of development.} ({If Black keeps the position closed,
+it's not easy for White to maintain control of b5 and c4, sometimes a timely
+sacrifice on a4 as above exposes the Nb5. On the whole this line is not too
+promising for White.} 9... Nbd7 10. b3 (10. g4 g6 11. h4 h5 12. g5 Nh7 13. b3
+Bg7 14. Ra2 O-O 15. Bd2 Qd8 16. Nh3 Ne5 17. Nf2 Qb6 18. f4 Ng4 19. Bc4 Kh8 20.
+Bc1 Bd7 21. Nxg4 Bxg4 22. Qd3 Bd7 23. Re2 23... e6 $1 24. dxe6 Bxb5 25. axb5
+25... fxe6 $13 {Pesantes,C-Oblitas,C/Peru/1994/}) (10. Ne2 g6 11. Ng3 Bg7 12.
+Be2 O-O 13. O-O Nb6 14. Be3 Bd7 15. b3 Rfc8 16. Kh1 Be8 17. Rb1 Nxa4 18. bxa4
+Qxa4 19. e5 dxe5 20. Qxa4 20... Rxa4 $17 {Santa,L-Safarzadeh,E/Moscow olm/1994/
+}) 10... g6 11. Bb2 Bg7 12. Bc4 O-O 13. Ne2 Ne5 (13... Nb6 $5) 14. Bxe5 dxe5
+15. O-O Ne8 16. Qd2 Nd6 17. Qe3 Bd7 18. Nxd6 exd6 19. g4 Qd8 20. Nc1 f5 21.
+gxf5 gxf5 22. Nd3 Kh8 23. Kh1 Qh4 24. Rg1 Bh6 25. Qe2 Rf7 26. Bb5 Bxb5 27. axb5
+27... Raf8 $132 {Lobron,E-Milos,G/Tilburg/1993/}) (9... g6 10. b3 Bg7 11. Bb2
+O-O 12. Qc2 Nbd7 13. Nh3 Nb6 14. Nf2 Bd7 15. Nd1 Rfc8 16. Kf2 $6 16... c4 17.
+Bxc4 Bxb5 18. axb5 18... Qxb5 $36 {Fedorov,M-Raudive,A/Polanica Zdroj op/1996/}
+) 10. Bd2 Qb6 11. Rxa3 Rxa3 (11... Ba6 $2 12. Ba5 $18) (11... Na6 $6 12. Ba5
+Qb8 13. Bc3 $16) 12. bxa3 e6 (12... Nbd7 13. Qa4 { Ba5+-}) (12... Bd7 $142 { }
+13. Qa4 g6 14. Ba5 14... Qa7 $1 $14) 13. Qa4 Bd7 14. Ba5 Qb7 (14... Qa7 $142
+15. Ne2 $5 15... exd5 16. Nec3 Qb7 17. Qb3 Bxb5 18. Bxb5+ Nbd7 19. Bxd7+ Qxd7
+20. Qb8+ $16) 15. Qb3 $1 15... Ke7 $8 (15... Bxb5 16. Bxb5+ Nbd7 17. dxe6 fxe6
+18. Qxe6+ Be7 19. a4 $18) (15... Qc8 16. Na7 $1 $18) 16. dxe6 fxe6 (16... Bxe6
+17. Bc4 $40 { Ke7}) 17. Nh3 Nc6 18. Bc3 Na7 19. a4 Nxb5 20. Bxb5 $16 20... Qb6
+(20... d5 21. O-O 21... Kf7 $5 $16) 21. Qb2 Bxb5 22. axb5 d5 (22... Kf7 23.
+Ng5+ {doesn't help, Black has no time to activate Rh8 and Bf8.}) (22... c4 23.
+Bd4 Qa5+ 24. Kf2 { Ra1+-}) 23. O-O ({Also strong was} 23. exd5 $5 23... exd5
+24. O-O $40) 23... d4 24. Bd2 Ne8 (24... c4 $2 25. Qb4+) (24... e5 25. Ra1 {
+Ra6,Qb3+-}) 25. Bf4 $1 (25. Ra1 $6 25... Nc7 $13) 25... Kd7 (25... Nc7 26. Bxc7
+Qxc7 27. b6 Qb7 28. Ra1 $18) 26. Ra1 $18 { } 26... Bd6 27. Ra6 Qb8 28. Qb3 $1 {
+e5} 28... e5 (28... Bxf4 29. Qxe6+ Kd8 30. Nxf4 $18 30... Qxf4 $2 31. Ra8+ Kc7
+32. Qc6#) 29. Qf7+ Kd8 (29... Kc8 30. Rc6+ Bc7 31. Bxe5 $18) 30. Bg5+ Kc8 31.
+Qe6+ Kc7 (31... Kb7 32. Qd5+ Kc8 33. Ra8 $18) 32. Rc6+ Kb7 33. Qd5 $1 (33. Qd7+
+Bc7 34. b6 $18) 1-0
+
+[Event "EU-ch 4th"]
+[Site "Istanbul"]
+[Date "2003.05.31"]
+[Round "2"]
+[White "Azmaiparashvili, Zurab"]
+[Black "Conquest, Stuart"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2678"]
+[BlackElo "2556"]
+[Annotator "Stohl,I"]
+[PlyCount "91"]
+[EventDate "2003.05.30"]
+[Source "ChessBase"]
+[SourceDate "2003.09.25"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 {A popular line in the nineties,
+this variation has gradually fallen out of fashion.} 5... axb5 (5... e6 {
+is the main alternative, but the continuation} 6. e4 exd5 7. e5 Qe7 8. Qe2 Ng8
+9. Nc3 Bb7 10. Nh3 c4 11. Be3 axb5 12. O-O-O Qb4 13. Nf4 Ne7 14. Qf2 $1 {
+still remains problematic for Black.}) 6. e4 Qa5+ 7. Bd2 b4 8. Na3 d6 9. Nc4
+Qd8 (9... Qc7 10. a3 $14) 10. Bd3 {
+Continuing his development. Practice has shown this is more solid than} (10. a3
+10... e6 $1 11. dxe6 Bxe6 12. axb4 Rxa1 13. Qxa1 13... d5 $44) 10... g6 {
+Black also develops his   and postpones any   activity.} (10... e6 11. dxe6
+Bxe6 12. Ne2 d5 13. exd5 Nxd5 14. O-O Be7 15. Qc2 Nc6 16. Be4 $1 $36 16... Rc8
+17. Rfd1 Nd4 18. Nxd4 cxd4 19. Qa4+ Bd7 20. Qb3 Be6 21. Qa4+ Bd7 22. Qa6 22...
+Nc7 $6 23. Nd6+ Kf8 24. Qb6 Rb8 25. Nb7 $1 25... Ne6 26. Qa6 Ra8 27. Qc4 Qb6
+28. Nc5 $16 {Kasimdzhanov,R-Tregubov,P/FIDE WCh New Delhi/2000/}) 11. Ne2 (11.
+a3 $5 $142 11... bxa3 12. Rxa3 Rxa3 13. bxa3 13... e6 $2 (13... Bg7 14. Ba5 $36
+) 14. Qa4+ Nfd7 (14... Nbd7 $2 15. Ba5 Qe7 16. Qc6 $18) (14... Bd7 15. Qa7 exd5
+16. Ba5 $16) 15. Ne2 exd5 16. exd5 Qh4+ 17. g3 Qe7 18. Nb6 Qd8 19. Ba5 Ba6 20.
+Na8 $1 20... Qc8 21. Nc7+ Ke7 22. Nxa6 {1-0,Kerek,C-Vajda,S/Eger op/1995/})
+11... Bg7 12. a3 (12. O-O O-O 13. a3 bxa3 14. Rxa3 Rxa3 15. bxa3 e6 (15... Ba6
+16. Qc2 e6 17. dxe6 fxe6 18. e5 Bxc4 19. Bxc4 Nd5 20. exd6 Qxd6 21. Kh1 Nc6 22.
+Rb1 Ne5 23. Bb5 Rd8 24. Ng3 Nf6 25. Bg5 $14 {Ortiz,W-Chan,M/WChJ Halle/1995/})
+16. dxe6 Bxe6 (16... fxe6 17. Ba5 Qe7 18. e5 dxe5 19. Nxe5 Nd5 20. Nc4 Ba6 (
+20... Qa7 {-see the game.}) 21. Bd2 Rd8 22. Qc2 Nc6 23. Rb1 Nd4 24. Nxd4 24...
+cxd4 $13 {Varga,P-Gyimesi,Z/HUN-chT/1995/}) 17. Nf4 Nc6 18. Bc3 Nd4 19. Re1 (
+19. Nxe6 $11 $142) 19... Nd7 20. Ba5 $6 20... Qg5 21. Bd2 Bxc4 22. Bxc4 Ne5 23.
+Be2 Rb8 24. Kh1 24... Rb2 $36 {Miniboeck,G-Plachetka,J/AUT-chT/1998/}) 12...
+bxa3 13. Rxa3 Rxa3 14. bxa3 O-O 15. Ba5 $146 {Azmaiparashvili's novelty is
+very natural, the intermediate move disturbs the coordination of Black's
+pieces.} (15. O-O {-12.0-0}) 15... Qd7 16. O-O (16. Bc3 Ba6 17. O-O $14) 16...
+e6 $5 17. dxe6 (17. Bc3 exd5 18. exd5 (18. Nb6 18... Qa7 $15) 18... Nxd5 19.
+Bxg7 Kxg7 20. Be4 Nf6 21. Qxd6 21... Ba6 $15) 17... fxe6 (17... Qxe6 $2 18. Nf4
+$16 (18. Bc7 Ba6 19. Qb3 $1 $36)) 18. e5 (18. Bc3 18... d5 $13 (18... Ba6 $132)
+) (18. Nb6 $6 18... Qa7 19. Nxc8 Rxc8 20. Be1 (20. Bc4 $2 20... d5 $1 $19)
+20... c4+ 21. Bf2 21... Qxa3 $15) 18... dxe5 19. Nxe5 Qa7 20. Nc4 20... Nd5 $13
+{  The resulting position is similar to the game Varga-Gyimesi above. Although
+White's forces are well developed and he has a better P structure ( e6), Black
+has good piece play and should hold the balance.} 21. Be1 Nc6 22. Bf2 Rd8 (
+22... Ba6 23. Re1 23... Bb5 $11) 23. Qb3 (23. Qc2 $6 23... Ndb4 $1 24. axb4
+Nxb4 25. Qb3 Nxd3 (25... Rxd3 26. Qxb4 cxb4 27. Bxa7 Ba6 28. Rc1 b3 29. Kf2 b2
+30. Nxb2 Bxb2 31. Rc6 $14 {/=}) 26. Rd1 26... Rd5 $1 27. Nb6 27... Qb7 $5 $15 (
+27... Nxf2 28. Rxd5 exd5 29. Qxd5+ Qf7 30. Qd8+ Qf8 31. Qxc8 $11)) 23... Nc3 $5
+(23... Nd4 24. Nxd4 cxd4 25. Bg3 $14) (23... Ba6 24. Qa4 Nd4 25. Nxd4 cxd4 26.
+Bg3 26... Ra8 $11) 24. Qc2 (24. Nxc3 $2 24... Rxd3 25. Rc1 25... Nd4 $17) 24...
+Qd7 (24... Nxe2+ $142 25. Qxe2 (25. Bxe2 25... Nd4 $11) 25... Qd7 26. Be4 26...
+Ba6 $132) 25. Nxc3 Qxd3 26. Qxd3 Rxd3 27. Ne4 27... Nd4 $5 (27... Ba6 28. Nxc5
+Bxc4 29. Nxd3 Bxd3 30. Rc1 $36 { a3}) 28. Rb1 $1 (28. Nxc5 $2 28... Rc3 $19)
+28... Bf8 (28... Ba6 29. Nxc5 Bxc4 30. Rb8+ Kf7 31. Rb7+ Kf8 32. Nxd3 $14) 29.
+h4 { Rb8} 29... Rb3 (29... Ba6 30. Ne5 $1 30... Rb3 (30... Rxa3 $2 31. Rb8 Kg7
+32. Ra8 $40) 31. Nf6+ $14) 30. Rd1 30... Ba6 $5 (30... Ne2+ $143 31. Kh2 { }
+31... Ba6 32. Rd7 $1 $36) 31. Bxd4 31... cxd4 {Black decides to rely on his  
+rather than fight for a draw in a slightly unpleasant   after} (31... Bxc4 32.
+Bxc5 Bxc5+ 33. Nxc5 Rxa3 34. Rd7 Bd5 35. Re7 $14) 32. Rxd4 32... Be7 $44 (32...
+Bxc4 33. Rxc4 Rxa3 34. Rc7 Bg7 35. Rc8+ 35... Bf8 $14 {
+is similar to the above note.}) 33. Ne5 (33. Rd7 $5 33... Kf8 $14 (33... Bxh4
+34. Ncd6 { g3+-}) (33... Rb7 $5)) 33... Bxh4 34. Nd2 (34. Nc5 Rb1+ 35. Kh2 Bf6
+36. f4 36... Rb5 $1 { } 37. Nxa6 37... Rxe5 $11) 34... Re3 35. Rxh4 Rxe5 36.
+Re4 36... Rxe4 $2 {This lands Black in a bad  .} (36... Rd5 37. Rxe6 $14) (
+36... Ra5 $142 37. Re3 $14 {/= with only a rather academic advantage for White.
+} (37. a4 Bb7 38. Rc4 38... Bd5 $11 { Bc6})) 37. Nxe4 e5 (37... Kf7 38. Ng5+
+$18 {also wins a pawn.}) (37... Bc4 38. a4 { } 38... Kf8 39. Nf6 h6 40. Nd7+
+Ke7 41. Ne5 $18) 38. Nf6+ Kf7 (38... Kg7 $142 39. Nd7 Bb5 40. Nxe5 Kf6 41. Ng4+
+$16 {/+-}) 39. Nxh7 $18 {
+White has an extra P and Black's P are weak-the game is decided.} 39... Ke6 40.
+Nf8+ Kf5 41. Nd7 g5 (41... e4 42. Nc5 $18) 42. Kf2 Bc8 43. g4+ $1 43... Ke6 $8
+(43... Kf4 44. Nf8 { Ng6#}) 44. Nc5+ Kd5 45. Ne4 Kd4 46. Nxg5 1-0
+
+[Event "RUS-chT"]
+[Site "Sochi"]
+[Date "2005.04.27"]
+[Round "9"]
+[White "Volkov, Sergey"]
+[Black "Iljushin, Alexei"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2634"]
+[BlackElo "2543"]
+[Annotator "Stohl,I"]
+[PlyCount "103"]
+[EventDate "2005.04.19"]
+[Source "ChessBase"]
+[SourceDate "2005.08.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 {Both players are experts in this
+line, although Iljushin with White stopped playing it a while ago. This time
+he decides to try it from the other side of the board.} 5... e6 6. e4 6... c4
+$5 {A rare side-line, Black invests more material to keep White's K in the  .
+However unpleasant this may seem, his compensation is still rather vague.} (
+6... exd5 7. e5 ({Volkov plays} 7. exd5 7... Bd6 8. Qe2+ Kf8 9. Nc3 {
+, recently he was confronted with the interesting novelty} 9... Bb7 $5 10. Bg5
+h6 11. Bh4 g5 12. Bg3 Bxg3+ 13. hxg3 Kg7 14. Qd2 Re8+ 15. Kf2 Qb6 16. Rd1 c4+
+17. Qd4 Qxd4+ 18. Rxd4 axb5 19. a3 Ra5 20. Nge2 Na6 21. g4 d6 22. Ng3 Bc8 23.
+Nce4 Nxe4+ 24. Nxe4 Rd8 25. Be2 25... Nc5 $15 {
+Volkov,S-Mecking,H/playchess.com 5'/2004/}) 7... Qe7 8. Qe2 8... Ng8 $13 {
+/  is the main line, but nowadays it's not so popular as in the late 1990s.})
+7. Bxc4 axb5 8. Bxb5 {
+White will have to suffer discomfort anyway, so he at least cashes in.} (8. Bb3
+Bc5 9. Ne2 (9. Nh3 O-O 10. dxe6 $5 (10. Bg5 $6 10... h6 11. Bh4 exd5 12. Bxd5
+Qa5+ 13. Nc3 Nxd5 14. Qxd5 b4 15. Na4 b3+ 16. Nc3 Nc6 17. Qxb3 Rb8 18. Qa4 Rxb2
+19. Qxa5 19... Nxa5 $40 {Vallejo Pons,F-De la Riva Aguado,O/Pamplona 1999/})
+10... fxe6 11. e5 $13) (9. Kf1 $6 9... O-O 10. g3 d6 11. Kg2 exd5 12. exd5 Re8
+13. Ne2 13... Ra7 $1 14. Re1 Rae7 15. Bd2 Ba7 16. Ng1 Rxe1 17. Bxe1 Qb6 18. Nh3
+Bxh3+ 19. Kxh3 Re5 20. g4 h5 21. Bg3 hxg4+ 22. fxg4 Ne4 23. Nd2 Nf2+ 24. Bxf2
+Qxf2 25. Nf1 Re2 26. Qd3 Qg2+ 27. Kh4 Bf2+ 28. Kg5 Re5+ 29. Kf4 29... g5# {
+Jakab,A-Predojevic,B/Budapest/2004/}) 9... Qb6 10. Nbc3 d6 11. Bg5 $13 (11.
+dxe6 $6 11... fxe6 12. Bg5 O-O 13. Qd2 Nc6 14. Nd1 Na5 15. Qd3 15... Nc4 $1 $40
+16. Bxc4 bxc4 17. Qxc4 d5 18. Qc2 dxe4 19. fxe4 Ng4 20. Bh4 Ba6 21. Nec3 Ne5
+22. Qb3 22... Qd6 {0-1,Rippis,T-Kulashko,A/Auckland op/2003/})) 8... Bc5 (8...
+Qa5+ 9. Nc3 Bb4 10. Qd3 Na6 11. Be3 Nc5 12. Qc4 exd5 13. exd5 Nb7 14. Bf4 O-O
+15. Bc7 Bxc3+ 16. bxc3 Qa3 17. Ne2 Ne8 18. Nd4 Qe7+ 19. Kf2 Nbd6 20. Bxd6 Nxd6
+21. Qd3 Bb7 22. c4 Ra3 23. Qd2 Qh4+ 24. g3 Qh5 25. Qf4 $16 {
+Carron,J-Kogan,A/Zurich/2001/}) 9. Ne2 (9. Nc3 O-O 10. Nge2 {-9.Ne2}) 9... O-O
+(9... exd5 $2 10. e5 $16) 10. Nbc3 Qb6 (10... exd5 $6 11. e5 (11. Nxd5 Nxd5 12.
+Qxd5 Qa5+ 13. Nc3 d6 14. Qd3 Na6 15. a3 d5 16. exd5 Nb4 17. Qd1 Bd4 18. Rb1 Bf5
+19. axb4 Qxb4 20. Bd3 Bxc3+ 21. bxc3 21... Qxc3+ {
+Pinho,P-Alvarez,R/Mondariz/1996/} 22. Qd2 $11) 11... d4 12. b4 (12. Nxd4 Qe7
+13. Nb3 $5 13... Qxe5+ 14. Qe2 $16) 12... Ba7 13. exf6 dxc3 14. Qd5 Qb6 15.
+fxg7 15... Re8 $132 16. Bd3 $6 16... Qf2+ 17. Kd1 Rxe2 18. Bxh7+ Kxh7 19. Qh5+
+{ ,Martinez,D-Alvarez,R/Mondariz/1996/}) (10... Bb7 $5 11. Kf1 (11. d6 Nc6 12.
+Bg5 Qb6 13. Qd2 Rfc8 14. a4 Ne8 15. Bf4 Ba6 16. Rb1 16... Nb4 $44 17. Rd1 $2
+17... Bxb5 18. axb5 18... e5 $1 $17 {Wojtaszek,R-Predojevic,B/Halkidiki/2001/ }
+19. Bxe5 19... Be3 $19) (11. Qd3 exd5 12. e5 Ne8 13. Nxd5 Nc6 14. Bf4 Nc7 15.
+Nxc7 Qxc7 16. Bxc6 dxc6 17. Be3 Qxe5 18. Bxc5 Qxc5 19. Qd4 Qb5 20. a4 20... Qa6
+$44 {Lahlum,H-Kolas,T/Oslo/2000/}) 11... exd5 12. exd5 Ba7 13. g3 Qb6 14. Kg2
+Qf2+ 15. Kh3 Qxf3 16. Nf4 Qf2 17. Rf1 Qc5 18. Re1 Qd6 19. Nh5 Nxh5 20. Qxh5 Bd4
+21. a4 Bxc3 22. bxc3 Bxd5 23. Ba3 Be6+ 24. Kg2 Bd5+ 25. Kh3 Be6+ 26. Kg2 Bd5+
+27. Kh3 { ,Wojtaszek,R-Harikrishna,P/WChJ Goa/2002/}) 11. Qb3 $146 {
+White gets ready to castle  , but there his K won't be safer than in the  .} ({
+The most usual reaction is the developing move} 11. Bg5 11... Na6 (11... Ne8
+12. Rc1 Bf2+ 13. Kf1 f6 14. Bf4 e5 15. Bd2 Nd6 16. Bd3 Ba6 17. Na4 Qa7 18. Bb4
+$18 {Llanos,G-Felgaer,R/Torre Blanca/1997/}) (11... exd5 12. Bxf6 gxf6 13. Qxd5
+Bb7 14. Qf5 (14. Qh5 Be3 15. Rd1 Kh8 16. Ng3 Bg1 17. Rd2 Be3 18. Rd3 Bc1 19.
+Ke2 Bxb2 20. a4 Nc6 21. Nf5 Bxc3 22. Rxc3 Ne5 23. Qh6 Rg8 24. Rc6 Rxg2+ 25. Kd1
+Rg1+ 26. Ke2 Rg2+ 27. Kd1 Qd8 28. Rc2 Rg6 29. Qe3 Bc6 30. h4 Rxa4 31. h5 Rg5
+32. Bxa4 Bxa4 33. Rhh2 Bxc2+ 34. Rxc2 Nc6 35. Rd2 {
+-  Simonet Pons,M-Jose Ramon,G/Andorra 1998/LF_11 (35)}) 14... Ra5 15. a4 Na6
+16. Nf4 Nc7 17. Nh5 17... Ne8 {Rylander,D-Holving,R/Stockholm/1999/} 18. Rd1
+Bg1 19. Qg4+ Kh8 20. Qh4 $18) 12. Bxf6 (12. Qd2 Nc7 13. Bc4 Bb7 14. d6 Bxd6 15.
+Be3 Bc5 16. Bxc5 Qxc5 17. Qd4 Qa5 18. O-O d5 19. e5 Nd7 20. Bd3 $16 {
+Solodovnichenko,Y-Sergeev,V/SVK-ch Presov/1997/}) 12... gxf6 13. Rb1 Nc7 14.
+Bc4 Ba6 15. Bxa6 Rxa6 16. Kf1 exd5 17. Nxd5 Nxd5 18. Qxd5 Rfa8 19. Qb3 Qxb3 20.
+axb3 Rb8 21. Nc3 Rxb3 22. Ke2 Ba3 23. Rhd1 Rxb2+ 24. Rxb2 Bxb2 25. Nd5 $16 {
+P,Hauchard,A-Guidarelli,L/Vichy/2000/ Schreckliche schwarze Bauernstruktur
+gegen einen riesigen Springer.}) ({Similar to the text-move is} 11. Bc4 11...
+Bb7 $6 ({This wastes a tempo.} 11... Na6 $142 {
+, this can transpose into the game position after} 12. Qb3 Qa7 13. Bg5) 12. Qb3
+Qa7 13. Bg5 Na6 14. O-O-O exd5 15. exd5 Be3+ 16. Bxe3 Qxe3+ 17. Kb1 Rab8 18.
+Ne4 Qh6 19. Nxf6+ Qxf6 20. Qc3 Qg6+ 21. Bd3 Qb6 22. Qd4 Nc5 23. Rd2 Rfc8 24.
+Ng3 Qa5 25. Nh5 f6 26. Qg4 g5 27. Nxf6+ Kf7 28. Qf5 $1 $18 {
+Postny,E-Guseinov,E/EUR-ch Warsaw/2005/}) 11... Na6 12. Bg5 Nc7 13. Bc4 Qa7 14.
+O-O-O (14. Bxf6 $142 14... gxf6 15. Kf1 Rb8 16. Qc2 d6 17. g4 $5 $14 { Kg2})
+14... Ba6 $1 { a,b } 15. Bxa6 Qxa6 16. Qc2 Rfb8 17. Rd2 $6 (17. Bxf6 $142 17...
+gxf6 18. Rd3 $14 (18. dxe6 dxe6 19. Rd7 19... Nb5 $13)) 17... Nfe8 $1 $13 {
+Black avoids the exchange and transfers his N to the  . White must defend with
+care.} 18. Qd3 18... Qa7 { f6} 19. Nd4 (19. Rc2 19... Na6 $5 20. a3 20... Rb3
+$44 (20... e5 21. Nd1 $5 $14)) 19... e5 {
+Now White must rely in his defence, as at the moment he has no active  .} 20.
+Nb3 (20. Nf5 20... Qa5 $44 { Nb5}) 20... Rxb3 {An enterprising sacrifice, but
+Black could have increased his pressure also by quiet methods.} (20... Na6 $5
+$44) 21. axb3 f6 22. Bh4 (22. b4 $6 22... Bxb4 $1 23. Be3 (23. Bh4 Qa1+ 24. Qb1
+Bxc3 25. bxc3 Qxc3+ 26. Rc2 26... Qe3+ $40) 23... Qa1+ 24. Nb1 $8 24... Bxd2+
+25. Bxd2 25... Nd6 $17) 22... Nd6 (22... Be3 23. Na4 Rc8 24. Kb1 Bxd2 25. Qxd2
+Nb5 26. Bf2 $14) 23. Kd1 (23. Kc2 Na6 24. Na2 Nb4+ 25. Nxb4 25... Bxb4 $44 26.
+Rdd1 Qc5+ 27. Kb1 Qa7 28. Kc2 $11) (23. Na4 $5 23... Be3 24. Kb1 $14) 23...
+Qa1+ 24. Qb1 {White must try to escape with his K, the alternative} (24. Nb1 $6
+24... Ncb5 25. Bf2 Bxf2 26. Rxf2 26... Nd4 $40 {is extremely dangerous.}) 24...
+Ncb5 25. Ke2 (25. Kc2 25... Qa5 { Nd4 }) 25... Qa6 26. Qd3 $6 ({
+Simplification helps and gives White chances to disentangle:} 26. Nxb5 $142
+26... Nxb5 (26... Qxb5+ $2 27. Qd3 $16) 27. Qd3 Nd4+ 28. Kf1 Nxb3 29. Qxa6 $1 (
+29. Rd1 Qb6 30. g4 $14 { Kg2}) 29... Nxd2+ 30. Ke2 Rxa6 31. Kxd2 $16) 26...
+Nd4+ 27. Kf1 Nxb3 28. Qxa6 {Here White can't retain his material advantage.} (
+28. Rd1 $143 28... Nc4 29. Bf2 $8 29... Bb4 $5 $36 (29... Bxf2 30. Kxf2 30...
+Nxb2 $36)) 28... Nxd2+ 29. Ke2 Rxa6 30. Kxd2 30... Nc4+ $11 31. Ke2 (31. Kc2
+Ne3+ 32. Kd3 32... Nxg2 $15) 31... Nxb2 32. Rb1 Rb6 (32... Nc4 33. Rb7 (33.
+Rb8+ Kf7 34. Rc8 Ra5 35. Be1 35... Nd6 $11) 33... Ra7 $11) 33. Nd1 Nxd1 34.
+Rxb6 Bxb6 35. Kxd1 {White has survived a dangerous attack and forced a
+liquidation into an  , in which he has a minimal advantage due to his better B.
+However, Black still should be able to draw comfortably.} 35... h5 (35... d6
+$142 36. Kc2 Kf7 37. Kd3 Ke7 38. Kc4 38... Kd7 $11 {and it's not clear how
+White can improve his position, Black avoids a P  and just shuffles his B.})
+36. Ke2 Kf7 37. Kd3 Bg1 38. h3 Ke7 39. Kc4 39... g5 $2 {
+f6 Creates a second weakness apart from the d-pawn.} (39... d6 40. Kb5 Kd7 41.
+g4 hxg4 42. fxg4 Be3 43. Be1 43... Bf4 $11 {and Black holds, White's K has
+nowhere to penetrate and his B can't get in via f8.} (43... g5 $2 44. h4 $1
+44... gxh4 45. Bxh4 Ke7 46. Kc6 $18)) 40. Be1 h4 (40... d6 41. h4 $1 41... g4 (
+41... Bc5 42. g4 $1 42... gxh4 43. Bxh4 hxg4 44. fxg4 {
+Kb5-c6-c7-c8,Be1-a5-d8+-}) 42. fxg4 hxg4 43. Bd2 $16 {/+-, h}) 41. Kb5 Be3 (
+41... d6 42. Kc6 $1 (42. Bb4 $2 42... Kd7 $11) 42... Bc5 $8 43. Ba5 Ke8 44. Kc7
+Ke7 45. Kc8 Ke8 46. Bd8 Bd4 (46... Kf7 47. Kd7 $18) 47. Bxf6 Be3 48. Bd8 Bd2
+49. f4 $1 49... Bxf4 (49... exf4 50. e5 Bb4 51. exd6 Bxd6 52. Bxg5 $18) 50. Ba5
+$18 { Bb4,Kc7}) 42. Bb4+ Ke8 43. Bd6 $18 43... Bd2 (43... Kd8 44. Ka6 { Kb7,Bc7
+} 44... Kc8 $2 45. Be7) 44. Kb6 Bc3 (44... Kd8 45. Kb7 Ba5 46. Bc5 Bd2 47. Bb6+
+Ke7 (47... Ke8 48. Kc8 { Bd8+-}) 48. Kc8 Kd6 49. Kd8 $1 $18 { Bc7}) 45. Kc7
+Ba5+ 46. Kc8 Bd8 47. Ba3 {
+Playing for zugzwang is the simplest, but White already has more ways to win.}
+(47. Bc7 Be7 (47... Bxc7 48. Kxc7 Ke7 49. Kc8 $18 {is the game.}) 48. d6 (48.
+Ba5 $22 48... Bf8 49. Bd8 Bg7 50. d6 Bh8 51. Be7 Bg7 52. Kc7 Bh8 53. Bf8 $18 {
+is the same}) 48... Bf8 49. Bd8 Bg7 (49... Bxd6 50. Bxf6 $18) 50. Be7 Bh8 51.
+Bf8 Kxf8 52. Kxd7 Kf7 53. Kc8 f5 54. d7 Bf6 55. d8=Q Bxd8 56. Kxd8 $18) 47...
+Bb6 (47... Ba5 48. Bc5 Be1 49. Bb6 $18 { Bd8}) 48. Bb4 Bd8 49. Bd6 $22 49...
+Bb6 50. Bc7 Bxc7 (50... Bd4 51. Bd8 $18) 51. Kxc7 Ke7 52. Kc8 (52. Kc8 Kd6 (
+52... Ke8 53. d6 $18) 53. Kd8 f5 54. exf5 Kxd5 55. Kxd7 $18) 1-0
