@@ -5,8 +5,9 @@ layout: default
 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
   <h1>{{ page.title }}</h1>
   {{ content }}
-  <p></p>
+</div>
 
+<div class="col-xs-12">
   {% assign table = page.url | remove_first: '/' | append: 'table.html' %}
   {% include {{table}} %}
 </div>
