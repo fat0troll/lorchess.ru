@@ -51,13 +51,13 @@ table.tournament {
     padding: 0;
   }
 
-  tbody > tr {
-    > .score, > .diagonal {
-      min-width: 21px;
-      text-align: center;
-    }
-    > .diagonal {
-      background: black !important;
-    }
+  thead > tr > .opponent,
+  tbody > tr > .score,
+  tbody > tr > .diagonal {
+    min-width: 21px;
+    text-align: center;
+  }
+  tbody > tr > .diagonal {
+    background: black !important;
   }
 }

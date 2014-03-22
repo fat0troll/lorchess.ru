@@ -11,6 +11,7 @@ $(function() {
   };
 
   /* Sort a tournament table with tablesorter */
+  $('.tablesorter .opponent').addClass('{sorter: false}');
   $('.tablesorter').tablesorter({
     widgets: ['zebra']
   });
