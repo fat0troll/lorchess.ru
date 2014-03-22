@@ -1,0 +1,30 @@
+/* Tournament table */
+
+table.tournament {
+  thead > tr > th, thead > tr > td,
+  tfoot > tr > th, tfoot > tr > td,
+  tbody > tr > th, tbody > tr > td {
+    padding: 0;
+  }
+
+  thead > tr > .opponent,
+  tbody > tr > .score,
+  tbody > tr > .diagonal {
+    min-width: 21px;
+    text-align: center;
+  }
+  tbody > tr > .diagonal {
+    background: black !important;
+  }
+}
+
+
+/* Tablesorter */
+
+/* Fix the background color of tfoot */
+.tablesorter-blue tfoot {
+  .tablesorter-headerSortUp, .tablesorter-headerSortDown,
+  .tablesorter-headerAsc, .tablesorter-headerDesc {
+    background-color: #fff;
+  }
+}

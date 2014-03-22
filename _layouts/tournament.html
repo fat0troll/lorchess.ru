@@ -8,6 +8,7 @@ layout: default
 </div>
 
 <div class="col-xs-12">
+  {% stylesheet table %}
   {% assign table = page.url | remove_first: '/' | append: 'table.html' %}
   {% include {{table}} %}
 </div>

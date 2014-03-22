@@ -1,1 +1,1 @@
-../vendor/tablesorter/jquery.metadata.js
+../vendor/tablesorter/js/jquery.metadata.js
