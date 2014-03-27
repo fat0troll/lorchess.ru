@@ -12,3 +12,8 @@ layout: default
   {% assign table = page.url | remove_first: '/' | append: 'table.html' %}
   {% include {{table}} %}
 </div>
+
+<div class="col-xs-12">
+  {% assign tour-info = page.url | remove_first: '/' | append: 'tour-info.html' %}
+  {% include {{tour-info}} %}
+</div>
