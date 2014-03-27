@@ -21,10 +21,16 @@ table.tournament {
 
 /* Tablesorter */
 
-/* Fix the background color of tfoot */
-.tablesorter-blue tfoot {
-  .tablesorter-headerSortUp, .tablesorter-headerSortDown,
-  .tablesorter-headerAsc, .tablesorter-headerDesc {
-    background-color: #fff;
+/* Fix background colors */
+.tablesorter-blue {
+  tfoot {
+    .tablesorter-headerSortUp, .tablesorter-headerSortDown,
+    .tablesorter-headerAsc, .tablesorter-headerDesc {
+      background-color: #fff;
+    }
+  }
+  tbody {
+    > tr.even:hover > td { background-color: #fff; }
+    > tr.odd:hover > td { background-color: #ebf2fa; }
   }
 }
