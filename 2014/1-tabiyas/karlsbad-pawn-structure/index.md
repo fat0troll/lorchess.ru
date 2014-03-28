@@ -6,7 +6,7 @@ pgn:    karlsbad-pawn-structure-gamepack.pgn
 
 **1. d4 d5 2. c4 e6 3. Кc3 Кf6 4. cd ed**
 
-<img src="karlsbad-pawn-structure.gif" class="pull-left">
+![Karlsbad pawn structure](karlsbad-pawn-structure.gif){: .pull-left}
 
 Под этим названием объединены варианты, в которых белые предпринимают размен в центре — **c4:d5**. После **e6:d5** пешечная структура приобретает весьма характерный рисунок, носящий название *карлсбадская структура*.
 
