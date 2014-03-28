@@ -8,7 +8,7 @@ exclude:     ['Gemfile*', 'Guardfile', 'README*', 'vendor']
 keep_files:  ['.gitkeep']
 
 encoding: UTF-8
-markdown: redcarpet
+markdown: kramdown
 gems:     ['jekyll-assets']
 
 #
