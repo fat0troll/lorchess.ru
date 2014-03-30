@@ -22,4 +22,7 @@ title:  "LORChess: Табии"
 
 9-10 туры
 : [Староиндийская защита. Вариант Земиша](samisch-variation/)
+
+11-12 туры
+: [Защита Каро-Канн. Разменный вариант](caro-kann-exchange-variation/)
 {: .dl-horizontal}
