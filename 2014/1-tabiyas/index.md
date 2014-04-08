@@ -25,4 +25,7 @@ title:  "LORChess: Табии"
 
 11-12 туры
 : [Защита Каро-Канн. Разменный вариант](caro-kann-exchange-variation/)
+
+13-14 туры
+: [Защита Нимцовича. Вариант Хюбнера](huebner-variation/)
 {: .dl-horizontal}
