@@ -1,17 +1,35 @@
 @squareSize: 56px;
 @boardBorderWidth: 4px;
 @boardSize: 8 * @squareSize + 2 * @boardBorderWidth;
+@tableBorder: 1px solid #ddd;
 
-#GameWrapper {
-  float: left;
-  width: @boardSize;
-}
-#TextWrapper {
-  margin-left: @boardSize;
-  padding-left: 15px;
-}
-#GameWrapper.affix {
+body, html { height: 100%; }
+#GameWrapper { min-height: 100%; }
+#GameBoardWrapper { position: relative; }
+#GameTextWrapper {
+  position: absolute;
   top: 0;
+  bottom: 0;
+  left: @boardSize + 10px;
+
+  display: block;
+  width: 180px;
+  overflow-y: auto;
+}
+#GameText {
+  display: table;
+  width: 141px;
+  border-top: @tableBorder;
+  border-left: @tableBorder;
+  .move {
+    display: table-cell;
+    border-bottom: @tableBorder;
+    border-right: @tableBorder;
+    text-align: center;
+  }
+  span.move { width: 40px; }
+  a.move { width: 50px; }
+  .variation { float: left; }
 }
 
 .boardTable {
@@ -34,3 +52,4 @@
 .blackSquare, .highlightBlackSquare {
   background: #CC9966;
 }
+.moveOn, .variationOn { background-color: #ccc; }

@@ -7,23 +7,26 @@ layout: default
   {{ content }}
 </div>
 
-<div class="col-xs-12">
-  <div id="GameWrapper" data-spy="affix">
-    <p></p>
+<div id="GameWrapper" class="col-xs-12 col-sm-8 col-sm-offset-2">
+  <strong><span id="GameWhite"></span>&nbsp;vs.&nbsp;<span id="GameBlack"></span>&nbsp;&#8226;&nbsp;<span id="GameResult"></span></strong>
+
+  <p></p>
+
+  <div id="GameBoardWrapper">
     <div id="GameSelector"></div>
     <p></p>
     <div id="GameBoard"></div>
     <p></p>
     <div id="GameButtons"></div>
+
+    <div id="GameTextWrapper">
+      <div id="GameText"></div>
+    </div>
   </div>
 
-  <div id="TextWrapper">
-    <p></p>
-    <b><span id="GameWhite"></span>&nbsp;-&nbsp;<span id="GameBlack"></span>&nbsp;&nbsp;<span id="GameResult"></span></b>
-    <p></p>
-    <div id="GameText"></div>
-    <p></p>
-  </div>
+  <p></p>
+
+  <div id="GameMoveComment"></div>
 </div>
 
 <!-- pgn4web JavaScript -->
@@ -36,6 +39,5 @@ layout: default
  SetImagePath("/assets/img/chesspieces/wikipedia");
  SetImageType("png");
  SetGameSelectorOptions("Выбрать партию ...", false, 0, 0, 0, 15, 15, 0, 10); // (head, num, chEvent, chSite, chRound, chWhite, chBlack, chResult, chDate);
- SetCommentsOnSeparateLines(true);
- SetShortcutKeysEnabled(true);
+ SetCommentsIntoMoveText(false);
 </script>

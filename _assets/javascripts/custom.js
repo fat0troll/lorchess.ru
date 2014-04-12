@@ -1,15 +1,4 @@
 $(function() {
-  /* Fix the position of chess board while scrolling */
-  if (obj = $('#GameWrapper')) {
-    obj.affix({
-      offset: {
-        top: function () {
-          return obj.parent().offset().top;
-        }
-      }
-    })
-  };
-
   /* Sort a tournament table with tablesorter */
   $('.tablesorter .opponent').addClass('{sorter: false}');
   $('.tablesorter').tablesorter({
@@ -27,6 +16,12 @@ function customFunctionOnPgnGameLoad() {
 }
 function customFunctionOnMove() {
   refreshButtonset();
+
+  /* Show move comment */
+  if (CurrentVar == 0 && (theObj = document.getElementById("GameMoveComment"))) {
+    theObj.innerHTML = '<span class="comment">' +
+      strippedMoveComment(CurrentPly, 0, true) + '</span>';
+  }
 }
 function refreshButtonset() {
   $('#GameButtons input').addClass('btn btn-default');
