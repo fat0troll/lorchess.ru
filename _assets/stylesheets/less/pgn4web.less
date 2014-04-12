@@ -18,9 +18,8 @@ body, html { height: 100%; }
 }
 #GameText {
   display: table;
-  width: 141px;
-  border-top: @tableBorder;
   border-left: @tableBorder;
+  #ShowPgnText > :nth-child(-n+4) { border-top: @tableBorder; }
   .move {
     display: table-cell;
     border-bottom: @tableBorder;
