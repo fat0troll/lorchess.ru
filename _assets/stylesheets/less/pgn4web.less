@@ -1,11 +1,41 @@
-@squareSize: 56px;
-@boardBorderWidth: 4px;
-@boardSize: 8 * @squareSize + 2 * @boardBorderWidth;
-@tableBorder: 1px solid #ddd;
+/* Enable the scrolling of chess board up to the page top */
 
 body, html { height: 100%; }
 #GameWrapper { min-height: 100%; }
 #GameBoardWrapper { position: relative; }
+
+
+/* Chess board */
+
+@squareSize: 56px;
+@boardBorderWidth: 4px;
+@boardSize: 8 * @squareSize + 2 * @boardBorderWidth;
+
+.boardTable {
+  width: @boardSize;
+  height: @boardSize;
+  border: @boardBorderWidth solid #663300;
+}
+.whiteSquare, .blackSquare {
+  width: @squareSize;
+  height: @squareSize;
+}
+.pieceImage {
+  height: @squareSize;
+  width: @squareSize;
+}
+.whiteSquare, .highlightWhiteSquare {
+  background: #ffcc99;
+}
+.blackSquare, .highlightBlackSquare {
+  background: #cc9966;
+}
+
+
+/* PGN notation of chess game */
+
+@tableBorder: 1px solid #ddd;
+
 #GameTextWrapper {
   position: absolute;
   top: 0;
@@ -31,25 +61,12 @@ body, html { height: 100%; }
   a.move { width: 50px; }
   .variation { float: left; }
 }
-
-.boardTable {
-  width: @boardSize;
-  height: @boardSize;
-  border: @boardBorderWidth solid #663300;
-}
-.whiteSquare, .blackSquare {
-  width: @squareSize;
-  height: @squareSize;
-}
-.pieceImage {
-  height: @squareSize;
-  width: @squareSize;
-}
-
-.whiteSquare, .highlightWhiteSquare {
-  background: #FFCC99;
-}
-.blackSquare, .highlightBlackSquare {
-  background: #CC9966;
-}
 .moveOn, .variationOn { background-color: #ccc; }
+
+
+/* Comment of a chess-game move */
+
+#GameMoveComment .comment:not(:first-child):before {
+  content: '\a';
+  white-space: pre;
+}
