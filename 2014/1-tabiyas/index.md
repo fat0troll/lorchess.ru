@@ -8,24 +8,5 @@ title:  "LORChess: Табии"
 Табии турнира
 -------------
 
-1-2 туры
-: [Итальянская партия. Гамбит Эванса](evans-gambit/)
-
-3-4 туры
-: [Французская защита. Вариант Винавера](winawer-variation/)
-
-5-6 туры
-: [Разменный вариант ферзевого гамбита](karlsbad-pawn-structure/)
-
-7-8 туры
-: [Волжский гамбит](benko-gambit/)
-
-9-10 туры
-: [Староиндийская защита. Вариант Земиша](samisch-variation/)
-
-11-12 туры
-: [Защита Каро-Канн. Разменный вариант](caro-kann-exchange-variation/)
-
-13-14 туры
-: [Защита Нимцовича. Вариант Хюбнера](huebner-variation/)
-{: .dl-horizontal}
+{% assign tabiyas = page.url | remove_first: '/' | append: 'tabiyas.html' %}
+{% include {{tabiyas}} %}
