@@ -1,0 +1,269 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1918.10.23"]
+[EventDate "1918.10.23"]
+[Round "1"]
+[Result "1-0"]
+[White "Jose Raul Capablanca"]
+[Black "Frank James Marshall"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 Nf6 12.Re1 Bd6
+13.h3 Ng4 14.Qf3 Qh4 15.d4 Nxf2 16.Re2 Bg4 17.hxg4 Bh2+ 18.Kf1
+Bg3 19.Rxf2 Qh1+ 20.Ke2 Bxf2 21.Bd2 Bh4 22.Qh3 Rae8+ 23.Kd3
+Qf1+ 24.Kc2 Bf2 25.Qf3 Qg1 26.Bd5 c5 27.dxc5 Bxc5 28.b4 Bd6
+29.a4 a5 30.axb5 axb4 31.Ra6 bxc3 32.Nxc3 Bb4 33.b6 Bxc3
+34.Bxc3 h6 35.b7 Re3 36.Bxf7+ 1-0
+
+[Event "Classical World Chess Championship"]
+[Site "Brissago SUI"]
+[Date "2004.01.09"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Vladimir Kramnik"]
+[Black "Peter Leko"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 {Notes by Raymond Keene.} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4
+Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5 {The dangerous
+Marshall Gambit, which Kramnik had avoided in earlier games.}
+9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4
+14. g3 Qh3 15. Re4 g5 {This was first played in the game
+Petrosian-Averbakh, Moscow 1947. That game saw 16 Nd2 Bf5 17
+Qe2 Nf6 18 Re5 Bxe5 19 dxe5 Ng4 and Black went on to win. The
+point of 15 ... g5 is to prevent Rh4, while 16 Bxg5 fails to
+16 ... Qf5.} 16. Qf1 Qh5 17. Nd2 Bf5 18. f3 Nf6 19. Re1 Rae8
+20. Rxe8 Rxe8 21. a4 Qg6 22. axb5 {Starting on the road to
+perdition. White must play 22 Ne4 Nxe4 23 fxe4 when 23
+... Bxe4 24 axb5 axb5 (24 ... Bd3 fails to 25 Bxf7+) 25 Bxg5
+is in White's favour. In this line Black must play 22 Ne4 Bxe4
+23 fxe4 Nxe4 with approximate equality.} Bd3 23. Qf2 Re2
+24. Qxe2 {This was played quickly in the evident belief that
+White was winning. In fact White must now turn his thoughts to
+survival by 24 bxa6 Rxf2 25 Kxf2 Qh5 26 Ke3 Bxa6 27 Rxa6 Qxh2
+when there is still some fight left in the game. In this line
+26 Kg1 loses to 26 ... Qh3 27 a7 Bxg3 28 a8=Q+ Kg7 29 hxg3
+Qxg3+ 30 Kh1 g4 31 Qxc6 Qh3+ 32 Kg1 g3} Bxe2 25. bxa6 Qd3 {The
+key move which Kramnik and his team had underestimated before
+the game. If now 26 a7 Qe3+ 27 Kg2 Bxf3+ 28 Nxf3 Qe2+ 29 Kg1
+Ng4 30 a8=Q+ Kg7 31 Qxc6 Qf2+ 32 Kh1 Qf1+ 33 Ng1 Nf2
+mate. Alternatively 30 Be3 Nxe3 31 a8=Q+ Kg7 32 Nh4 gxh4 33
+Qxc6 hxg3 34 hxg3 Bxg3 and mate follows. White can also play
+26 Bc4 which is refuted by 26 ... Qe3+ 27 Kg2 g4 28 f4 Ne4 29
+a7 Qf2+ 30 Kh1 Nxd2 31 a8=Q+ Kg7 and White is defenceless.}
+26. Kf2 Bxf3 27. Nxf3 Ne4+ 28. Ke1 Nxc3 {Much stronger than 28
+... Qxf3. This final sacrifice lays White's position to
+waste.} 29. bxc3 Qxc3+ 30. Kf2 Qxa1 31. a7 h6 32. h4 g4 {At
+the end of the game Kramnik said, sportingly: "a beautiful
+game that will be remembered in the history of chess."} 0-1
+
+[Event "Corus Chess Tournament"]
+[Site "Wijk aan Zee NED"]
+[Date "2005.01.15"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Judit Polgar"]
+[Black "Peter Svidler"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.g3 Bd6
+13.Re1 Qd7 14.d3 Qh3 15.Re4 Nf6 16.Rh4 Qf5 17.Nd2 Re8 18.Ne4
+Nxe4 19.Rxe4 Rxe4 20.dxe4 Qxe4 21.Bc2 Qe7 22.Bg5 f6 23.Be3 Be6
+24.Qf3 Qd7 25.Rd1 Rd8 26.Be4 Bxa2 27.Bb6 Bb3 28.Rd4 c5 29.Bxc5
+Qe6 30.c4 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.10"]
+[EventDate "2006.11.06"]
+[Round "4"]
+[Result "0-1"]
+[White "Alexey Shirov"]
+[Black "Levon Aronian"]
+[ECO "C89"]
+[WhiteElo "2720"]
+[BlackElo "2741"]
+[PlyCount "116"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15. Re4 g5 16. Qf1 Qh5
+17. Nd2 Bf5 18. f3 Nf6 19. a4 Nxe4 20. Nxe4 Qg6 21. Nxd6 Qxd6
+22. Bxg5 Qg6 23. Qc1 Bd3 24. axb5 axb5 25. Rxa8 Rxa8 26. Kf2
+Bc4 27. Bxc4 bxc4 28. g4 Re8 29. Bf4 Qd3 30. Kg3 Qe2 31. Qb1
+Qe1+ 32. Qxe1 Rxe1 33. Bd6 Rg1+ 34. Kf2 Rb1 35. Ba3 Kg7
+36. Kg3 Kg6 37. h3 h5 38. Kh4 Rg1 39. Bc5 Rg2 40. Ba3 f6
+41. gxh5+ Kf5 42. f4 Rg8 43. Bd6 Ke6 44. h6 Kxd6 45. Kh5 f5
+46. h7 Rh8 47. Kg6 Ke7 48. Kg7 Ke8 49. Kg6 Kf8 50. h4 Ke7
+51. Kg7 Ke8 52. Kg6 Kf8 53. h5 Ke7 54. Kg7 Ke8 55. Kg6 Kf8
+56. h6 Ke8 57. Kf6 Rxh7 58. Kg6 Rf7 0-1
+
+[Event "Kramnik-Aronian Rapid Match"]
+[Site "Yerevan ARM"]
+[Date "2007.05.04"]
+[EventDate "2007.05.04"]
+[Round "1"]
+[Result "1-0"]
+[White "Vladimir Kramnik"]
+[Black "Levon Aronian"]
+[ECO "C89"]
+[WhiteElo "2772"]
+[BlackElo "2759"]
+[PlyCount "89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15. Be3 Bg4 16. Qd3 Rae8
+17. Nd2 Re6 18. Qf1 Qh5 19. f3 Nxe3 20. Qf2 Nd5 21. fxg4 Qxg4
+22. Qf3 Qg5 23. Rxe6 fxe6 24. Ne4 Qg6 25. Qe2 Nf4 26. Qc2 Nh3+
+27. Kg2 Qg4 28. Bxe6+ Qxe6 29. Qb3 Nf4+ 30. gxf4 Qxb3 31. axb3
+Bxf4 32. Rxa6 Rc8 33. Nc5 Kf7 34. Nd3 g5 35. Nxf4 gxf4 36. Kf3
+Ke6 37. Kxf4 Kd6 38. c4 Rf8+ 39. Ke3 Kc7 40. Ra7+ Kb6 41. Rxh7
+Rf1 42. Rh6 Kb7 43. Rh5 Rb1 44. Kd3 bxc4+ 45. Kc2 1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas ESP"]
+[Date "1999.04.13"]
+[EventDate "1999.04.06"]
+[Round "6"]
+[Result "0-1"]
+[White "Judit Polgar"]
+[Black "Michael Adams"]
+[ECO "C89"]
+[WhiteElo "2677"]
+[BlackElo "2716"]
+[PlyCount "90"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. d3 Bd6 13. Re1 Qh4 14. g3 Qh3 15. Re4 Qf5 16. Nd2 Qg6
+17. Re1 f5 18. Qf3 Kh8 19. Bd1 f4 20. g4 h5 21. h3 Nf6 22. Qg2
+hxg4 23. hxg4 Bxg4 24. Re6 Qh5 25. Bxg4 Nxg4 26. Rxd6 Rae8
+27. Ne4 Ne5 28. f3 Nxf3+ 29. Kf2 Nh4 30. Qh1 g5 31. b4 g4
+32. Bb2 g3+ 33. Kg1 Nf3+ 34. Kg2 Nh2 35. c4+ Kg8 36. Qd1 f3+
+37. Kxg3 Qg4+ 38. Kf2 Qh4+ 39. Ke3 Qf4+ 40. Kd4 Qe5+ 41. Ke3
+Ng4+ 42. Kd2 Qxb2+ 43. Qc2 Qxa1 44. Rg6+ Kh7 45. Rxg4 f2 0-1
+
+[Event "XXIV SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2007.02.17"]
+[EventDate "2007.02.17"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Peter Svidler"]
+[Black "Levon Aronian"]
+[ECO "C89"]
+[WhiteElo "2728"]
+[BlackElo "2744"]
+[PlyCount "76"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15. Re4 g5 16. Qf1 Qh5
+17. Nd2 Bf5 18. f3 Nf6 19. Qg2 Qg6 20. Re3 Rae8 21. Ne4 Nxe4
+22. g4 Ng3 23. hxg3 Bd3 24. Bd2 Rxe3 25. Bxe3 Re8 26. Re1 c5
+27. dxc5 Bxc5 28. Qd2 Bxe3+ 29. Rxe3 Qb6 30. Kf2 Rd8 31. Qe1
+Re8 32. Qd2 Rd8 33. Bc2 Bg6 34. Qe2 Re8 35. Bxg6 hxg6 36. Qd2
+Rd8 37. Qe2 Re8 38. Qd2 Rd8 1/2-1/2
+
+[Event "European Individual Championships"]
+[Site "Dresden GER"]
+[Date "2007.04.04"]
+[EventDate "2007.04.03"]
+[Round "2"]
+[Result "1-0"]
+[White "Baadur Jobava"]
+[Black "Rene Stern"]
+[ECO "C89"]
+[WhiteElo "2650"]
+[BlackElo "2476"]
+[PlyCount "93"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Bb7
+12. d4 Bf6 13. Re1 Re8 14. Nd2 Nf4 15. Nf3 Bxf3 16. gxf3 Qd6
+17. Kh1 Nh3 18. Rxe8+ Rxe8 19. Qf1 Qd7 20. Be3 Qf5 21. Qg2 Bg5
+22. Bxg5 Nxg5 23. Rg1 Qxf3 24. Bd5 Qxg2+ 25. Kxg2 Kf8 26. Bb7
+a5 27. Bc6 Rb8 28. Re1 f6 29. a4 bxa4 30. Bxa4 Nf7 31. c4 Nd6
+32. b3 Rd8 33. Re6 Kf7 34. d5 g5 35. Kf3 h5 36. Ke3 Nf5+
+37. Kd3 Nd6 38. Kd4 g4 39. Kc5 Ra8 40. Kc6 Ra7 41. c5 Nf5
+42. Kd7 h4 43. Kc8 Ra8+ 44. Kxc7 Ne7 45. Rxe7+ Kxe7 46. d6+
+Ke6 47. Bd7+ 1-0
+
+[Event "European Individual Championships"]
+[Site "Dresden GER"]
+[Date "2007.04.11"]
+[EventDate "2007.04.03"]
+[Round "8"]
+[Result "0-1"]
+[White "Arkadi Naiditsch"]
+[Black "Jan Gustafsson"]
+[ECO "C89"]
+[WhiteElo "2654"]
+[BlackElo "2588"]
+[PlyCount "50"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. Re1 Bd6 13. g3 Bf5 14. d4 Qd7 15. Be3 Rae8 16. Nd2 Bg4
+17. Qb1 Bf5 18. Bc2 Bxc2 19. Qxc2 f5 20. c4 bxc4 21. Nxc4 f4
+22. Bd2 f3 23. Qd3 Re2 24. Rxe2 Qh3 25. Ne3 Rf4 0-1
+
+[Event "European Individual Championships"]
+[Site "Dresden GER"]
+[Date "2007.04.11"]
+[EventDate "2007.04.03"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Sergei Azarov"]
+[Black "Sasha Kaplan"]
+[ECO "C89"]
+[WhiteElo "2571"]
+[BlackElo "2429"]
+[PlyCount "62"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. d4 Bd6 13. Re2 Qh4 14. g3 Qh3 15. Nd2 Bf5 16. Bc2 Bxc2
+17. Qxc2 f5 18. c4 Qg4 19. Re1 f4 20. f3 Qh5 21. g4 Qh4
+22. Re2 Ne3 23. Qb3 Kh8 24. c5 Bc7 25. Ne4 Nxg4 26. Qe6 Nxh2
+27. Rxh2 Qe1+ 28. Kg2 Qe2+ 29. Kg1 Qe1+ 30. Kg2 Qe2+ 31. Kg1
+Qe1+ 1/2-1/2
+
+[Event "European Individual Championships"]
+[Site "Dresden GER"]
+[Date "2007.04.13"]
+[EventDate "2007.04.03"]
+[Round "10"]
+[Result "1-0"]
+[White "Alexander Galkin"]
+[Black "Peter Heine Nielsen"]
+[ECO "C89"]
+[WhiteElo "2590"]
+[BlackElo "2649"]
+[PlyCount "108"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15. Re4 g5 16. Qf1 Qh5
+17. Nd2 f5 18. Bd1 Qh6 19. Re1 f4 20. Ne4 Bc7 21. Bd2 Bf5
+22. Nc5 Bd6 23. Bf3 Kh8 24. Nb7 Bb8 25. a4 Ra7 26. axb5 Rxb7
+27. Rxa6 fxg3 28. fxg3 Nf6 29. Bxc6 Bh3 30. Bg2 Bxg2 31. Qxg2
+Rxb5 32. b4 Qh5 33. Rf1 Nd7 34. Rxf8+ Nxf8 35. Rf6 Nd7 36. Rf1
+Qg6 37. Qf3 Kg7 38. Qe2 Rf5 39. Qe7+ Qf7 40. Qxf7+ Rxf7
+41. Bxg5 Nb6 42. Rxf7+ Kxf7 43. Kf2 Ke6 44. Ke2 Kd5 45. Kd3
+Nc4 46. Bf4 Bxf4 47. gxf4 Nb2+ 48. Kc2 Nc4 49. b5 h5 50. Kb3
+h4 51. Kb4 h3 52. f5 Nd6 53. f6 Ke6 54. b6 Kd5 1-0
