@@ -597,7 +597,7 @@ Bd3 $1 15... hxg5 (15... Rf6 $4 16. Qe8+ Rf8 17. Bh7+ $18) 16. Bxf5 Nxf5 17. g4
 $1 {Initiating the second wave of attack.} 17... Nd6 18. h4 $1 {
 A thematic advancement, including the rook into attack.} 18... Bd7 19. hxg5 {
 White is threatening 20.g6 followed by Qh8.} 19... Nc4 20. Bc3 d4 21. g6 $1 {
-The final blow.} 21... Kf8 22. Qh8+ Ke7 23. Qxg7+ ({Black resigned in view of} 
+The final blow.} 21... Kf8 22. Qh8+ Ke7 23. Qxg7+ ({Black resigned in view of}
 23. Qxg7+ 23... Kd8 (23... Kd6 24. Bxd4) 24. Rh8+ Kc7 25. Rxa8 {
 An impressive miniature!}) 1-0
 
@@ -685,10 +685,10 @@ Qg5+ Kf8 74. Qd8+ Kg7 75. Qf6+ {In view of 76.g5 Black resigned.} 1-0
 Bd7 16. O-O Kg7 (16... Nf5 17. Qc1 Raf8 18. a4 Nd6 19. Ng5 Rf6 20. Qa3 Nxd4 21.
 cxd4 Qxd2 22. Qxd6 Bc8 23. Bxc4 Qxg5 24. Bd3 Qf4 25. Qc5 25... b6 {
 -  Vehi Bach,V-Alvarez Ibarra,D/San Sebastian op 1994}) 17. Qc1 Ng8 18. Bf4
-Raf8 19. Bd6 Qxc3 20. a4 $1 $16 {1-0 Topalov,V-Jussupow,A/Dortmund 1997 (74) 
+Raf8 19. Bd6 Qxc3 20. a4 $1 $16 {1-0 Topalov,V-Jussupow,A/Dortmund 1997 (74)
  Black  aims at 15...e6-e5, keeping the tension between the d4 and c5 pawns.})
 15. O-O (15. Ng5 Rf6 16. f4 {fails here to} 16... cxd4) (15. Qe2 $4 {
-loses after} 15... c4) 15... e5 16. Ng5 Rf8 17. c4 ({The seemingly powerful} 
+loses after} 15... c4) 15... e5 16. Ng5 Rf8 17. c4 ({The seemingly powerful}
 17. Nxh7 {falls short after} 17... Kxh7 (17... e4 $5 18. Nxf8 exd3 19. Bh6 Nf5)
 18. Qh5+ Kg8 19. Bxg6 Nxg6 20. Qxg6+ Qg7) 17... exd4 18. Re1 (18. cxd5 {
 does not yield White anything in view of} 18... Ne5) 18... Bf5 19. cxd5 Nxd5 ({
@@ -1343,7 +1343,7 @@ Rf1 {Planning 24. Qh3 followed by g2-g4 and f4-f5.} 23... f5 24. Qh3 (24. exf6
 $2 24... Rxf6 { Rf8 would pass advantage to Black.}) 24... Rf7 25. g4 25...
 fxg4 {Otherwise White could play 256.g5, with a very dangerous attack.} 26.
 Bxg4 Nf5 27. Nxf5 exf5 28. Bf3 {Despite the extra pawn, Black is lost. He is
-entirely defenseless against the attack along the g-file.} 28... Rd8 ({Or} 
+entirely defenseless against the attack along the g-file.} 28... Rd8 ({Or}
 28... Nd8 29. Bd6 $18) 29. Re1 Qe6 (29... Re8 {fails to} 30. Qg2 { Pd5}) 30.
 Rg1 {Threatening 31.Rg6} 30... Ne7 31. Bxa7 Re8 32. Qg2 Qd7 33. Bb6 Qe6 34. Bc5
 Rd8 35. Bb4 $1 {Cutting a way back for the black bishop. Now White can
@@ -1420,7 +1420,7 @@ Rg5+ $1 43... Ka4 44. Rh5 Rf1 45. Rh8 Rf5 46. Ra8+ Kb5 47. Rb8+ Kc6 48. Rh8 Kd5
 [Source "ChessBase"]
 [SourceDate "1998.06.02"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Nh3 {  Nf4-h5 
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Nh3 {  Nf4-h5
 } (7. Qg4 $5 7... Ng6 8. h4 h5 9. Qd1 $1 9... Ba6 10. Bxa6 Nxa6 11. Bg5 $36 {
 Khalifman,A-Ehlvest,J/EST/1994/ (23)}) 7... Ng6 (7... Ba6 $6 8. Bxa6 Nxa6 9.
 Nf4 Ng6 10. Nh5 $1 $16 {ECO,Suetin}) 8. a4 (8. Nf4) (8. Bd3 Ba6 9. Bxa6 Nxa6
@@ -1874,7 +1874,7 @@ Deciding to take the other rook.Too dangerous was} (27... Nxa4 $6 28. Bxa4 Rc8
 32. bxc4 dxc4 (32... Nxc4 33. Nxc4 dxc4 34. Ba4 Rc8 35. Ba3 $16) 33. Ne4 Nd5
 34. Qf3 $16) 31. Nxb3 Bxf6 32. Nc5 $5 (32. Qxf6 $5 $44 {Gurevich,M} 32... Rg8
 33. Bg5 $44 (33. Ba3 Qd8 34. Qf4 34... g5 $132)) 32... Qd8 33. exf6 33... Nd7 {
-} (33... Qd6 $5 34. Bf4 (34. Ba3 $6 34... Nc4) 34... e5 35. Re1 $1 35... O-O-O
+} (33... Qd6 $5 34. Bf4 (34. Ba3 $6 34... Nc4) 34... e5 35. Re1 $1 35... O-O-O
 $1 (35... O-O 36. Bxe5 Nxe5 37. Rxe5 Rae8 38. Bxg6 $1 $16) 36. Qh3+ 36... Nd7
 $8 37. Bxe5 Ncxe5 38. Rxe5 Kb8 39. Nxd7+ Rxd7 40. Bb3 $14) 34. Nxe6 $1 (34. Ba4
 {Gurevich,M} 34... Rc8 35. Bxc6 Rxc6 36. Rxa7 Nxc5 37. Re7+ Kf8 38. Ba3 $1
@@ -1982,12 +1982,12 @@ Rxe7 37. f4 Kc6 38. Rd8 Kc5 39. Kb1 Nd4 40. Rf8 Kd5 41. f5 Kxe5 42. f6 Rd7 0-1
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 (6... Qa5 $5) (
 6... Qc7) 7. Qg4 Qc7 ({
-In der modernen Grossmeisterpraxis ist gegenwaertig (2004) die Fortsetzung} 
+In der modernen Grossmeisterpraxis ist gegenwaertig (2004) die Fortsetzung}
 7... O-O {populaerer.} 8. Bd3 $5 8... f5 (8... Nbc6 9. Qh5 Ng6 10. Nf3 10...
 Qc7 $13) 9. exf6 Rxf6 10. Bg5 Rf7) 8. Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4
 Bd7 12. Qd3 dxc3 13. Nxc3 a6 14. Rb1 Na5 15. h4 Nf5 16. Rh3 O-O-O 17. h5 Rg4 (
 17... Nc4 18. Rb4 Bc6 19. Ne2 Bb5 20. a4 Qc5 21. Ba3 Bc6 22. Qc3 Qa7 23. a5 $13
-{Hort,V-Nogueiras,J/ Biel 1988/  -  (43)}) 18. Nd1 $5 $146 ({Sehr stark ist} 
+{Hort,V-Nogueiras,J/ Biel 1988/  -  (43)}) 18. Nd1 $5 $146 ({Sehr stark ist}
 18. Qf3 $1 18... Rdg8 19. h6 $16) 18... Ba4 19. Qc3 Qxc3+ 20. Rxc3+ Nc4 21. Nb2
 Bc6 22. Nxc4 dxc4 23. Rxc4 23... Kd7 $1 $44 24. Rb3 Bxg2 25. Rd3+ Ke8 26. Rc7 (
 26. Rxd8+ Kxd8 27. Be2 27... Rh4 $44) 26... Bxf1 27. Kxf1 Rh4 28. Kg2 Rxd3 29.
@@ -2461,7 +2461,7 @@ Nxc2+ 21. Kd2 $18) 20. Qh5 (20. Nxf7 20... Nxd4 $1 21. Rd2 Nb3) 20... Ng6 (
 (22. Ng5 Nxc2+ 23. Bxc2 Re8 24. Qh7+ Kf8 25. Qh8+ Ke7 26. Qxg7+ Kd8) 22... Kf7
 23. Qh7 $40) 20. Be3 20... Bd7 21. Ng5 21... Nf8 {Black organized tough
 defence, but Judit found way to increase preasure on the black king} 22. f4 $1
-22... Na1 $6 {Knight moves too far.} ({It,s funny what white will do after} 
+22... Na1 $6 {Knight moves too far.} ({It,s funny what white will do after}
 22... Qa1 $1) 23. Rcg2 Qxc3+ 24. Kf2 24... g6 $2 {
 Decisive mistake, it was obligatory to sucrifice exchange} (24... Rxg5 $142 25.
 Rxg5 (25. fxg5 25... Nc2 $19) 25... g6 {with unclearconsequences.}) 25. Nxh7 $1
@@ -2713,7 +2713,7 @@ $11 { -  Wach,M-Kindermann,S/AUS-BL 1994 (34)}) 13. Nf3 (13. Ne2 Nc6 14. O-O c4
 Qxg6+ Kxg6 22. Rxe6+ Rxe6 23. f5+ Kf7 24. fxe6+ Kxe6 25. Nh5 25... Rg8 $11 {
 -  Almasi,Z-Farago,I/ch-HUN 1993 (32)}) (13. Qg3 13... Qa5 $5 14. Ne2 c4 15.
 Bg6 Nc6 16. f4 Bd7 17. O-O Be8 (17... Rf8 $5 18. Qe3 $1 18... Be8 19. Bxe8
-Rexe8 20. g4 $1 {  g3}) 18. Bxe8 (18. f5 $6 18... exf5 19. Nf4 19... Bxg6 $1
+Rexe8 20. g4 $1 {  g3}) 18. Bxe8 (18. f5 $6 18... exf5 19. Nf4 19... Bxg6 $1
 $15) 18... Raxe8 19. a4 $5 (19. Qg6 $1) 19... Qd8 $5 $11 {
 1-0 Gdanski,J-Farago,I/Haifa 48/407 1989 (41)}) 13... Nc6 ({
 Deserves attention and} 13... e5 $5 14. dxe5 Rxe5+ 15. Kd2 Qxh4 16. Nxh4 Nc6
@@ -2737,7 +2737,7 @@ Rf8 21. f4 Be8 22. Bc2 h5 23. f5 $14 { -  Koppe-Van Nevele/corr 1988 (53)}) (
 Queens exchanged is the best chance for white} (21. Bf7+ Kh7) (21. Qh4 Bb7 22.
 f4 22... Rf8 $13) 21... Bxd7 {From the first look Black has nothing to worry
 in ending, but Landa found nice way to keep initiative.} 22. h4 $1 22... Be8 (
-22... Kf8 23. h5 Ke7 24. f4 Rf8 25. Rf1) 23. h5 Bxg6 24. hxg6 {Hecht: '  
+22... Kf8 23. h5 Ke7 24. f4 Rf8 25. Rf1) 23. h5 Bxg6 24. hxg6 {Hecht: '
 klemmter schwarzer Koenig;  weisse Strategie: Durchsetzen von f5 unter
 Zentralisierung des Koenigs'} 24... Rf8 (24... Kf8 $142 {Hecht} 25. f4 (25. g4
 $5 25... Ke7 26. Kg2 Rf8 27. Kg3) 25... Ke7 26. g4 (26. Kf2 Rf8 27. Ke3 h5 28.
@@ -2747,7 +2747,7 @@ to push pawns on the king,s side and it is very difficult to prevent this
 simple and strong plan.} 25... h5 (25... Rf4 26. f3 $1 26... Kf8 27. g3 Rf5 28.
 f4 Ke7 29. g4 Rf8 30. Kg2) 26. f4 26... h4 (26... Rf5 {Hecht} 27. g3 Kf8 28.
 Kg2 Ke7 29. Kf3) 27. Kh2 Rf5 28. Kh3 Rh5 29. Kg4 Rh6 30. f5 $1 ({
-White doesn,t need unclear comlications , possible 
+White doesn,t need unclear comlications , possible
 after} 30. Kg5 30... h3
 31. g4 $5 31... h2 32. Rh1 Rh3 33. f5 $132) 30... exf5+ (30... Kf8 31. fxe6+
 Ke7 32. Rf7+ Kxe6 33. Rxg7 $18) 31. Kxf5 31... Kf8 $1 {
@@ -2807,7 +2807,7 @@ Bxd3 14. cxd3 axb6 15. Nf3 Qc5 16. O-O Rxa3 17. Rxa3 Qxa3 18. Rb1 18... Rb8 $11
 {0-1 Shaposhnikov,E-Rustemov,A/St.Petersburg Chigorin 1998 (36)}) 11... c4 12.
 Be2 f6 13. exf6 13... Rxf6 14. Ne5 Nxe5 15. Qxe5 Nc6 (15... Qa4 $5) 16. Qe3
 16... Qa4 {Queen is the best blocker, of course, but not in this case.} 17. Ra2
-Bd7 18. O-O Raf8 (18... Re8 $5) 19. g3 Be8 20. Bg4 Nd8 ({Deserves attention} 
+Bd7 18. O-O Raf8 (18... Re8 $5) 19. g3 Be8 20. Bg4 Nd8 ({Deserves attention}
 20... Bg6 $5 21. Bxe6+ Kh8 22. Bd7 $8 (22. Bxd5 22... Re8 $19) 22... Bxc2 $15 {
 with great position.}) 21. Qe2 21... Bg6 22. Bf4 22... Rxf4 $5 {Interesting,
 but not obligatory exchange sacrifice, black has nothing to worry and after
@@ -2988,7 +2988,7 @@ Qe7 {is very strong}) 28. Qf2 $6 ({It is not easy to believe, but after} 28. g4
 $6 28... Bxc2+ $1 29. Rxc2 Qd3+ 30. Rd2 (30. Kc1 $2 30... Qf1+ $1 (30... Nb3+
 31. Kb1 Qd1+ 32. Bc1 Nxc1 33. Rxc1 33... Qb3+ $11) 31. Kd2 (31. Kb2 31... Nb3)
 31... Nb3+ 32. Ke3 32... Qd3+ $19) 30... Qxc3 {
-Black has more then enough compensation for the rook!}) ({Deserves attention} 
+Black has more then enough compensation for the rook!}) ({Deserves attention}
 28. Bb4 {with big and unclear complications after} 28... Qxg2 (28... Nc6 29. g4
 ) 29. Bxa5 Qxf3+ 30. Kc1 (30. Ke1 $2 30... Bg4 $19) 30... Qf1+ 31. Kb2 Qe2 32.
 Qh1 (32. Kc1 $11) (32. Ka3 b6 33. Bb4 33... Qd1 $44) 32... b6 $1 33. Bb4 a5 34.
@@ -3187,7 +3187,7 @@ $19) 31... Rxf4 32. hxg6 Re4 33. Kd2 33... Qxg6 34. Qxa5 $6 34... Rxe3 $1 (
 [Source "ChessBase"]
 [SourceDate "2000.02.01"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. h4 {This move 
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. h4 {This move
 was a surprise for me-Nigel never used this active and dangerous continuation
 in his practice} 7... Nbc6 ({Just one round ago I played} 7... Qc7 $5) 8. h5
 Qa5 9. Bd2 Bd7 (9... cxd4 10. cxd4 10... Qa4 {
@@ -3217,7 +3217,7 @@ a4 20... Bg6 $17 {It is easy to see, that Black seize initiative} 21. Ra2 Rd7 (
 22. Bc1 Nc6 (22... Be4 $5 23. Bxe4 dxe4) 23. Ba3 23... Qxa4 {To be honest, I
 was sure in this moment, that game is over-Black have material and positional
 advantage, and Short had big problems with clock already.} (23... Be4) 24. Rh6
-$1 $138 {Best try, I waited} (24. Qb1 24... Qb3 $1 $19 (24... Nxe5 $5)) ({or} 
+$1 $138 {Best try, I waited} (24. Qb1 24... Qb3 $1 $19 (24... Nxe5 $5)) ({or}
 24. Bg4 24... Re8 (24... Nd8 $5)) 24... Qa5 (24... Rf7 25. Bg4 Nd8) (24... Bxc2
 $5 {was good alternative, for example} 25. Rxe6 25... Be4 $1 26. Bxe4 (26. Qe3
 Qb3 (26... Bxf3 $5 27. Qxf3 d4) 27. Ra1 Bd3+ 28. Kg1 28... Qxc3 $19) 26... dxe4
@@ -3342,7 +3342,7 @@ White loses time, this plan is not easy to meet.} 6... c6 7. Ba4 a5 8. a3 8...
 Bf8 {Some other games have continued 8...Bxc3 9 Bxc3 Ba6 10 Bd2 with the idea
 of c3, Ne2 and Bc2 retrieving the white-squared bishop from its offside
 position.} 9. Nce2 {After c3,Bc2,Nf3 and 0-0 White's development proceeds
-smoothly, he has  avoided the exchange of bishops and his centre is intact. 
+smoothly, he has  avoided the exchange of bishops and his centre is intact.
 Although Bb5-a4-c2 may appear to lose time Black has played ...Bb4-f8 which is
 just as bad.} 9... Ba6 (9... Ne7 10. Nf3 Na6 11. c3 Nc7 12. O-O Ba6 13. Bc2 a4
 14. Re1 Bb5 15. Ng3 (15. Nf4 g6 16. Ne2 h6 17. Bf4 17... c5 $13 {
@@ -3396,7 +3396,7 @@ c4 $1 $40 {1-0 Anand,V-Nikolic,P/Wch Groningen 1997/CBM 63 (35)}) 8... c4 {
 It is not to black favour to close position in the centre, but unfortunately
 this move is obligatory.} 9. h4 (9. Nf3 Ne7 10. g3 Nbc6 11. Bh3 Bd7 12. O-O
 O-O-O 13. Re1 h6 14. Bg2 g5 15. h4 g4 16. Nh2 h5 17. f3 gxf3 18. Nxf3 18... Nf5
-$132 {Milev,Z-Uhlmann,W, DDR 1954}) 9... f6 ({I would prefer in this position} 
+$132 {Milev,Z-Uhlmann,W, DDR 1954}) 9... f6 ({I would prefer in this position}
 9... Nc6 $5 10. h5 10... h6 {with unclear game for example} 11. Ne2 Nge7 12.
 Qc1 Bd7 13. g3 O-O-O 14. Bh3 Kb8 15. Be3 Ka8 16. Qd2 Rc8 17. g4 17... Nb8 $6
 18. Ng3 Rc6 19. O-O 19... Rb6 $13 {
@@ -4016,7 +4016,7 @@ Worth considering} 19... Be4 $5 20. Bb5+ 20... Kf7 $13 {with unclear game.})
 After correct} 26. Rxg6 $142 26... Bd5 27. Be3 Bxe6 28. Rgxe6 Rxe6 29. Rxe6
 Rxh4 30. c6 $16 {
 white's advantage is obvious and it will be not so easy for Black to save game.
-}) 26... Ra4 $6 ({I don,t think that White could get something real after} 
+}) 26... Ra4 $6 ({I don,t think that White could get something real after}
 26... Bc6 $1 $142 27. Rxc6+ (27. Bxd4 Rxe6+ 28. Re3 Rxe3+ 29. Bxe3 Nxb6 30.
 cxb6 30... Bxg2 $11) 27... bxc6 28. Bxd4 28... Rxe6+ {for example:} 29. Re3
 Rxe3+ 30. Bxe3 h5 31. Kd2 Nf8 32. Kc3 Ne6 33. g3 Kb7 34. a4 34... Ka6 $11) 27.
@@ -4441,7 +4441,7 @@ nice.}) 11. g3 ({Good question : where to put bishop.} 11. Be2 11... fxe5 12.
 Nxe5 Nf6 (12... Nxe5 13. dxe5 Ne7 14. Bh5+ $5 14... g6 15. Bg4 $14) 13. Bf4
 13... O-O $13 {leads to unclear position.}) 11... fxe5 12. dxe5 ({
 Black position is not bad after} 12. Nxe5 12... Nxe5 13. dxe5 Ne7 14. Bg2 O-O
-15. O-O 15... b6) 12... Nge7 13. Bg2 O-O 14. O-O Ng6 ({Worth considering and} 
+15. O-O 15... b6) 12... Nge7 13. Bg2 O-O 14. O-O Ng6 ({Worth considering and}
 14... b6 $5 {hope to bring on g6 bishop, but Ward has another idea in mind.})
 15. Re1 Rf5 16. g4 (16. Nd4 Rxe5 17. Be3 Nxd4 18. cxd4 Rf5) 16... Rxf3 $5 {
 Typical for french exchange sacrifice.} (16... Rf8 17. h4) 17. Bxf3 Ncxe5 18.
@@ -4501,7 +4501,7 @@ Ra6 bxc3 29. Bxc3 Nb5 30. Nxd5 Nxc3 31. Nxc3 (31. Qxc3 Nxd4 32. Ne7+ 32... Kf7
 $1 $19) 31... Qxd4+ 32. Kh1 Nb4 33. Ra5 33... Nxc2 $132) 27... axb4 (27... Nxd4
 28. bxa5 $14 28... Nf3+ 29. Bxf3 Rxf3 30. Rb1 $16) 28. Bxb4 Nxb4 29. axb4 29...
 Qxd4 $13 {After text Ponomariov easily got an advantage and with hard hand won
-game - opportunity seldom  knocks twice!} 30. c3 $14) 27. Ng4 {'!' Ftacnik. 
+game - opportunity seldom  knocks twice!} 30. c3 $14) 27. Ng4 {'!' Ftacnik.
 Ftacnik: 'Fine manouvering of white pieces has presented Ivanchuk with
 distinct positional problems due to the weakness of the e5 square.'} 27... Rf5
 (27... Ne4 28. Bxe4 (28. Qe3 $5 $36) (28. Rb1 $14 {Ftacnik}) 28... dxe4 29. Qe3
@@ -4805,7 +4805,7 @@ Kg2 Rxg1+ 35. Kxg1 Nf3+) 31... Qxf7 32. Rh1+ Kg7 33. Qxg5+ Qg6 0-1
 [SourceDate "2003.04.01"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
-Nbc6 9. Qh5 Ng6 10. Nf3 Qc7 11. Be3 11... c4 ({Sometimes Black tried also} 
+Nbc6 9. Qh5 Ng6 10. Nf3 Qc7 11. Be3 11... c4 ({Sometimes Black tried also}
 11... Nce7 {with possible continuation} 12. h4 $5 12... Bd7 13. Qg4 f5 14. Qh3
 f4 15. Bd2 Nf5 16. O-O c4 17. Be2 Ba4 18. Ra2 {
 1-0 Nataf,I-Pelletier,Y/Cap d'Agde Gp B 2002/ (85)}) 12. Bxg6 fxg6 13. Qg4 Qf7
@@ -4818,7 +4818,7 @@ Rf5 25. Rxh5 gxh5 26. Ne4+ 26... Kh8 $132 {
 0-1 Van den Doel,E-Psakhis,L/Bled ol 2002/CBM 92 (33)}) 17. Qe2 17... a5 $146 (
 {Improvment compare to} 17... Bd7 18. g4 b5 19. h5 a5 20. g5 $1 20... Rf5 21.
 gxh6 Rxh5 22. Kd2 gxh6 23. Rag1 $36 {
-with strong attack Lutz,C-Jussupow,A /Essen-A 
+with strong attack Lutz,C-Jussupow,A /Essen-A
 2002 /CBM 90/[Psakhis] (41)})
 18. g4 b5 19. h5 gxh5 ({Too dangerous for Black continue} 19... g5 20. f4 $1
 20... gxf4 21. Nxf4 Bd7 22. Rg1) 20. g5 $5 {Typical move} (20. gxh5 $13 {
@@ -5152,7 +5152,7 @@ Nxg6 19. Rxg6 Qf3) 18... Qf5 $15) 18. dxe5 18... Qh8 $5 19. Ng6 $8 19... Nxg6
 23... Rg8 (23... Qc8 $5) 24. Bd3 24... Ke6 $5 ({
 Another promising possibility was} 24... c4 $5 25. Bf1 25... Bf5) 25. a4 $5
 25... Bf5 26. a5 Rxg1 27. Rxg1 27... Qh7 $1 28. Be2 $6 {
-It is likely that this move makes life even harder for White.} ({Stronger was} 
+It is likely that this move makes life even harder for White.} ({Stronger was}
 28. axb6 $142 28... axb6 (28... Bxd3 29. bxa7 (29. cxd3 29... c4 $5 30. dxc4
 dxc4 31. Bd4 Qd3+ 32. Ke1 32... axb6 $17) 29... Qxa7 30. Kxd3 (30. cxd3 d4 31.
 cxd4 cxd4 32. Rg6+ Kf7 33. Rf6+ Ke7 34. Bf2 Qa2+ 35. Ke1 Qb1+ 36. Kd2 Qb2+ 37.
@@ -5184,7 +5184,7 @@ Black has both positional and material advantage, so the rest is pretty clear.}
 Qa4 $5) 8. Qg4 Kf8 9. a4 $1 9... Nbc6 (9... Qc7 10. Bd3 b6 11. Nf3 h6 12. h4
 Ba6 13. O-O Bxd3 14. cxd3 Nbc6 15. h5 15... Na5 $13 {
 -  Czakon,J-Szoen,D/POL t-ch2J Krynica 2001 (20)}) 10. h4 ({
-White employed a different plan in the game Short,N-Nikolic,P/London PCA 1994} 
+White employed a different plan in the game Short,N-Nikolic,P/London PCA 1994}
 10. Nf3 $5 10... Qb6 11. dxc5 $5 11... Qxc5 12. Bd3 h6 13. O-O Qb6 14. Rfe1 Bd7
 15. c4 Qc7 16. cxd5 exd5 17. Qf4 $16) 10... Qb6 11. Nf3 (11. dxc5 11... Qb2)
 11... cxd4 (11... Qb2 $5 $142 12. Rc1 12... c4 13. Qh5 $140 13... Qa3 14. Ng5
@@ -5195,7 +5195,7 @@ Nxd3 16. cxd3 Qxa4 (16... Nc6 17. Qg5 $5 17... Bd7 18. Qe3 18... Qxa4 $2 $140
 Bxc3 Qxc3+ 17. Kf1 (17. Ke2 $5) 17... Bd7 18. Rh3 h6 (18... Bxa4 19. Ng5 $1
 19... Bxc2 $2 $140 20. Qf4 $18) 19. Rg3 Rg8 (19... g6 20. h5 $1 20... g5 (20...
 Rg8 21. hxg6 $40) 21. Nxg5 hxg5 22. Qxg5 Ke8 (22... Rg8 23. Qh6+ Ke8 24. Rxg8+
-Nxg8 25. Qg7 Ne7 26. Qh8+ $18)) 20. Qf4 ({Another promising possibility was} 
+Nxg8 25. Qg7 Ne7 26. Qh8+ $18)) 20. Qf4 ({Another promising possibility was}
 20. Nd2 $5 20... Qc7 21. Ra1 $14 (21. Bh7 21... Nf5 $1)) 20... Nf5 $6 ({
 It is not easy to assess positions arising after} 20... Bxa4 $5 $132 $142) 21.
 Bxf5 21... exf5 22. e6 $5 {Entering complications which favor white} 22... Bxe6
@@ -5283,7 +5283,7 @@ Re1 {'la torre estaria estupendamente colocada en la tercera fila'} 31... Bd7
 y las negras fuerzan el cambio de damas}) 32... Rc8 33. Re3 Be8 34. Rg3 34...
 Bg6 {Too dangerous was to play} (34... g6) 35. h4 {Simple and strong move}
 35... Qb6 {'segun Illescas "una cagada"'} (35... h5 $5 36. Rxg6 $2 $140 36...
-Qb1+ $19) 36. Qa4 $1 {' 
+Qb1+ $19) 36. Qa4 $1 {'
 amenaza entrar en d7'} ({
 Obviously White has to keep the queens on the board} 36. Qxb6 $2 36... axb6 37.
 h5 Bf5 38. Rxg7+ 38... Kf8 $15 {y el peon c es muy fuerte}) 36... Qb7 ({
@@ -5360,7 +5360,7 @@ f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 Qa5 (12... Nbc6 13. Nf3 13...
 Qf8 $5 {much more popular, than move in the game.}) 13. Bd2 Nbc6 14. Nf3 14...
 Qc7 ({It is easy to recommend, knowing what happened in the game ,move
 
-} 
+}
 14... c4 {but and in this case after} 15. Be2 Nf5 16. O-O Nd6 17. Re1 Bd7 (
 17... Ne4 18. Bf1 Bd7 19. Rxe4 $1 19... dxe4 20. Ng5 $44) 18. Ng5 Re7 19. Bg4
 Rae8 20. h4 $36 {1-0 Huebner,R-Hammes,M/GER-ch Altenkirchen 2001/CBM 87 (35)
@@ -5534,7 +5534,7 @@ Bxg5 h6 15. Bc1 {white chances are better}) 11. Qf4 Nc6 (11... Qxc2 12. Bd3 Qb2
 13. Rb1 Qxa3 14. Nf3 $40 (14. Rg3 $5)) 12. Rg3 (12. Nf3 $5 12... c4 $140 13.
 exf6 gxf6 14. Ne5+ $1 14... Nxe5 15. dxe5 Qxc2 16. exf6 Nxf6 17. Bd3 $1 17...
 Qb2 $8 (17... cxd3 18. Rf3 $18) 18. Qc7+ Bd7 19. Rb1 Qxa3 20. Rf3 $40) 12...
-Nce7 ({the g8-knight has to defend the f6-pawn, as the following line shows:} 
+Nce7 ({the g8-knight has to defend the f6-pawn, as the following line shows:}
 12... Nge7 $6 13. Rxg7+ (13. Bd3 $5 13... f5 14. Nh3 $40) 13... Kxg7 14. exf6+
 Kf7 15. fxe7+ Kxe7 16. Qg5+ 16... Kf7 $8 17. Be2 $16) (12... cxd4 13. Nf3 Qxc2
 14. Bd3 $1 14... Qb2 15. Rb1 Qxa3 16. cxd4 $40) 13. Nf3 13... c4 {An optional
@@ -5856,7 +5856,7 @@ Shirov,A-Khalifman,A/Dos Hermanas-A 2003/CBM 95/[Psakhis]/ -  (44)}) 16... Rf7
 18. Ne5 $146 {Interesting novelty.} (18. Qh6 Qxf6 19. Qxf6 Rxf6 20. Ne5 Nxe5
 21. dxe5 Rf5 22. cxd3 Rxe5+ 23. Be3 Rh5 24. Rb1 Bc6 25. Bf4 25... e5 $17 {
 0-1 Sumets,A-Drozdovskij,Y/Odessa-ch 2000 (40)}) (18. cxd3 Qxf6 19. Qxf6 Rxf6
-20. Ne5 Nxe5 21. dxe5 21... Rf5 $11) 18... Nxe5 19. dxe5 19... dxc2 {Black has 
+20. Ne5 Nxe5 21. dxe5 21... Rf5 $11) 18... Nxe5 19. dxe5 19... dxc2 {Black has
 a small material advantage, but White retains many interesting tactical
 opportunities on the kingside.} 20. Be3 {A critical position of the variation,
 since it is the end of series of more or less forced moves.} (20. Qh6 Qf8 21.
@@ -6018,7 +6018,7 @@ Further casualties are unavoidable because of unstable position of White'sking.
 Qc7 $5 8. h5 h6 9. Nf3 9... b6 $13) 8. Bd2 Nbc6 9. h5 Bd7 ({In case of} 9...
 cxd4 10. cxd4 10... Qa4 {White could sacrifice a pawn -} 11. Nf3 Nxd4 12. Bd3
 Nec6 13. Kf1 Nxf3 14. Qxf3 b6 15. h6 {
-Kasparov,G-Anand,V/Linares 1992. with good compensation}) ({Worth considering} 
+Kasparov,G-Anand,V/Linares 1992. with good compensation}) ({Worth considering}
 9... h6 $5 {
 to stop White weakening the dark squares on the kingsize, for example:} 10. Nf3
 Bd7 11. a4 O-O-O 12. Qc1 12... f6 $13) 10. h6 10... gxh6 11. Nf3 11... Ng8 $5
@@ -6196,10 +6196,10 @@ Nf4 Ne7 18. Qe2 Bd7 19. g4 Ba4 20. Rh3 a5 21. Kf1 Ra6 22. Rb1 Bc6 23. Kg1 b5
 1-0 Tischbierek,R-Naumkin,I/Porto San Giorgo op 2003 (53)}) 17. Qe2 17... b5 ({
 Improvment compare to} 17... Bd7 18. g4 b5 19. h5 a5 20. g5 $1 20... Rf5 21.
 gxh6 Rxh5 22. Kd2 gxh6 23. Rag1 $36 {
-with strong attack Lutz,C-Jussupow,A /Essen-A 
+with strong attack Lutz,C-Jussupow,A /Essen-A
 2002 /CBM 90/[Psakhis] (41)})
 18. g4 a5 19. h5 19... g5 (19... gxh5 20. g5 $5 {Typical move} (20. gxh5 $13 {
-also worth considering}) 20... hxg5 $8 21. Nxg5 21... g6 22. Nh3 $1 ({Weaker} 
+also worth considering}) 20... hxg5 $8 21. Nxg5 21... g6 22. Nh3 $1 ({Weaker}
 22. Kd2 $6 22... Rf5 23. Rag1 b4 24. Rxh5 $5 {
 Looks great for White, but his opponent has good defense.} (24. axb4 axb4 25.
 cxb4 c3+ 26. Kxc3 26... Ra2 $40) 24... bxc3+ 25. Kd1 25... gxh5 $8 {Only move}
@@ -6646,7 +6646,7 @@ Qc7 23. g4 Ne7 24. Kd2 Qa5 25. Qg2 Kf8 26. Rag1 Bf7 27. Bf2 Qa4 28. gxh5 Nf5
 1-0 Kurnosov,I-Nilsson,A/Copenhagen PC 2005/The Week in Chess 559 (48)}) 17.
 Qe2 17... b5 ({This is an improvement, compare} 17... Bd7 18. g4 b5 19. h5 a5
 20. g5 $1 20... Rf5 21. gxh6 Rxh5 22. Kd2 gxh6 23. Rag1 $36 {
-with a strong attack Lutz,C-Jussupow,A /Essen-A 
+with a strong attack Lutz,C-Jussupow,A /Essen-A
 2002 /CBM 90/[Psakhis] (41)})
 18. g4 a5 19. h5 {Worth a consideration is} 19... g5 (19... gxh5 20. g5 $5 {
 A typical move} (20. gxh5 $13 {is also worth considering}) 20... hxg5 $8 21.
@@ -6733,7 +6733,7 @@ Qe8 (14... Qf5 $6 15. Qe2 Rd8 (15... Nxe5 16. dxe5 Qxe5 17. Qd2 Bd7 18. O-O h6
 16. g4 Qf8 17. f4 h6 18. Nf3 Bd7 19. a4 Rdb8 20. O-O b5 21. axb5 Rxb5 22. Bc1
 $14 {Arakhamia,K-Peng/Tilgurg ct w(7) 1994}) 15. h4 15... Bd7 $146 {This simple
 move has not occurred before but it possibly  can strengthen this line, where
-black had so many problems in modern practice.} ({Harikrishna tried few times} 
+black had so many problems in modern practice.} ({Harikrishna tried few times}
 15... Ne7 {but without big success.} 16. Qe2 Nf5 17. g4 (17. Bd2 h6 18. g4 Ne7
 19. Nh3 Bd7 20. Rg1 Qf7 21. Rg3 Kh8 22. Nf4 Qg8 23. Be3 Qh7 24. Qd2 Rf7 25. Ke2
 Raf8 26. Rh1 {
@@ -6747,7 +6747,7 @@ Possibly} 16... Bd7 $5 {
 is the best move, but any case it is much easy to play with white pieces} ({
 After} 16... Ne7 17. Qe2 17... b5 ({Improvment compare to} 17... Bd7 18. g4 b5
 19. h5 a5 20. g5 $1 20... Rf5 21. gxh6 Rxh5 22. Kd2 gxh6 23. Rag1 $36 {
-with strong attack Lutz,C-Jussupow,A /Essen-A 
+with strong attack Lutz,C-Jussupow,A /Essen-A
 2002 /CBM 90/[Psakhis] (41)})
 18. g4 a5 19. h5 {white's initiative is very dangerous, for example:} 19... g5
 (19... gxh5 20. g5 $5 {Typical move} (20. gxh5 $13 {also worth considering})
