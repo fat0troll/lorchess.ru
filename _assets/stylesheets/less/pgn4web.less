@@ -1,3 +1,10 @@
+@bootstrap-less-path: "../../vendor/bootstrap/less/";
+
+// Core variables and mixins
+@import "@{bootstrap-less-path}variables.less";
+@import "@{bootstrap-less-path}mixins.less";
+
+
 /* Enable the scrolling of chess board up to the page top */
 
 body, html { height: 100%; }
@@ -58,7 +65,10 @@ body, html { height: 100%; }
   span.move { width: 40px; }
   a.move { width: 50px; }
 }
-.moveOn, .variationOn { background-color: #ccc; }
+.moveOn, .variationOn {
+  color: #fff;
+  .bg-variant(@brand-primary);
+}
 
 
 /* Comment of a chess-game move */
