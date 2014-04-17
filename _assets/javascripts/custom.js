@@ -17,6 +17,12 @@ function customFunctionOnPgnGameLoad() {
 function customFunctionOnMove() {
   refreshButtonset();
 
+  /* Mark commented moves */
+  for (var Ply = 1; Ply <= PlyNumberVar[0]; Ply++) {
+    if (strippedMoveComment(Ply, 0, true))
+      $('#Var0Mv' + Ply).addClass('bg-info');
+  }
+
   /* Show move comment */
   if (CurrentVar == 0 && (theObj = document.getElementById("GameMoveComment"))) {
     theObj.innerHTML = '<span class="comment">' +
