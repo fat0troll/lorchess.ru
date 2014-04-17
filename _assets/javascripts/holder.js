@@ -1,1 +1,1 @@
-../vendor/bootstrap/docs-assets/js/holder.js
+../vendor/bootstrap/docs/assets/js/vendor/holder.js
