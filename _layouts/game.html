@@ -21,10 +21,6 @@ layout: default
 
     <div id="GameText"></div>
   </div>
-
-  <p></p>
-
-  <div id="GameMoveComment"></div>
 </div>
 
 <!-- pgn4web JavaScript -->
@@ -37,6 +33,6 @@ layout: default
  SetImagePath("/assets/img/chesspieces/wikipedia");
  SetImageType("png");
  SetGameSelectorOptions("Выбрать партию ...", false, 0, 0, 0, 15, 15, 0, 10); // (head, num, chEvent, chSite, chRound, chWhite, chBlack, chResult, chDate);
- SetCommentsIntoMoveText(false);
+ SetCommentsOnSeparateLines(true);
  SetShortcutKeysEnabled(true);
 </script>

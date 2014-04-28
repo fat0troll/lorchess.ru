@@ -39,41 +39,19 @@ body, html { height: 100%; }
 }
 
 
-/* PGN notation of chess game */
-
-@tableBorder: 1px solid #ddd;
+/* Game text */
 
 #GameText {
   position: absolute;
   top: 0;
   bottom: 0;
   left: @boardSize + 10px;
+  right: 0;
 
   display: block;
-  width: 170px;
   overflow-y: auto;
-}
-#ShowPgnText {
-  > * { float: left; }
-  > *:nth-child(-n+4) { border-top: @tableBorder; }
-  > *:nth-child(5n+1) { border-left: @tableBorder; }
-  .move {
-    border-bottom: @tableBorder;
-    border-right: @tableBorder;
-    text-align: center;
-  }
-  span.move { width: 40px; }
-  a.move { width: 50px; }
 }
 .moveOn, .variationOn {
   color: #fff;
   .bg-variant(@brand-primary);
-}
-
-
-/* Comment of a chess-game move */
-
-#GameMoveComment .comment:not(:first-child):before {
-  content: '\a';
-  white-space: pre;
 }
