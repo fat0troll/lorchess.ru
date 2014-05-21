@@ -1,6 +1,16 @@
 $(function() {
+  /* Convert score to numeric number for sorting */
+  $.tablesorter.addParser({
+    id: 'score',
+    format: function(s, table, cell, cellIndex) {
+      return s.replace(/½/,'.5');
+    },
+    type: 'numeric'
+  });
+
   /* Sort a tournament table with tablesorter */
-  $('.tablesorter .opponent').addClass('{sorter: false}');
+  $('.tablesorter th.score').data('sorter', false);
+  $('.tablesorter th.total').data('sorter', 'score');
   $('.tablesorter').tablesorter({
     theme       : 'blue',
     widgets     : ['zebra'],
