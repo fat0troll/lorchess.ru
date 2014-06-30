@@ -122,8 +122,6 @@ DEPENDENCIES
   guard-livereload
   jekyll (~> 2.1.0)
   jekyll-assets
-  kramdown
   less
-  pygments.rb
   therubyracer
   yui-compressor
