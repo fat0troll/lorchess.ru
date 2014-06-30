@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 1.4.3'
+gem 'jekyll', '~> 2.1.0'
 gem 'kramdown'
-gem 'pygments.rb', '~> 0.5.4'
+gem 'pygments.rb'
 gem 'jekyll-assets'
 gem 'less'
 gem 'therubyracer'
