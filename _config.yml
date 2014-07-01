@@ -2,13 +2,11 @@ url:       http://lorchess.ru
 title:     LORChess
 permalink: pretty
 
-source:      ./
-destination: ./public
+destination: public
 exclude:     ['Gemfile*', 'Guardfile', 'README*', 'vendor']
 keep_files:  ['.gitkeep']
 
 encoding: UTF-8
-markdown: kramdown
 gems:     ['jekyll-assets']
 
 #
