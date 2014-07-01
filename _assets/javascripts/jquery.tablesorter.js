@@ -1,1 +1,0 @@
-../vendor/tablesorter/js/jquery.tablesorter.js
