@@ -7,18 +7,6 @@ exclude:     ['assets/vendor', 'Gemfile*', 'Guardfile', 'README*', 'vendor']
 keep_files:  ['.gitkeep']
 
 encoding: UTF-8
-gems:     ['jekyll-assets']
 
 sass:
   style: :compressed
-
-#
-# Plugin: jekyll-assets
-#
-assets:
-  #
-  # Sets compressors. No compression by default.
-  #
-  compress:
-    js:  yui
-    css: yui
