@@ -3,7 +3,7 @@ title:     LORChess
 permalink: pretty
 
 destination: public
-exclude:     ['Gemfile*', 'Guardfile', 'README*', 'vendor']
+exclude:     ['assets/vendor', 'Gemfile*', 'Guardfile', 'README*', 'vendor']
 keep_files:  ['.gitkeep']
 
 encoding: UTF-8
