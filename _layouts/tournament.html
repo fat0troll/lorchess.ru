@@ -2,20 +2,21 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/assets/css/theme.blue.css">
+<link rel="stylesheet" href="/assets/css/table.custom.css">
+<link rel="stylesheet" href="/assets/css/tour-info.css">
+
 <div class="col-xs-12 col-sm-10 col-sm-offset-1">
   <h1>{{ page.title }}</h1>
   {{ content }}
 </div>
 
 <div class="col-xs-12">
-  <link rel="stylesheet" href="/assets/css/theme.blue.css">
-  <link rel="stylesheet" href="/assets/css/table.custom.css">
   {% assign table = page.url | remove_first: '/' | append: 'table.html' %}
   {% include {{table}} %}
 </div>
 
 <div class="col-xs-12">
-  <link rel="stylesheet" href="/assets/css/tour-info.css">
   {% assign tour-info = page.url | remove_first: '/' | append: 'tour-info.html' %}
   {% include {{tour-info}} %}
 </div>
