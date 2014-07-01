@@ -1,8 +1,12 @@
 ---
 ---
+
 <IfModule mod_rewrite.c>
   RewriteEngine On
 </IfModule>
 
-RewriteCond %{HTTP_HOST} ^site-lorchess.rhcloud.com$
-RewriteRule (.*)$ {{ site.url }}/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^site-lorchess\.rhcloud\.com$ [NC]
+RewriteRule ^(.*)$ {{ site.url }}/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
