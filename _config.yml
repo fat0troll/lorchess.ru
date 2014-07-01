@@ -9,6 +9,9 @@ keep_files:  ['.gitkeep']
 encoding: UTF-8
 gems:     ['jekyll-assets']
 
+sass:
+  style: :compressed
+
 #
 # Plugin: jekyll-assets
 #
