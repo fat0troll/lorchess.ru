@@ -1,3 +1,7 @@
+---
+---
+
+
 /* Enable the scrolling of chess board up to the page top */
 
 body, html { height: 100%; }
@@ -7,22 +11,22 @@ body, html { height: 100%; }
 
 /* Chess board */
 
-@squareSize: 56px;
-@boardBorderWidth: 4px;
-@boardSize: 8 * @squareSize + 2 * @boardBorderWidth;
+$squareSize: 56px;
+$boardBorderWidth: 4px;
+$boardSize: 8 * $squareSize + 2 * $boardBorderWidth;
 
 .boardTable {
-  width: @boardSize;
-  height: @boardSize;
-  border: @boardBorderWidth solid #663300;
+  width: $boardSize;
+  height: $boardSize;
+  border: $boardBorderWidth solid #663300;
 }
 .whiteSquare, .blackSquare {
-  width: @squareSize;
-  height: @squareSize;
+  width: $squareSize;
+  height: $squareSize;
 }
 .pieceImage {
-  height: @squareSize;
-  width: @squareSize;
+  height: $squareSize;
+  width: $squareSize;
 }
 .whiteSquare, .highlightWhiteSquare {
   background: #ffcc99;
@@ -38,7 +42,7 @@ body, html { height: 100%; }
   position: absolute;
   top: 0;
   bottom: 0;
-  left: @boardSize + 10px;
+  left: $boardSize + 10px;
   right: 0;
 
   display: block;
@@ -47,7 +51,7 @@ body, html { height: 100%; }
 .moveOn, .variationOn {
   color: #fff;
   background-color: #428bca;
-  a&:hover {
+  &:hover {
     background-color: darken(#428bca, 10%);
   }
 }
