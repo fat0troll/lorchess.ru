@@ -17,9 +17,9 @@
         <a href="#" class="dropdown-toggle" id="dropdownMenu" data-toggle="dropdown">Турниры <b class="caret"></b></a>
 
         <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-          {% capture last_year %}{{ site.data.tournaments | map: 'year' | last }}{% endcapture %}
+          {% assign last_year = site.data.tournaments | map: 'year' | last %}
           {% for entry in site.data.tournaments %}
-            {% capture year %}{{ entry.year }}{% endcapture %}
+            {% assign year = entry.year %}
             <li role="presentation" class="dropdown-header">{{ year }}-й год</li>
             {% for trn in entry.events %}
               <li role="presentation">
