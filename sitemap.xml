@@ -10,13 +10,12 @@
   {% assign exclude = ".htaccess sitemap.xml robots.txt" | split: " " %}
   {% for page in site.pages %}
     {% assign basename = page.url | split: "/" | last %}
-    {% if exclude contains basename %}
-    {% else %}
+    {% unless exclude contains basename %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
         <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
 
   {% for post in site.posts %}
