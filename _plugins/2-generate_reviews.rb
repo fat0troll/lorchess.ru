@@ -34,6 +34,15 @@ module Jekyll
 
     # Add a string containing the review entries
     def generate_content(site)
+      # Creates a hash mapping paths to tournaments
+      tournaments = site.data['tournaments']
+      path = tournaments.map do |entry|
+        entry['events'].map { |trn| entry['year'].to_s + "/" + trn['dir'].sub(/\/$/, '') }
+      end.flatten
+      trn = tournaments.map { |entry| entry['events'] }.flatten
+      @trn_hash = Hash[ path.zip(trn) ]
+
+      # Creates review entries
       site.posts.reverse_each do |post|
         review_entry(site, post) unless post.data['pgn'].nil?
       end
@@ -41,14 +50,14 @@ module Jekyll
 
     # Creates a review entry from the given post
     def review_entry(site, post)
-      # Creates the link to post
+      # Adds the link to post
       @buffer += "\n<p class=\"lead\" style=\"margin-bottom:0\">"
       @buffer += "<a href=\"#{site.baseurl}#{post.url}\">#{post.title}</a>"
       @buffer += "</p>\n"
 
       @buffer += "<dl class=\"dl-horizontal\">\n"
 
-      # Creates the date of post
+      # Adds the date of post
       post_date = localize(post.date, "%d %B %Y")
       @buffer += "<dt>Дата:</dt><dd>#{post_date}</dd>\n"
 
@@ -59,21 +68,12 @@ module Jekyll
         year, tournament, basename = pgn.split '/'
       end
 
-      # Finds the tournament that the game was played in
-      catch :trn_found do
-        site.data['tournaments'].each do |entry|
-          entry['events'].each do |trn|
-            # Remove the trailing slash from the tournament directory if needed
-            if entry['year'] == year.to_i && trn['dir'].sub(/\/$/, '') == tournament
-              trn_link = "<a href=\"" + trn['url'] + "\">" + trn['title'] + "</a>"
-              @buffer += "<dt>Турнир:</dt><dd>#{trn_link}</dd>\n"
-              throw :trn_found
-            end
-          end
-        end
-      end
+      # Adds the tournament of the game
+      trn = @trn_hash[ year + "/" + tournament ]
+      trn_link = "<a href=\"" + trn['url'] + "\">" + trn['title'] + "</a>"
+      @buffer += "<dt>Турнир:</dt><dd>#{trn_link}</dd>\n"
 
-      # Creates the game info
+      # Adds the game info
       white, black  = basename[11..-1].sub(/-with-comments\.pgn$/, '').split('-vs-')
       white_link    = "<a href=\"https://www.linux.org.ru/people/#{white}/profile\">#{white}</a>"
       black_link    = "<a href=\"https://www.linux.org.ru/people/#{black}/profile\">#{black}</a>"
