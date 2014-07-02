@@ -29,7 +29,7 @@ module Jekyll
 
     # Add the YAML header
     def generate_header
-      @buffer += "---\nlayout: page\n---\n"
+      @buffer += "---\nlayout: page\ntitle: Обзоры\n---\n"
     end
 
     # Add a string containing the review entries

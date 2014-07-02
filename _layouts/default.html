@@ -8,7 +8,11 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>{{ site.title }}</title>
+    {% if page.url == "/" %}
+      <title>{{ site.title }}</title>
+    {% else %}
+      <title>{{ page.title }} • {{ site.title }}</title>
+    {% endif %}
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
