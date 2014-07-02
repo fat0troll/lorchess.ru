@@ -4,6 +4,9 @@ module Jekyll
     safe true
     priority :low
 
+    # Russian locale
+    include I18nFilter
+
     # Generates the reviews file
     def generate(site)
       @buffer = ''
@@ -46,7 +49,7 @@ module Jekyll
       @buffer += "<dl class=\"dl-horizontal\">\n"
 
       # Creates the date of post
-      post_date = post.date.strftime("%d %B %Y")
+      post_date = localize(post.date, "%d %B %Y")
       @buffer += "<dt>Дата:</dt><dd>#{post_date}</dd>\n"
 
       pgn = post.data['pgn']
@@ -75,7 +78,7 @@ module Jekyll
       white_link    = "<a href=\"https://www.linux.org.ru/people/#{white}/profile\">#{white}</a>"
       black_link    = "<a href=\"https://www.linux.org.ru/people/#{black}/profile\">#{black}</a>"
       game_date_str = basename[0..9]
-      game_date     = Time.parse(game_date_str).strftime("%d %b %Y")
+      game_date     = localize(Time.parse(game_date_str), "%d %b %Y")
       @buffer += "<dt>Игра:</dt><dd>#{white_link} vs. #{black_link} (#{game_date})</dd>\n"
 
       @buffer += "</dl>\n"
