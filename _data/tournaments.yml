@@ -1,5 +1,29 @@
-- url:   2014/2-summertime/
-  title: Summertime
+- year: 2014
+  events:
 
-- url:   2014/1-tabiyas/
-  title: Табии
+    - title: Summertime
+      url:   https://www.linux.org.ru/forum/talks/10452081
+      dir:   2-summertime
+
+    - title: Табии
+      url:   https://www.linux.org.ru/forum/talks/10099832
+      dir:   1-tabiyas
+
+- year: 2013
+  events:
+
+    - title: Knockout!
+      url:   https://www.linux.org.ru/forum/talks/9840999
+      dir:   4-knockout
+
+    - title: Осень
+      url:   https://www.linux.org.ru/forum/talks/9539078
+      dir:   3-autumn
+
+    - title: Великолепная дюжина
+      url:   https://www.linux.org.ru/forum/talks/9088834
+      dir:   2-great12
+
+    - title: Первый турнир
+      url:   https://www.linux.org.ru/forum/talks/8799973
+      dir:   1-lorchess
