@@ -5,6 +5,7 @@ permalink: pretty
 destination: public
 exclude:     ['assets/vendor', 'Gemfile*', 'Guardfile', 'README*', 'vendor']
 keep_files:  ['.gitkeep']
+gems:        ['jekyll-press']
 
 encoding: UTF-8
 
