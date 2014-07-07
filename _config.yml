@@ -18,3 +18,9 @@ collections:
 
 sass:
   style: :compressed
+
+#
+# jekyll-press
+#
+jekyll-press:
+  exclude: ['.htaccess', 'robots.txt']
