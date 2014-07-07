@@ -38,16 +38,23 @@ $boardSize: 8 * $squareSize + 2 * $boardBorderWidth;
 
 /* Game text */
 
-#GameText {
+#GameText, #downloadPGN {
   position: absolute;
-  top: 0;
-  bottom: 0;
   left: $boardSize + 10px;
   right: 0;
+}
+#GameText {
+  top: 0;
+  bottom: 44px;
 
   display: block;
   overflow-y: auto;
 }
+#downloadPGN {
+  bottom: 0;
+  text-align: center;
+}
+
 .moveOn, .variationOn {
   color: #fff;
   background-color: #428bca;
