@@ -5,4 +5,8 @@
 # could be python, php, ruby, etc.
 
 cd $OPENSHIFT_REPO_DIR
+
+# Fix the problem of jekyll-press with non-English language
+export LANG=ru_RU.UTF-8
+
 bundle exec jekyll build
