@@ -8,5 +8,12 @@ keep_files:  ['.gitkeep']
 
 encoding: UTF-8
 
+# Collect SCSS files into a collection to suppress them from being
+# added to Jekyll::Page
+collections:
+  scss:
+    output:    true
+    permalink: /assets/css/:path.css
+
 sass:
   style: :compressed
