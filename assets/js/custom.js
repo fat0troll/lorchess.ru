@@ -30,17 +30,33 @@ $(function() {
   });
 })
 
-/* Stylize pgn4web elements by Bootstrap */
 function customFunctionOnPgnGameLoad() {
+  /* Stylize pgn4web elements by Bootstrap */
   $('#GameSelSelect').addClass('form-control');
   $('#autoplayButton').click(refreshButtonset);
 
   /* No titles for mouse wheel over the chess board */
   $('#GameBoard .pieceImage').removeAttr('title');
 }
+
 function customFunctionOnMove() {
   refreshButtonset();
+
+  /* Scroll the game text to the current move */
+  var $gameText = $('#GameText');
+  var $moveOn = $gameText.find('.moveOn:first');
+  var gtHeight = $gameText.height();
+  if ($moveOn.length) {
+    var height = $moveOn.height();
+    var y = $moveOn.position().top;
+    if (y < height * 5) {
+      $gameText.scrollTop($gameText.scrollTop() + y - height * 5);
+    } else if (y > (gtHeight - height * 6)) {
+      $gameText.scrollTop($gameText.scrollTop() + y + height * 6 - gtHeight);
+    }
+  }
 }
+
 function refreshButtonset() {
   $('#GameButtons input').addClass('btn btn-default');
 }
