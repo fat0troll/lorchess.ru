@@ -1,6 +1,10 @@
 - year: 2014
   events:
 
+    - title: Опавшие листья
+      url:   https://www.linux.org.ru/forum/talks/10803647
+      dir:   3-fallenleaves
+
     - title: Summertime
       url:   https://www.linux.org.ru/forum/talks/10452081
       dir:   2-summertime
