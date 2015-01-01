@@ -5,6 +5,10 @@
 /* Tournament table */
 
 table.tournament {
+  caption, tbody > tr > .name {
+    font-weight: bold;
+  }
+
   thead > tr > th, thead > tr > td,
   tfoot > tr > th, tfoot > tr > td,
   tbody > tr > th, tbody > tr > td {
