@@ -3,14 +3,17 @@ $(function() {
   $.tablesorter.addParser({
     id: 'score',
     format: function(s, table, cell, cellIndex) {
+      return s.replace(/¼/,'.25');
       return s.replace(/½/,'.5');
+      return s.replace(/¾/,'.75');
     },
     type: 'numeric'
   });
 
   /* Sort a tournament table with tablesorter */
   $('.tablesorter th.score').data('sorter', false);
-  $('.tablesorter th.total').data('sorter', 'score');
+  $('.tablesorter th.points').data('sorter', 'score');
+  $('.tablesorter th.berger').data('sorter', 'score');
   $('.tablesorter').tablesorter({
     theme       : 'blue',
     widgets     : ['zebra'],
