@@ -11,7 +11,7 @@ $(function() {
   });
 
   /* Sort a tournament table with tablesorter */
-  $('.tablesorter th.score').data('sorter', false);
+  $('.tablesorter th.result').data('sorter', false);
   $('.tablesorter th.points').data('sorter', 'score');
   $('.tablesorter th.berger').data('sorter', 'score');
   $('.tablesorter').tablesorter({
