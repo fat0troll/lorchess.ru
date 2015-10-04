@@ -1,3 +1,10 @@
+- year: 2015
+  events:
+
+    - title: Возвращение королей
+      url:   https://www.linux.org.ru/forum/talks/11991020
+      dir:   1-kings
+
 - year: 2014
   events:
 
