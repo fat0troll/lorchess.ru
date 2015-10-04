@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 2.4.0'
+gem 'jekyll', '~> 2.5'
 gem 'therubyracer'
 gem 'i18n'
 gem 'jekyll-press'
