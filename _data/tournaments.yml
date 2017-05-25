@@ -1,3 +1,10 @@
+- year: 2017
+  events:
+
+    - title: Возрождение
+      url:   https://www.linux.org.ru/forum/talks/13393786
+      dir:   1-rebirth
+
 - year: 2015
   events:
 
