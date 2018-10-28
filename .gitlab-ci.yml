@@ -12,6 +12,7 @@ before_script:
 build site:
   stage: build
   script:
+  - ls ./
   - bundle exec jekyll build -d public
   artifacts:
     expire_in: 1 month
