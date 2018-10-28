@@ -4,8 +4,7 @@ module Jekyll
     safe true
     priority :low
 
-    # Russian locale
-    include Jekyll::I18nFilter
+    include I18nFilter
 
     # Generates the reviews file
     def generate(site)
