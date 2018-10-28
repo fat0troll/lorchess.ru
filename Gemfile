@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 2.5'
+gem 'jekyll', '3.8.4'
 gem 'therubyracer'
 gem 'i18n'
-gem 'jekyll-press'
+gem "jekyll-assets", group: :jekyll_plugins
 
 group :development do
   # Automatically reload your browser when 'view' files are modified

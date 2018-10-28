@@ -43,7 +43,7 @@ module Jekyll
       @trn_hash = Hash[ path.zip(trn) ]
 
       # Creates review entries
-      site.posts.reverse_each do |post|
+      site.posts.docs.reverse_each do |post|
         review_entry(site, post) unless post.data['pgn'].nil?
       end
     end
@@ -52,7 +52,7 @@ module Jekyll
     def review_entry(site, post)
       # Adds the link to post
       @buffer += "\n<p class=\"lead\" style=\"margin-bottom:0\">"
-      @buffer += "<a href=\"#{site.baseurl}#{post.url}\">#{post.title}</a>"
+      @buffer += "<a href=\"#{site.baseurl}#{post.url}\">#{post.data["title"]}</a>"
       @buffer += "</p>\n"
 
       @buffer += "<dl class=\"dl-horizontal\">\n"
