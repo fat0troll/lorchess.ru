@@ -5,6 +5,8 @@ variables:
   LC_ALL: en_US.UTF-8
 
 before_script:
+  - apk add --no-cache g++ musl-dev make
+  - apk add --no-cache libstdc++
   - bundle install --path=vendor/
 
 build site:
