@@ -1,0 +1,30 @@
+kind: pipeline
+type: docker
+name: publish
+
+steps:
+- name: build
+  image: ruby:2.5-alpine
+  commands:
+    - apk add --no-cache g++ musl-dev make
+    - apk add --no-cache libstdc++
+    - bundle install --path=vendor/
+    - bundle exec jekyll build -d lorchess.ru
+- name: publish
+  image: appleboy/drone-scp
+  settings:
+    host:
+      from_secret: web_host
+    username:
+      from_secret: ssh_user
+    password:
+      from_secret: ssh_password
+    target:
+      from_secret: web_target
+    rm: true
+    strip_components: 1
+    source:
+      - lorchess.ru/*
+trigger:
+  branch:
+    - master
